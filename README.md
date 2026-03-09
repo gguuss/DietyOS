@@ -217,6 +217,7 @@ Insights on people who are on the spectrum that once you internally understand w
 * Apologizing and acknowledging when you are wrong, saying “you are right” is very powerful
 * Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
 * Understand whether your partner likes to be surprised or not and do what they like
+* Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 
 # Powerful affirmations
 * You are enough
