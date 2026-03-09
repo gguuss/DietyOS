@@ -1,7 +1,7 @@
 # DietyOS
 This is a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships.
 
-Insights on people who are on the spectrum:
+Insights on people who are on the spectrum that once you internally understand will help you foster relationships:
 
 # Behavior patterns
 * Making lists and hierarchies and really enjoying it
@@ -10,7 +10,7 @@ Insights on people who are on the spectrum:
 * Need for things to be in the place where they are expected
 * Having expectations met or not (e.g. liking surprises or not liking to be surprised)
 * Sensitivities to certain types of sounds (misophonia) and movement (kinesophonia)
-* Exceptional taste in art and food / strongly polarized interests in platforms, food, etc
+* Exceptional / refined taste in art and food / strongly polarized interests in platforms, food, etc
 * Appreciation for people having good taste
 * Special interests / hyper-fixation on specific things and repetitive tasks
 * People on the spectrum want to be around similar people
@@ -68,7 +68,7 @@ Insights on people who are on the spectrum:
   * The art of seduction
   * The 33 strategies of war
   * Mastery
-
+* How to win friends and influence people
 * Don’t text your ex happy birthday
 * Non-violent communication
 * Games people play / other social dynamics books
