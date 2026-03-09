@@ -29,7 +29,7 @@ This program / thought process consists of insights on people who are on the spe
 # Odd side effects of being on the spectrum
 * Hyper fixation on certain genetic traits, e.g. fetishes
 * Very super horny, very amazing sex drive
-* Athletically gifted and able to use mind for awesome power like healing, feats of strength, feats of endurance, fighting, getting into incredible shape (it’s real, your mind is very powerful)
+* Athletically gifted and able to use mind for awesome power like healing, feats of strength, feats of endurance, fighting, getting into incredible shape, againg gracefully (looking young for your age) (it’s real, your mind is very powerful)
 
 # Odd phenomena of being on the spectrum
 * We were in special programs (gifted and talented) and don’t realize it’s not normal
