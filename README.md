@@ -134,6 +134,7 @@ This program / thought process consists of insights on people who are on the spe
 * Romance books
 * Nexus Trilogy
 * The star wars books
+* Ender's Game / Ender's Shadow
 
 # Philosophical resources
 * The Tao of Pooh
@@ -217,6 +218,8 @@ This program / thought process consists of insights on people who are on the spe
 * The Matrix
 * The X Files
 * I Heart Huckabees
+* Ready Player One
+* 
 
 # Children's programming
 * 3-2-1 Contact
