@@ -61,7 +61,6 @@ Insights on people who are on the spectrum:
 # Powerful tool for combating paranoia
 * Pronoia – Playing a game where you pretend that everything
 
-
 # Reading resources for understanding attraction, social dynamics, and dominance:
 * The book “Fascinate”
 * Robert Green
@@ -83,7 +82,6 @@ Insights on people who are on the spectrum:
 * Aging Well
 
 # Reading resources for puzzles, scifi, and conspiracy relevant interests:
-
 * The illuminatus Trilogy
 * Look into the Pythagoreans and related lore
 * Dan Brown Books
@@ -104,11 +102,9 @@ Insights on people who are on the spectrum:
 * Use your own body as a tapestry, what you think looks good looks good
 
 # Keyword for attraction:
-
 * Sapiosexual
 
 # Key interests:
-
 * Astronomy
 * Astrology
 * Board Games
