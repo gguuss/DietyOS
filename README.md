@@ -62,7 +62,7 @@ Insights on people who are on the spectrum that once you internally understand w
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
 
 # The Spookiest thing to look out for
-* Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
+* Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real and then capture the ghost and put it away. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
   * Schizophrenia is a virus, a schizophrenic person will make non-schizophrenics believe that they are the ones who have the problem. You must play the game of gathering facts and evaluating them from different sources of truth. You must also isolate variables with systems when you encounter situations where actors may be trying to coerce each other.
 * Self-diagnosis brings in biases from yourself that can taint the truth of what you are trying to find out.
 * Paranoia - overthinking and looking into the complicated behaviors of other smart people
