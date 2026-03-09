@@ -188,23 +188,25 @@ This program / thought process consists of insights on people who are on the spe
 * Twilight Imperium
 
 # Specific coded movies and shows:
+* Charlie Brown / Peanuts
+* Gen V
+* Ghost busters
+* Harry Potter
+* House
+* Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
+* Limitless
+* Marvel movies
+* Sense8
 * Stanley Kubrick films
   * A clockwork orange
   * Full Metal Jacket
-* Limitless
 * Star Wars
-* Harry Potter
-* The Lord of the Rings
-* Sense8
-* The Matrix
-* Gen V
-* Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
-* The X Files
-* Ghost busters
-* Marvel movies
-* House
+* The Big Lebowski
 * The men who stare at goats
-* Charlie Brown / Peanuts
+* The Lord of the Rings
+* The Matrix
+* The X Files
+
 
 # Specific places that are spectrum coded / travel interests:
 * Germany
@@ -234,23 +236,25 @@ This program / thought process consists of insights on people who are on the spe
 * Disney / Marvel content and movies
 
 # Useful tools and adages for maintaining and fostering relationships and happiness:
-* Therapy / both individual and couples therapy
-* Creating lists / sharing and collaborating on group activities
-* Setting and maintaining boundaries where and when appropriate
-* “Safe spaces” allowing for communication without judgement (read non-violent communication)
-* Avoiding yelling or other forms of violent coercion that can cause your partner to “shut down”
-* Finding ways to collaborate and evaluate during conflict instead of fighting
-* Letting things go – sometimes it feels better to just forget and forgive than to seek justice
 * Apologizing and acknowledging when you are wrong, saying “you are right” is very powerful
-* Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
-* Understand whether your partner likes to be surprised or not and do what they like
-* Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 * Ascertain what people want and give them what they want instead of what you think they want
+  * People like when other people give them what they want / need
+* Avoiding yelling or other forms of violent coercion that can cause your partner to “shut down”
+* Comparison is the thief of joy.
+* Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
+* Creating lists / sharing and collaborating on group activities
+* Finding ways to collaborate and evaluate during conflict instead of fighting
 * Golden rules
   * Do unto others as you would want done to you.
   * If everybody did this would it be sustainable?
   * Be neither a borrower nor a lender.
-* Comparison is the thief of joy.
+* Letting things go – sometimes it feels better to just forget and forgive than to seek justice
+* “Safe spaces” allowing for communication without judgement (read non-violent communication)
+* Setting and maintaining boundaries where and when appropriate
+* Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
+* Therapy / both individual and couples therapy
+* Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
+* Understand whether your partner likes to be surprised or not and do what they like
 
 # Powerful affirmations
 * You are enough
