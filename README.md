@@ -1,7 +1,7 @@
 # DietyOS
 This is the foundation for a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships.
 
-This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood.
+This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood. The more aware of yourself and the patterns that you have, the better you will be able to understand them and respond in the best way to what you are feeling and what is going on in your mind. Additionally, understanding these patterns and behaviors will allow you to manage your mental health problems that you are creating for yourself through confusion in understanding the patterns and thought processes.
 
 # Behavior patterns
 * A certain clicking sensation when communicating with similar people
