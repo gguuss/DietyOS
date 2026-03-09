@@ -60,6 +60,8 @@ Insights on people who are on the spectrum that once you internally understand w
   * Retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
 * Spiraling – Thinking about the same thing over and over and over and over and over
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
+* Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
+  * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
 
 # The Spookiest thing to look out for
 * Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real and then capture the ghost and put it away. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
