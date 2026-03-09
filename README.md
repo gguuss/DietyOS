@@ -65,6 +65,7 @@ This program / thought process consists of insights on people who are on the spe
   * Retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
 * Spiraling – Thinking about the same thing over and over and over and over and over
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
+* Stealing other people's ideas - it's important to give credit where credit is due and acknowledge that we are "standing on the shoulders of giants" when building new things
 * Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky.
   * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
   * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
@@ -130,6 +131,10 @@ This program / thought process consists of insights on people who are on the spe
 * Romance books
 * Nexus Trilogy
 * The star wars books
+
+# Philosophical resources
+* The Tao of Pooh
+* Mortimer Adler - 6 great ideas
 
 # Reading / training resources for getting into shape and attracting people like us:
 * Buy a scale – you can’t change what you don’t measure
@@ -209,6 +214,11 @@ This program / thought process consists of insights on people who are on the spe
 * The Matrix
 * The X Files
 
+# Children's programming
+* 3-2-1 Contact
+* Blue's clues
+* Sesame street
+
 # Specific places that are spectrum coded / travel interests:
 * China
 * France
@@ -255,6 +265,7 @@ This program / thought process consists of insights on people who are on the spe
 * “Safe spaces” allowing for communication without judgement (read non-violent communication)
 * Setting and maintaining boundaries where and when appropriate
 * Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
+* Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
 * Therapy / both individual and couples therapy
 * Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 * Understand whether your partner likes to be surprised or not and do what they like
