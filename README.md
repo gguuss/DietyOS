@@ -78,7 +78,7 @@ Insights on people who are on the spectrum that once you internally understand w
 * Shakesphere
 * The Highly Sensitive Person
 * Jungian Psychology
-* DSM-5
+* DSM manuals
 * Training Dogs
 * Aging Well
 
@@ -208,3 +208,5 @@ Insights on people who are on the spectrum that once you internally understand w
 * Life is rad
 * Let's goooooo
 * You are smart
+* I love you
+* I love myself
