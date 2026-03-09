@@ -51,7 +51,8 @@ This program / thought process consists of insights on people who are on the spe
 * Conspiracies and paranoia – there are some conspiracies that could be true but if you go too far off the deep end, you can become a bit crazy and will definitely give other people the impression that you are crazy
   * Behind all the conspiracies is some degree of truth through metaphor about yourself and how you think. Always ask "what is the lesson" when you are observing these phenomena.
 * Depression – focusing too much on the past
-* 
+* Employers taking advantage of you
+  * Neuraldivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appopriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
 * Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky.
   * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
   * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
