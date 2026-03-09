@@ -50,8 +50,11 @@ This program / thought process consists of insights on people who are on the spe
 * Conspiracies and paranoia – there are some conspiracies that could be true but if you go too far off the deep end, you can become a bit crazy and will definitely give other people the impression that you are crazy
   * Behind all the conspiracies is some degree of truth through metaphor about yourself and how you think. Always ask "what is the lesson" when you are observing these phenomena.
 * Depression – focusing too much on the past
+* 
 * Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky.
   * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
+  * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
+  * Weed can make you paranoid and encourages doom piling.
 * Projection – taking something that you don’t feel good about within yourself and attributing it to others
 * Rage / passive aggressive behaviors
   * Throwing things into people’s rooms / intentionally creating drama and problems
@@ -209,7 +212,7 @@ This program / thought process consists of insights on people who are on the spe
 * Love on the spectrum
 * Disney / Marvel content and movies
 
-# Useful tools for maintaining and fostering relationships:
+# Useful tools and adages for maintaining and fostering relationships and happiness:
 * Therapy / both individual and couples therapy
 * Creating lists / sharing and collaborating on group activities
 * Setting and maintaining boundaries where and when appropriate
@@ -225,6 +228,8 @@ This program / thought process consists of insights on people who are on the spe
 * Golden rules
   * Do unto others as you would want done to you.
   * If everybody did this would it be sustainable?
+  * Be neither a borrower nor a lender.
+* Comparison is the thief of joy.
 
 # Powerful affirmations
 * You are enough
