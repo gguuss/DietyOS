@@ -55,11 +55,16 @@ Insights on people who are on the spectrum that once you internally understand w
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
 
 # The Spookiest thing to look out for
-* Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then
-* Paranoia - overthinking and looking into the behavior of other smart people
+* Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
+* Paranoia - overthinking and looking into the complicated behaviors of other smart people
 
-# Powerful tool for combating paranoia
+# Powerful tools
 * Pronoia – Playing a game where you pretend that everything
+* Playing games - turning things into games transforms them from being frustrating to being fun
+  * Threading the needle - geeting as close to some objective as possible
+  * Losing things and finding them - a game that you can playn with yourself or with friends
+* Reframing - taking something that makes you feel bad and using your mind to turn it into something good
+  * Imagine an embarassing moment in your mind and replace the embarassing thing happening with you as Bart Simpson
 
 # Reading resources for understanding attraction, social dynamics, and dominance:
 * The book “Fascinate”
