@@ -249,6 +249,16 @@ This program / thought process consists of insights on people who are on the spe
 * Love on the spectrum
 * Disney / Marvel content and movies
 
+# Listening resources
+* Amon Tobin
+* Classical music
+* Jazz
+* Led Zeppelin
+* Mr. Bill
+* Pink Floyd
+* Rob Couth
+* Tipper
+
 # Useful tools and adages for maintaining and fostering relationships and happiness:
 * Apologizing and acknowledging when you are wrong, saying “you are right” is very powerful
 * Ascertain what people want and give them what they want instead of what you think they want
