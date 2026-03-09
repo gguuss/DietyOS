@@ -47,10 +47,10 @@ Insights on people who are on the spectrum:
 * Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky
 * Projection – taking something that you don’t feel good about within yourself and attributing it to others
 * Rage / passive aggressive behaviors
-** Throwing things into people’s rooms / intentionally creating drama and problems
-** Raising your voice when angry
-** Punishing your partner through withdrawal / becoming non-communicative
-* Retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
+  * Throwing things into people’s rooms / intentionally creating drama and problems
+  * Raising your voice when angry
+  * Punishing your partner through withdrawal / becoming non-communicative
+  * Retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
 * Spiraling – Thinking about the same thing over and over and over and over and over
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
 
@@ -64,10 +64,11 @@ Insights on people who are on the spectrum:
 # Reading resources for understanding attraction, social dynamics, and dominance:
 * The book “Fascinate”
 * Robert Green
-** The 48 laws of power – aka the 48 laws of being an asshole
-** The art of seduction
-** The 33 strategies of war
-** Mastery
+  * The 48 laws of power – aka the 48 laws of being an asshole
+  * The art of seduction
+  * The 33 strategies of war
+  * Mastery
+
 * Don’t text your ex happy birthday
 * Non-violent communication
 * Games people play / other social dynamics books
@@ -85,7 +86,7 @@ Insights on people who are on the spectrum:
 * The illuminatus Trilogy
 * Look into the Pythagoreans and related lore
 * Dan Brown Books
-** The Secret of Secrets
+  * The Secret of Secrets
 * Daniel Suarez books
 * Ray Kurzweil books
 * Star Wars books
@@ -135,11 +136,11 @@ Insights on people who are on the spectrum:
 * Computer programming
 * Cooking
 * Elon Musk / Donald Trump
-** Or in general, political interests
-**Being strongly on either side should indicate an attraction to or rejection of the relative philosophies here
+  * Or in general, political interests
+  * Being strongly on either side should indicate an attraction to or rejection of the relative philosophies here
 * Food
-**Sushi
-**Ramen
+  * Sushi
+  * Ramen
 * Festivals and conferences – e.g. Renn Faire, Defcon, Comicon, Burning Man
 * Gadgets
 * Apple vs Android
@@ -201,3 +202,9 @@ Insights on people who are on the spectrum:
 * Apologizing and acknowledging when you are wrong, saying “you are right” is very powerful
 * Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
 * Understand whether your partner likes to be surprised or not and do what they like
+
+# Powerful affirmations
+* You are enough
+* Life is rad
+* Let's goooooo
+* You are smart
