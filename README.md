@@ -20,6 +20,9 @@ Insights on people who are on the spectrum that once you internally understand w
 * We are bored by normal people (NPCs)
 * We cluster and create groups of similar people and are very happy in our groups
 * We form cliques and have meetings of the minds (Friendsgiving, Garden Parties)
+* Despite having a lot of mental capacity and skills, we frequently struggle with learning because we process information differently and suffer from the following issues.
+  * Overthinking - when information is incomplete, we struggle to trust it, it is essential when training neurodivergent people to tell them *why* you must do something, and use words like because to help them solidify the rationale of the information.
+  * Needing to have a depth-first approach to information, we can't just trust the top level information in the hierarchies of knowledge.
 
 # Odd side effects of being on the spectrum
 * Hyper fixation on certain genetic traits, e.g. fetishes
@@ -60,7 +63,7 @@ Insights on people who are on the spectrum that once you internally understand w
 
 # The Spookiest thing to look out for
 * Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
-  * Schizophrenia is a virus, a schizophrenic person will make non-schizophrenics believe that they are the ones who have the problem. You must play the game of gathering facts and evaluating them from different sources of truth.
+  * Schizophrenia is a virus, a schizophrenic person will make non-schizophrenics believe that they are the ones who have the problem. You must play the game of gathering facts and evaluating them from different sources of truth. You must also isolate variables with systems when you encounter situations where actors may be trying to coerce each other.
 * Self-diagnosis brings in biases from yourself that can taint the truth of what you are trying to find out.
 * Paranoia - overthinking and looking into the complicated behaviors of other smart people
 
