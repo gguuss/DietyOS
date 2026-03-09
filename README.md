@@ -51,13 +51,12 @@ This program / thought process consists of insights on people who are on the spe
   * We must watch out for and eliminate coercive behavior in our relationships in order to establish and maintain trust
 * Conspiracies and paranoia – there are some conspiracies that could be true but if you go too far off the deep end, you can become a bit crazy and will definitely give other people the impression that you are crazy
   * Behind all the conspiracies is some degree of truth through metaphor about yourself and how you think. Always ask "what is the lesson" when you are observing these phenomena.
+* Crime - Because we are smarter than most people, we feel that we can get away with shit and do heists, etc, because we are so smart and clever. Don't do crime, even if you get away with it, it is bad.
 * Depression – focusing too much on the past
 * Employers taking advantage of you
   * Neuraldivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appopriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
-* Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky.
-  * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
-  * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
-  * Weed can make you paranoid and encourages doom piling.
+* Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
+  * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
 * Projection – taking something that you don’t feel good about within yourself and attributing it to others
 * Rage / passive aggressive behaviors
   * Throwing things into people’s rooms / intentionally creating drama and problems
@@ -66,8 +65,10 @@ This program / thought process consists of insights on people who are on the spe
   * Retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
 * Spiraling – Thinking about the same thing over and over and over and over and over
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
-* Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
-  * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
+* Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky.
+  * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
+  * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
+  * Weed can make you paranoid and encourages doom piling.
 
 # The Spookiest thing to look out for
 * Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real and then capture the ghost and put it away. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
@@ -208,11 +209,12 @@ This program / thought process consists of insights on people who are on the spe
 * The Matrix
 * The X Files
 
-
 # Specific places that are spectrum coded / travel interests:
+* China
+* France
 * Germany
 * Japan
-* France
+* Korea
 * New Zealand
 * Russia
 
