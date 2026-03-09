@@ -101,6 +101,10 @@ This program / thought process consists of insights on people who are on the spe
 * The Highly Sensitive Person
 * Aging Well
 
+# Comics and things we like
+* The Far Side
+* Calvin and Hobbes
+
 # Reading resources for understanding interesting / paranormal phenomna 
 * Many lives many masters
 * THe holographic universe
@@ -200,6 +204,7 @@ This program / thought process consists of insights on people who are on the spe
 * Marvel movies
 * House
 * The men who stare at goats
+* Charlie Brown / Peanuts
 
 # Specific places that are spectrum coded / travel interests:
 * Germany
