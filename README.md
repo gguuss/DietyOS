@@ -17,6 +17,7 @@ This program / thought process consists of insights on people who are on the spe
 * Making lists and hierarchies and really enjoying it
 * Need for things to be in the place where they are expected
 * Rejection is very difficult for us to process - be aware when you are feeling bad because you are processing rejection and give yourself time to decide how you want to handle it
+  * Avoiding rejecting other people is just as dangerous - sometimes you hang on to relationships and people because you can sense a danger in the feeling you will give someone else when you reject them
 * Sensitivities to certain types of sounds (misophonia) and movement (kinesophonia)
 * Special interests / hyper-fixation on specific things and repetitive tasks
 * People on the spectrum want to be around similar people
