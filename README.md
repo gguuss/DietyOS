@@ -1,7 +1,7 @@
 # DietyOS
 This is a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships.
 
-Insights on people who are on the spectrum that once you internally understand will help you foster relationships:
+This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood.
 
 # Behavior patterns
 * Making lists and hierarchies and really enjoying it
