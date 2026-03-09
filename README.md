@@ -184,6 +184,7 @@ This program / thought process consists of insights on people who are on the spe
 * Ghost busters
 * Marvel movies
 * House
+* The men who stare at goats
 
 # Specific places that are spectrum coded / travel interests:
 * Germany
