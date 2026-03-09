@@ -98,10 +98,18 @@ This program / thought process consists of insights on people who are on the spe
 * The subtle art of not giving a fuck
 * Shakesphere
 * The Highly Sensitive Person
+* Aging Well
+
+# Reading resources for understanding interesting / paranormal phenomna 
+* Many lives many masters
+* THe holographic universe
+
+# Reading resources for Psychology and understanding our thought patterns
 * Jungian Psychology
 * DSM manuals
 * Training Dogs
-* Aging Well
+* Bandler and Grinder
+  * The Structure of Magic (I & II), Frogs into Princes, Trance-formations, and Reframing 
 
 # Reading resources for puzzles, scifi, and conspiracy relevant interests:
 * The illuminatus Trilogy
@@ -127,52 +135,55 @@ This program / thought process consists of insights on people who are on the spe
 * Sapiosexual
 
 # Key interests:
+* Apple vs Android
 * Astronomy
 * Astrology
 * Board Games
-* Twilight Imperium
-* Scythe
-* Scrabble
 * Chess
-* Comics
-* Dance / Swingdance / Tapdance
-* Flow sports
-* Skateboarding
-* Onewheel
-* Monowheel / Inmotion
-* Rollerblading
-* Martial arts
-* Snowboarding / Skiing
-* Circus / Carnivals / Acrobatics
-* Competition
-* Sports
-* Debate
-* Science Bowl
 * Chess club
-* Law
-* Drones / Radio Control hobbies
-* Medicine / Nursing
-* Finance / accounting
-* Social sciences / sociology
+* Circus / Carnivals / Acrobatics
 * Computer programming
+* Competition
+* Comics
 * Cooking
+* Dance / Swingdance / Tapdance
+* Debate
+* Drones / Radio Control hobbies
 * Elon Musk / Donald Trump
   * Or in general, political interests
   * Being strongly on either side should indicate an attraction to or rejection of the relative philosophies here
+* Festivals and conferences – e.g. Renn Faire, Defcon, Comicon, Burning Man
+* Finance / accounting
+* Flow sports
 * Food
   * Sushi
   * Ramen
-* Festivals and conferences – e.g. Renn Faire, Defcon, Comicon, Burning Man
 * Gadgets
-* Apple vs Android
 * Genealogy / ancestry / genetics / inheritance
+* Law
+* Martial arts
 * Math
+* Medicine / Nursing
 * Music – especially extremely complex music like Jazz, Tipper, and related bass music
+* Monowheel / Inmotion
+* Onewheel
 * Psychology
 * Puzzles
 * Reading
+* Rollerblading
+* Science Bowl
+* Scythe
+* Scrabble
+* Skateboarding
+* Snowboarding / Skiing
+* Sports
+* Social sciences / sociology
+* Twilight Imperium
 
 # Specific coded movies and shows:
+* Stanley Kubrick films
+  * A clockwork orange
+  * Full Metal Jacket
 * Limitless
 * Star Wars
 * Harry Potter
