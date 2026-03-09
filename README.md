@@ -28,6 +28,9 @@ Insights on people who are on the spectrum that once you internally understand w
 
 # Odd phenomena of being on the spectrum
 * We were in special programs (gifted and talented) and don’t realize it’s not normal
+* High performers in academic settings (validictorian / sigma cum laude / etc)
+* Love for achievement / medals / demonstrations of high performance
+* Interest in a diversity of topics
 * We know or are in contact with lots of internet famous people or at a minimum are fascinated / follow them
 * High scores on standardized tests
 * Have an easy time in school / college / grad school
@@ -35,16 +38,17 @@ Insights on people who are on the spectrum that once you internally understand w
 * Dunning-Kreuger effect – believing that everyone else is as intelligent as you are
 * Imposter Syndrome – denial that you are smart
 
-# Negative traits / things to look out for:
+# Negative traits / things to look out for that come with our complex behaviors:
 * Anxiety – focusing too much on the future
 * Codependence – harassing your partner when they are asking for space and using coercion to try and get their attention
 * Coercion – manipulation of each other through deceit, embellishment, controlling via blocking and avoiding communication or carefully managing information / presenting information in a specific or complex frame
-* If people are being coercive you must investigate and get to the truth – this is why we love the game Clue, and why we 
-* We must watch out for and eliminate coercive behavior in our relationships in order to establish and maintain trust
+  * If people are being coercive you must investigate and get to the truth – this is why we love the game Clue, and why we 
+  * We must watch out for and eliminate coercive behavior in our relationships in order to establish and maintain trust
 * Conspiracies and paranoia – there are some conspiracies that could be true but if you go too far off the deep end, you can become a bit crazy and will definitely give other people the impression that you are crazy
-* Behind all the conspiracies is some degree of truth through metaphor about yourself and how you think
+  * Behind all the conspiracies is some degree of truth through metaphor about yourself and how you think. Always ask "what is the lesson" when you are observing these phenomena.
 * Depression – focusing too much on the past
-* Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky
+* Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky.
+  * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
 * Projection – taking something that you don’t feel good about within yourself and attributing it to others
 * Rage / passive aggressive behaviors
   * Throwing things into people’s rooms / intentionally creating drama and problems
@@ -56,6 +60,8 @@ Insights on people who are on the spectrum that once you internally understand w
 
 # The Spookiest thing to look out for
 * Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
+  * Schizophrenia is a virus, a schizophrenic person will make non-schizophrenics believe that they are the ones who have the problem. You must play the game of gathering facts and evaluating them from different sources of truth.
+* Self-diagnosis brings in biases from yourself that can taint the truth of what you are trying to find out.
 * Paranoia - overthinking and looking into the complicated behaviors of other smart people
 
 # Powerful tools
