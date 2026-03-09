@@ -68,7 +68,8 @@ Insights on people who are on the spectrum that once you internally understand w
 * Paranoia - overthinking and looking into the complicated behaviors of other smart people
 
 # Powerful tools
-* Pronoia – Playing a game where you pretend that everything
+* Manifesting and vision boarding - Imagining the outcome that you want and focusing on the path to that outcome.
+* Pronoia – Playing a game where you pretend that everyone and the universe are trying to help you.
 * Playing games - turning things into games transforms them from being frustrating to being fun
   * Threading the needle - geeting as close to some objective as possible
   * Losing things and finding them - a game that you can playn with yourself or with friends
