@@ -219,6 +219,10 @@ Insights on people who are on the spectrum that once you internally understand w
 * Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
 * Understand whether your partner likes to be surprised or not and do what they like
 * Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
+* Ascertain what people want and give them what they want instead of what you think they want
+* Golden rules
+  * Do unto others as you would want done to you.
+  * If everybody did this would it be sustainable?
 
 # Powerful affirmations
 * You are enough
