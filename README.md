@@ -6,6 +6,7 @@ This program / thought process consists of insights on people who are on the spe
 # Behavior patterns
 * Making lists and hierarchies and really enjoying it
 * Extreme sense of “justice”
+* Extremely productive, oftentimes prefer to work alone even on extremely large projects
 * Love of systems – things that automatically do the right thing or protect against defects
 * Need for things to be in the place where they are expected
 * Having expectations met or not (e.g. liking surprises or not liking to be surprised)
