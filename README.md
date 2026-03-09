@@ -4,26 +4,27 @@ This is a neurolinguistic program to help neurodivergent people understand thems
 This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood.
 
 # Behavior patterns
-* Making lists and hierarchies and really enjoying it
+* A certain clicking sensation when communicating with similar people
+* Appreciation for people having good taste
+* Despite having a lot of mental capacity and skills, we frequently struggle with learning because we process information differently and suffer from the following issues.
+  * Overthinking - when information is incomplete, we struggle to trust it, it is essential when training neurodivergent people to tell them *why* you must do something, and use words like because to help them solidify the rationale of the information.
+  * Needing to have a depth-first approach to information, we can't just trust the top level information in the hierarchies of knowledge.
+* Exceptional / refined taste in art and food / strongly polarized interests in platforms, food, etc
 * Extreme sense of “justice”
 * Extremely productive, oftentimes prefer to work alone even on extremely large projects
-* Love of systems – things that automatically do the right thing or protect against defects
-* Need for things to be in the place where they are expected
 * Having expectations met or not (e.g. liking surprises or not liking to be surprised)
+* Love of systems – things that automatically do the right thing or protect against defects
+* Making lists and hierarchies and really enjoying it
+* Need for things to be in the place where they are expected
+* Rejection is very difficult for us to process - be aware when you are feeling bad because you are processing rejection and give yourself time to decide how you want to handle it
 * Sensitivities to certain types of sounds (misophonia) and movement (kinesophonia)
-* Exceptional / refined taste in art and food / strongly polarized interests in platforms, food, etc
-* Appreciation for people having good taste
 * Special interests / hyper-fixation on specific things and repetitive tasks
 * People on the spectrum want to be around similar people
-* We have more meaningful communication, more clear and understood communication
-* A certain clicking sensation when communicating with similar people
 * We are attracted to intelligence
 * We are bored by normal people (NPCs)
 * We cluster and create groups of similar people and are very happy in our groups
 * We form cliques and have meetings of the minds (Friendsgiving, Garden Parties)
-* Despite having a lot of mental capacity and skills, we frequently struggle with learning because we process information differently and suffer from the following issues.
-  * Overthinking - when information is incomplete, we struggle to trust it, it is essential when training neurodivergent people to tell them *why* you must do something, and use words like because to help them solidify the rationale of the information.
-  * Needing to have a depth-first approach to information, we can't just trust the top level information in the hierarchies of knowledge.
+* We have more meaningful communication, more clear and understood communication, especially when we understand ourselves and others
 
 # Odd side effects of being on the spectrum
 * Hyper fixation on certain genetic traits, e.g. fetishes
