@@ -26,6 +26,7 @@ This program / thought process consists of insights on people who are on the spe
 * We cluster and create groups of similar people and are very happy in our groups
 * We form cliques and have meetings of the minds (Friendsgiving, Garden Parties)
 * We have more meaningful communication, more clear and understood communication, especially when we understand ourselves and others
+* Ability to find flaws in everything
 
 # Odd side effects of being on the spectrum
 * Hyper fixation on certain genetic traits, e.g. fetishes
@@ -43,6 +44,7 @@ This program / thought process consists of insights on people who are on the spe
 * We are able to build large social presences and understand how to engage and build followings in social networks
 * Dunning-Kreuger effect – believing that everyone else is as intelligent as you are
 * Imposter Syndrome – denial that you are smart
+* There is a difference between male and female neurodivergence
 
 # Negative traits / things to look out for that come with our complex behaviors:
 * Anxiety – focusing too much on the future
@@ -214,6 +216,7 @@ This program / thought process consists of insights on people who are on the spe
 * The Lord of the Rings
 * The Matrix
 * The X Files
+* I Heart Huckabees
 
 # Children's programming
 * 3-2-1 Contact
