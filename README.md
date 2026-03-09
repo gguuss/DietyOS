@@ -122,6 +122,8 @@ This program / thought process consists of insights on people who are on the spe
 * Star Wars books
 * Dune books
 * Romance books
+* Nexus Trilogy
+* The star wars books
 
 # Reading / training resources for getting into shape and attracting people like us:
 * Buy a scale – you can’t change what you don’t measure
