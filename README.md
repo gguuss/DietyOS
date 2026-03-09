@@ -225,3 +225,6 @@ Insights on people who are on the spectrum that once you internally understand w
 * You are smart
 * I love you
 * I love myself
+
+# Proving that the program is running and effective
+* Journaling including thoughts on your mood and interactions will help you to measure whether this is a good program for you
