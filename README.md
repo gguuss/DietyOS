@@ -178,6 +178,7 @@ Insights on people who are on the spectrum that once you internally understand w
 * The X Files
 * Ghost busters
 * Marvel movies
+* House
 
 # Specific places that are spectrum coded / travel interests:
 * Germany
