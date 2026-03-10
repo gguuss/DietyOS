@@ -221,6 +221,7 @@ This program / thought process consists of insights on people who are on the spe
 * Word games, wordplay, general shows of being clever
 
 # Specific coded movies and shows:
+* A Scanner Darkly
 * Arrested Development
 * Baseketball
 * Breaking Bad
@@ -232,6 +233,7 @@ This program / thought process consists of insights on people who are on the spe
 * Fight Club
 * Gen V
 * Ghost busters
+* Hackers
 * Happy
 * Harry Potter
 * House
@@ -242,6 +244,7 @@ This program / thought process consists of insights on people who are on the spe
 * Limitless
 * Little Miss Sunshine
 * Lost
+* Magnolia
 * Marvel movies
 * Memento
 * Ready Player One
@@ -261,6 +264,7 @@ This program / thought process consists of insights on people who are on the spe
 * The Matrix
 * The X Files
 * Trailer Park Boys
+* Waking Life
 
 # Children's programming
 * 3-2-1 Contact
