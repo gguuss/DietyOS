@@ -264,6 +264,7 @@ This program / thought process consists of insights on people who are on the spe
 * Aphex Twin
 * Aphrodite
 * Classical music
+* Infected Mushroom
 * Jazz
 * Korn
 * Jimi Hendrix
@@ -275,7 +276,9 @@ This program / thought process consists of insights on people who are on the spe
 * Squarepusher
 * System of a Down
 * Rob Couth
+* Thought Process
 * Tipper
+* Zebbler Encanti Experience
 
 # Useful tools and adages for maintaining and fostering relationships and happiness:
 * Apologizing and acknowledging when you are wrong, saying “you are right” is very powerful
