@@ -90,7 +90,7 @@ This program / thought process consists of insights on people who are on the spe
   * Imagine an embarassing moment in your mind and replace the embarassing thing happening with you as Bart Simpson
 
 # Reading resources for understanding attraction, social dynamics, and dominance:
-* The book “Fascinate”
+* Fascinate
 * Robert Green
   * The 48 laws of power – aka the 48 laws of being an asshole
   * The art of seduction
@@ -100,12 +100,16 @@ This program / thought process consists of insights on people who are on the spe
 * Don’t text your ex happy birthday
 * Non-violent communication
 * Games people play / other social dynamics books
-* The Wheel of Time
-* Game of Thrones
 * The subtle art of not giving a fuck
 * Shakesphere
 * The Highly Sensitive Person
 * Aging Well
+
+# Fantasy books for understanding justice and power
+* The Lion the Witch and the Wardrobe
+* His Dark Materials
+* The Wheel of Time
+* Game of Thrones
 
 # Comics and things we like
 * The Far Side
@@ -219,7 +223,6 @@ This program / thought process consists of insights on people who are on the spe
 * The X Files
 * I Heart Huckabees
 * Ready Player One
-* 
 
 # Children's programming
 * 3-2-1 Contact
