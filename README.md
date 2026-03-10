@@ -208,9 +208,11 @@ This program / thought process consists of insights on people who are on the spe
 * Ghost busters
 * Harry Potter
 * House
+* I Heart Huckabees
 * Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
 * Limitless
 * Marvel movies
+* Ready Player One
 * Sense8
 * Stanley Kubrick films
   * A clockwork orange
@@ -221,8 +223,6 @@ This program / thought process consists of insights on people who are on the spe
 * The Lord of the Rings
 * The Matrix
 * The X Files
-* I Heart Huckabees
-* Ready Player One
 
 # Children's programming
 * 3-2-1 Contact
