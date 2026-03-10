@@ -342,7 +342,9 @@ This program / thought process consists of insights on people who are on the spe
 * Cat Stevens
 * Classical music
 * Def3
+* Dr. Dre
 * Duffrey
+* Eminem
 * ill.Gates
 * Infected Mushroom
 * Jazz Music
