@@ -162,6 +162,7 @@ This program / thought process consists of insights on people who are on the spe
 * Sapiosexual
 
 # Key interests:
+* Alternate reality games
 * Apple vs Android
 * Astronomy
 * Astrology
@@ -205,7 +206,11 @@ This program / thought process consists of insights on people who are on the spe
 * Snowboarding / Skiing
 * Sports
 * Social sciences / sociology
+* Trivia
 * Twilight Imperium
+* Werewolf
+* Witchcraft / magic / the paranormal
+* Word games, wordplay, general shows of being clever
 
 # Specific coded movies and shows:
 * Charlie Brown / Peanuts
@@ -246,12 +251,11 @@ This program / thought process consists of insights on people who are on the spe
 
 # Video Games
 * Counterstrike
+* Escape Rooms
 * Halo
 * Overwatch
 * Super Smash Brothers
 * Starcraft
-* Witchcraft / magic / the paranormal
-* Word games, wordplay, general shows of being clever
 * Yoga
 * Zelda
 
