@@ -82,6 +82,7 @@ This program / thought process consists of insights on people who are on the spe
   * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
   * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
   * Weed can make you paranoid and encourages doom piling.
+* Suicide - Fascinations and hyperfixation on suicide is a risk when you struggle to understand given your emotional struggles and frustrations.
 
 # The Spookiest thing to look out for
 * Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real and then capture the ghost and put it away. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
