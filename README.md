@@ -445,6 +445,7 @@ This program / thought process consists of insights on people who are on the spe
 * "With great power comes great responsibility"
 * Volunteering - Giving your time to help people is an important practice.
 * "Please let me know if there's anything else I can do to help!"
+* "You can lead a horse to water but you can't make them drink"
 
 # Powerful affirmations / ice breakers / compliments
 * I like your art!
