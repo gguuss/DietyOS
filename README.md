@@ -296,9 +296,12 @@ This program / thought process consists of insights on people who are on the spe
 * Pink Floyd
 * Radiohead
 * Rob Couth
+* Rusko
+* Skrillex
 * Squarepusher
 * Sublime
 * System of a Down
+* The Beatles
 * Thought Process
 * Tipper
 * Wu-tang Clan
