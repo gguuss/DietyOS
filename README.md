@@ -214,6 +214,7 @@ This program / thought process consists of insights on people who are on the spe
 
 # Specific coded movies and shows:
 * Charlie Brown / Peanuts
+* Event Horizon
 * Gen V
 * Ghost busters
 * Harry Potter
@@ -221,6 +222,7 @@ This program / thought process consists of insights on people who are on the spe
 * I Heart Huckabees
 * Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
 * Limitless
+* Little Miss Sunshine
 * Marvel movies
 * Ready Player One
 * Sense8
@@ -228,8 +230,10 @@ This program / thought process consists of insights on people who are on the spe
   * A clockwork orange
   * Full Metal Jacket
 * Star Wars
+* Sunshine
 * The Big Lebowski
 * The men who stare at goats
+* The Last Starfighter
 * The Lord of the Rings
 * The Matrix
 * The X Files
