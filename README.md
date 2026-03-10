@@ -302,6 +302,7 @@ This program / thought process consists of insights on people who are on the spe
 * Therapy / both individual and couples therapy
 * Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 * Understand whether your partner likes to be surprised or not and do what they like
+* "With great power comes great responsibility"
 
 # Powerful affirmations
 * You are enough
