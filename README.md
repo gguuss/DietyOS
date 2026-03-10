@@ -255,6 +255,7 @@ This program / thought process consists of insights on people who are on the spe
 * Magnolia
 * Marvel movies
 * Memento
+* Mr. Robot
 * Ready Player One
 * Sense8
 * Seven
