@@ -5,9 +5,9 @@ I am not a therapist, I have not evaluated or tested this framework and these id
 Please take these resources with considerations of doubt and I encourage you to challenge these concepts and improve them. This resource is based on a study body of just mainly one person, myself, and the insights and observations that have been helpful for me to improve myself. The biases in the resources lean towards my taste and the observations might only make sense to me as they're from my frame of reference and perspective.
 
 ## Overview ##
-This is the foundation for a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships.
+This is the foundation for a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships. All of these topics and behaviors and interests need to be observed through the lens of intelligence - the smarter you are the more you "get it" and it's ok not to understand some of the things if they don't apply to you.
 
-This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood. The more aware of yourself and the patterns that you have, the better you will be able to understand them and respond in the best way to what you are feeling and what is going on in your mind. Additionally, understanding these patterns and behaviors will allow you to manage your mental health problems that you are creating for yourself through confusion in understanding the patterns and thought processes.
+This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood. The more aware of yourself and the patterns that you have, the better you will be able to understand them and respond in the best way to what you are feeling and what is going on in your mind. Additionally, understanding these patterns and behaviors will allow you to manage your mental health problems that you are creating for yourself through confusion in understanding the patterns and thought processes. If you find the subject / topic gives you certain feelings, maybe you should look more deeply into yourself to better understand the message of the thing, what the feeling is, and how / why it gives you a that feeling.
 
 # Behavior patterns
 * A certain clicking sensation when communicating with similar people
@@ -38,9 +38,9 @@ This program / thought process consists of insights on people who are on the spe
 * Ability to find flaws in everything
 
 # Odd side effects of being on the spectrum
+* Athletically gifted and able to use mind for awesome power like healing, feats of strength, feats of endurance, fighting, getting into incredible shape, againg gracefully (looking young for your age) (it’s real, your mind is very powerful)
 * Hyper fixation on certain genetic traits, e.g. fetishes
 * Very super horny, very amazing sex drive
-* Athletically gifted and able to use mind for awesome power like healing, feats of strength, feats of endurance, fighting, getting into incredible shape, againg gracefully (looking young for your age) (it’s real, your mind is very powerful)
 
 # Odd phenomena of being on the spectrum
 * We were in special programs (gifted and talented) and don’t realize it’s not normal
@@ -69,7 +69,6 @@ This program / thought process consists of insights on people who are on the spe
   * Neuraldivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appopriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
 * Isolation - Sometimes we isolate to protect ourselves. It's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you.
 * Reframing lies as jokes - Sometimes someone smart gets caught in thier lie and then tries to play it off as "joking" - this is a dangerous deception.
-* Retaliation - Responding to feelings of being injuste with coercive resolutions.
 * Obsessive compulsive disorder - worrying too much about routine things
 * Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
   * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
@@ -79,6 +78,7 @@ This program / thought process consists of insights on people who are on the spe
   * Raising your voice when angry
   * Punishing your partner through withdrawal / becoming non-communicative
   * Retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
+* Retaliation - Responding to feelings of being injusted with coercive resolutions.
 * Spiraling – Thinking about the same thing over and over and over and over and over
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
 * Stealing other people's ideas - it's important to give credit where credit is due and acknowledge that we are "standing on the shoulders of giants" when building new things
@@ -251,6 +251,7 @@ This program / thought process consists of insights on people who are on the spe
 * Avatar
 * Arrested Development
 * Baseketball
+* Beavis and Butthead
 * Bob’s Burgers
 * Breaking Bad
 * Cable guy
@@ -279,6 +280,7 @@ This program / thought process consists of insights on people who are on the spe
 * Homestar Runner
 * House
 * I Heart Huckabees
+* Idiocracy
 * Kevin Smith films
   * Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
 * Law and Order
@@ -348,6 +350,7 @@ This program / thought process consists of insights on people who are on the spe
 * China
 * France
 * Germany
+* Ireland
 * Japan
 * Korea
 * London, UK
@@ -357,11 +360,14 @@ This program / thought process consists of insights on people who are on the spe
 # Video Games
 * Counterstrike
 * Escape Rooms
+* Final Fantasy
 * Halo
+* League of Legends (LOL)
 * Overwatch
 * Super Smash Brothers
 * Starcraft
 * Yoga
+* Warcraft
 * Zelda
 
 # Listening resources
