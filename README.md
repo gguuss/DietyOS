@@ -132,7 +132,9 @@ This program / thought process consists of insights on people who are on the spe
 * Critical Path - R. Buckminster Fuller
 * The Goal - Eliyahu M. Goldratt
 
-# Reading resources for understanding interesting / paranormal phenomna 
+# Reading resources for understanding interesting / paranormal phenomna and the occult 
+* Aleister Crowley
+* Edgar Allan Poe
 * Many lives many masters
 * The holographic universe
 * Quantum Mechanics
@@ -212,6 +214,7 @@ This program / thought process consists of insights on people who are on the spe
 * Medicine / Nursing
 * Music – especially extremely complex music like Jazz, Tipper, and related bass music
 * Monowheel / Inmotion
+* Occult
 * Onewheel
 * Painting
 * Pilates
@@ -228,7 +231,6 @@ This program / thought process consists of insights on people who are on the spe
 * Sports
   * Swimming, Tennis, Gold, Basketball
 * Social sciences / sociology
-
 * Trivia
 * Twilight Imperium
 * Werewolf
@@ -236,6 +238,7 @@ This program / thought process consists of insights on people who are on the spe
 * Word games, wordplay, general shows of being clever
 
 # Specific coded movies and shows:
+* 10 feet under
 * A Beautiful Mind
 * A Scanner Darkly
 * Anime (pretty much all of it)
@@ -248,6 +251,7 @@ This program / thought process consists of insights on people who are on the spe
 * Community
 * Disney / Marvel content and movies
 * Dragonball Z
+* Drop Dead Fred
 * Dumb and Dumber
 * Elysium
 * Event Horizon
@@ -303,6 +307,7 @@ This program / thought process consists of insights on people who are on the spe
 * The X Files
 * Trailer Park Boys
 * Waking Life
+* Wonderfalls
 
 # Children's programming
 * 3-2-1 Contact
@@ -377,13 +382,16 @@ This program / thought process consists of insights on people who are on the spe
   * Do unto others as you would want done to you.
   * If everybody did this would it be sustainable?
   * Be neither a borrower nor a lender.
+* Imaginary friends - (although in moderation, don't fall in love with your imaginary friend) An imaginary friend (or a rubber duck on your desk) that you work through problems with in order to save other people's time and attention.
 * Letting things go – sometimes it feels better to just forget and forgive than to seek justice
+* Mind palace - having a place in your mind that you meditate on and manifest in
 * “Safe spaces” allowing for communication without judgement (read non-violent communication)
 * Setting and maintaining boundaries where and when appropriate
 * Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
 * Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
 * Therapy / both individual and couples therapy
 * They hate us cause they ain't us.
+* Totems - objects that you use to hold your feelings and thoughts
 * Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 * Understand whether your partner likes to be surprised or not and do what they like
 * "With great power comes great responsibility"
