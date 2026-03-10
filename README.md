@@ -213,6 +213,7 @@ This program / thought process consists of insights on people who are on the spe
 * Word games, wordplay, general shows of being clever
 
 # Specific coded movies and shows:
+* Baseketball
 * Charlie Brown / Peanuts
 * Event Horizon
 * Gen V
@@ -226,11 +227,13 @@ This program / thought process consists of insights on people who are on the spe
 * Marvel movies
 * Ready Player One
 * Sense8
+* Southpark
 * Stanley Kubrick films
   * A clockwork orange
   * Full Metal Jacket
 * Star Wars
 * Sunshine
+* Team America World Police
 * The Big Lebowski
 * The men who stare at goats
 * The Last Starfighter
