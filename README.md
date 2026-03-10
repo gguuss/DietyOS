@@ -265,12 +265,15 @@ This program / thought process consists of insights on people who are on the spe
 * Aphex Twin
 * Aphrodite
 * Classical music
+* Duffrey
 * Infected Mushroom
 * Jazz
 * Korn
 * Jimi Hendrix
 * Led Zeppelin
+* Mac Miller
 * Metallica
+* MF Doom
 * Mr. Bill
 * Pink Floyd
 * Radiohead
@@ -279,6 +282,7 @@ This program / thought process consists of insights on people who are on the spe
 * Rob Couth
 * Thought Process
 * Tipper
+* Wu-tang Clan
 * Zebbler Encanti Experience
 
 # Useful tools and adages for maintaining and fostering relationships and happiness:
