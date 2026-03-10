@@ -110,6 +110,7 @@ This program / thought process consists of insights on people who are on the spe
 * Game of Thrones
 * His Dark Materials
 * The Lion the Witch and the Wardrobe
+* The Phantom Tollbooth
 * The Wheel of Time
 
 # Comics and things we like
@@ -118,7 +119,8 @@ This program / thought process consists of insights on people who are on the spe
 * The Watchmen
 
 # Resources for understanding how we organize and are productive
-* The Critical Path
+* Critical Path - R. Buckminster Fuller
+* The Goal - Eliyahu M. Goldratt
 
 # Reading resources for understanding interesting / paranormal phenomna 
 * Many lives many masters
@@ -147,19 +149,19 @@ This program / thought process consists of insights on people who are on the spe
 * The Pythagoreans and related lore
 
 # Philosophical resources
-* The Tao of Pooh
 * Mortimer Adler - 6 great ideas
+* The Tao of Pooh
 
 # Reading / training resources for getting into shape and attracting people like us:
 * Buy a scale – you can’t change what you don’t measure
-* The Four Hour Body
-* Pumping Iron
-* (Pretty much anything high intensity interval training)
 * Crossfit / Industrious / Fit Body gym
+* HIIT
 * Finding ways to feel good about yourself and having confidence in your appearance / loving yourself
-* Use your own body as a tapestry, what you think looks good looks good
+* Pumping Iron (the arnold book)
 * Stop drinking alcohol and consuming sugar if you are trying to get into shape or control / limit your intake
-* THe Hacker's Diet (calories in / calories out)
+* The Four Hour Body
+* The Hacker's Diet (calories in / calories out)
+* Use your own body as a tapestry, what you think looks good looks good
 
 # Keyword for attraction:
 * Sapiosexual
@@ -226,6 +228,7 @@ This program / thought process consists of insights on people who are on the spe
 * Charlie Brown / Peanuts
 * Dumb and Dumber
 * Event Horizon
+* Everything everywhere all at once
 * Fight Club
 * Gen V
 * Ghost busters
@@ -298,9 +301,11 @@ This program / thought process consists of insights on people who are on the spe
 * Aphex Twin
 * Aphrodite
 * Classical music
+* Def3
 * Duffrey
+* ill.Gates
 * Infected Mushroom
-* Jazz
+* Jazz Music
 * Korn
 * Jimi Hendrix
 * Led Zeppelin
@@ -311,8 +316,10 @@ This program / thought process consists of insights on people who are on the spe
 * Pink Floyd
 * Radiohead
 * Rob Couth
+* Rolling Stones
 * Rusko
 * Skrillex
+* Smashing Pumpkins
 * Squarepusher
 * Sublime
 * System of a Down
@@ -342,6 +349,7 @@ This program / thought process consists of insights on people who are on the spe
 * Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
 * Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
 * Therapy / both individual and couples therapy
+* They hate us cause they ain't us.
 * Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 * Understand whether your partner likes to be surprised or not and do what they like
 * "With great power comes great responsibility"
