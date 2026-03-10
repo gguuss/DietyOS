@@ -241,15 +241,15 @@ This program / thought process consists of insights on people who are on the spe
 * Russia
 
 # Video Games
-* Super Smash Brothers
-* Zelda
-* Halo
 * Counterstrike
+* Halo
 * Overwatch
+* Super Smash Brothers
 * Starcraft
 * Witchcraft / magic / the paranormal
 * Word games, wordplay, general shows of being clever
 * Yoga
+* Zelda
 
 # Viewing resources for neurospicies:
 * Anime (pretty much all of it)
