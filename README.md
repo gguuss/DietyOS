@@ -235,6 +235,7 @@ This program / thought process consists of insights on people who are on the spe
 * Germany
 * Japan
 * Korea
+* London, UK
 * New Zealand
 * Russia
 
@@ -250,21 +251,29 @@ This program / thought process consists of insights on people who are on the spe
 * Yoga
 
 # Viewing resources for neurospicies:
-* Rick and Morty
-* Bob’s Burgers
-* The Simpsons
 * Anime (pretty much all of it)
-* Dragonball Z
-* Love on the spectrum
+* Bob’s Burgers
 * Disney / Marvel content and movies
+* Dragonball Z
+* Futurama
+* Love on the spectrum
+* Rick and Morty
 
 # Listening resources
 * Amon Tobin
+* Aphex Twin
+* Aphrodite
 * Classical music
 * Jazz
+* Korn
+* Jimi Hendrix
 * Led Zeppelin
+* Metallica
 * Mr. Bill
 * Pink Floyd
+* Radiohead
+* Squarepusher
+* System of a Down
 * Rob Couth
 * Tipper
 
