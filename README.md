@@ -331,6 +331,7 @@ This program / thought process consists of insights on people who are on the spe
 * Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
 * Creating lists / sharing and collaborating on group activities
 * Finding ways to collaborate and evaluate during conflict instead of fighting
+* Gifting - It's important to not use gifts to coerce people though, a gift should not come with strings attached.
 * Golden rules
   * Do unto others as you would want done to you.
   * If everybody did this would it be sustainable?
@@ -344,6 +345,7 @@ This program / thought process consists of insights on people who are on the spe
 * Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 * Understand whether your partner likes to be surprised or not and do what they like
 * "With great power comes great responsibility"
+* Volunteering - Giving your time to help people is an important practice.
 
 # Powerful affirmations
 * I love you
