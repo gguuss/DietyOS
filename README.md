@@ -276,6 +276,7 @@ This program / thought process consists of insights on people who are on the spe
 * Team America World Police
 * The Big Lebowski
 * The men who stare at goats
+* The Mighty Boosh
 * The Last Starfighter
 * The Lord of the Rings
 * The Matrix
