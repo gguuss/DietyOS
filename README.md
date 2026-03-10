@@ -128,18 +128,18 @@ This program / thought process consists of insights on people who are on the spe
   * The Structure of Magic (I & II), Frogs into Princes, Trance-formations, and Reframing 
 
 # Reading resources for puzzles, scifi, and conspiracy relevant interests:
-* The illuminatus Trilogy
-* Look into the Pythagoreans and related lore
 * Dan Brown Books
   * The Secret of Secrets
 * Daniel Suarez books
+* Dune books
+* Ender's Game / Ender's Shadow
 * Ray Kurzweil books
 * Star Wars books
-* Dune books
 * Romance books
 * Nexus Trilogy
+* The illuminatus Trilogy
 * The star wars books
-* Ender's Game / Ender's Shadow
+* The Pythagoreans and related lore
 
 # Philosophical resources
 * The Tao of Pooh
