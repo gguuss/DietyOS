@@ -90,30 +90,31 @@ This program / thought process consists of insights on people who are on the spe
   * Imagine an embarassing moment in your mind and replace the embarassing thing happening with you as Bart Simpson
 
 # Reading resources for understanding attraction, social dynamics, and dominance:
+* Aging Well
+* Don’t text your ex happy birthday
+* How to win friends and influence people
 * Fascinate
+* Games people play / other social dynamics books
+* Non-violent communication
 * Robert Green
   * The 48 laws of power – aka the 48 laws of being an asshole
   * The art of seduction
   * The 33 strategies of war
   * Mastery
-* How to win friends and influence people
-* Don’t text your ex happy birthday
-* Non-violent communication
-* Games people play / other social dynamics books
-* The subtle art of not giving a fuck
 * Shakesphere
 * The Highly Sensitive Person
-* Aging Well
+* The subtle art of not giving a fuck
 
 # Fantasy books for understanding justice and power
-* The Lion the Witch and the Wardrobe
-* His Dark Materials
-* The Wheel of Time
 * Game of Thrones
+* His Dark Materials
+* The Lion the Witch and the Wardrobe
+* The Wheel of Time
 
 # Comics and things we like
-* The Far Side
 * Calvin and Hobbes
+* The Far Side
+* The Watchmen
 
 # Reading resources for understanding interesting / paranormal phenomna 
 * Many lives many masters
