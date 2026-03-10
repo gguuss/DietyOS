@@ -58,6 +58,7 @@ This program / thought process consists of insights on people who are on the spe
 * Depression – focusing too much on the past
 * Employers taking advantage of you
   * Neuraldivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appopriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
+* Isolation - Sometimes we isolate to protect ourselves. It's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you.
 * Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
   * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
 * Projection – taking something that you don’t feel good about within yourself and attributing it to others
