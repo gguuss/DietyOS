@@ -157,6 +157,8 @@ This program / thought process consists of insights on people who are on the spe
 * Crossfit / Industrious / Fit Body gym
 * Finding ways to feel good about yourself and having confidence in your appearance / loving yourself
 * Use your own body as a tapestry, what you think looks good looks good
+* Stop drinking alcohol and consuming sugar if you are trying to get into shape or control / limit your intake
+* THe Hacker's Diet (calories in / calories out)
 
 # Keyword for attraction:
 * Sapiosexual
@@ -182,7 +184,7 @@ This program / thought process consists of insights on people who are on the spe
   * Being strongly on either side should indicate an attraction to or rejection of the relative philosophies here
 * Festivals and conferences – e.g. Renn Faire, Defcon, Comicon, Burning Man
 * Finance / accounting
-* Flow sports
+* Flow sports - really cause you to focus on the present, be immediate
 * Food
   * Sushi
   * Ramen
@@ -218,6 +220,7 @@ This program / thought process consists of insights on people who are on the spe
 * Event Horizon
 * Gen V
 * Ghost busters
+* Happy
 * Harry Potter
 * House
 * I Heart Huckabees
