@@ -2,7 +2,7 @@
 
 ## Important Disclaimer ##
 I am not a therapist, I have not evaluated or tested this framework and these ideas.
-Please take these resources with considerations of doubt and I encourage you to challenge these concepts and improve them. This resource is based on a study body of just mainly one person, myself, and the insights that have been helpful for me to improve myself. The biases in the resources lean towards my taste.
+Please take these resources with considerations of doubt and I encourage you to challenge these concepts and improve them. This resource is based on a study body of just mainly one person, myself, and the insights and observations that have been helpful for me to improve myself. The biases in the resources lean towards my taste and the observations might only make sense to me as they're from my frame of reference and perspective.
 
 ## Overview ##
 This is the foundation for a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships.
