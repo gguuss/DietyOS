@@ -389,6 +389,7 @@ This program / thought process consists of insights on people who are on the spe
 * Volunteering - Giving your time to help people is an important practice.
 
 # Powerful affirmations
+* I like your art!
 * I love you
 * I love myself
 * Let's goooooo
