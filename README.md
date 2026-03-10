@@ -249,6 +249,7 @@ This program / thought process consists of insights on people who are on the spe
 * Dumb and Dumber
 * Event Horizon
 * Everything everywhere all at once
+* Fear and Loathing in Las Vegas
 * Fight Club
 * Freaks and geeks
 * Futurama
