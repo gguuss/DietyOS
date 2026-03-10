@@ -313,12 +313,13 @@ This program / thought process consists of insights on people who are on the spe
 * "With great power comes great responsibility"
 
 # Powerful affirmations
-* You are enough
-* Life is rad
-* Let's goooooo
-* You are smart
 * I love you
 * I love myself
+* Let's goooooo
+* Life is rad
+* You are enough
+* You are smart
+* You have good taste!
 
 # Proving that the program is running and effective
 * Journaling including thoughts on your mood and interactions will help you to measure whether this is a good program for you
