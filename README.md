@@ -384,6 +384,7 @@ This program / thought process consists of insights on people who are on the spe
 * Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
 * Creating lists / sharing and collaborating on group activities
 * Finding ways to collaborate and evaluate during conflict instead of fighting
+* "Fool me once, shame on you. Fool me twice, shame on me."
 * Gifting - It's important to not use gifts to coerce people though, a gift should not come with strings attached.
 * Golden rules
   * Do unto others as you would want done to you.
