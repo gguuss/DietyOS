@@ -20,6 +20,7 @@ This program / thought process consists of insights on people who are on the spe
 * Extremely productive, oftentimes prefer to work alone even on extremely large projects
 * Having expectations met or not (e.g. liking surprises or not liking to be surprised)
 * Gullibility - falling for people lying to us / overly trusting
+* Limitless - people on the spectrum are unaware of limits and don't understand that most people can't keep going in the ways that they do
 * Love of systems – things that automatically do the right thing or protect against defects
 * Making lists and hierarchies and really enjoying it
 * Need for things to be in the place where they are expected
@@ -210,12 +211,13 @@ This program / thought process consists of insights on people who are on the spe
   * Ramen
 * Gadgets
 * Genealogy / ancestry / genetics / inheritance
+* Jokes - it's really helpful and fun to learn and share jokes with your friends and people you meet
 * Law
 * Martial arts
 * Math
 * Medicine / Nursing
-* Music – especially extremely complex music like Jazz, Tipper, and related bass music
-* Monowheel / Inmotion
+* Music – especially extremely complex music like Rap, Jazz, Tipper, and related bass music, as well as music that has deep meaningful messages in the lyrics and themes
+* Monowheel / Inmotion EUCs
 * Occult
 * Onewheel
 * Painting
@@ -242,16 +244,21 @@ This program / thought process consists of insights on people who are on the spe
 # Specific coded movies and shows:
 * 10 feet under
 * A Beautiful Mind
+* Almost famous
 * A Scanner Darkly
 * Anime (pretty much all of it)
+* Avatar
 * Arrested Development
 * Baseketball
 * Bob’s Burgers
 * Breaking Bad
 * Cable guy
+* Cacooon
+* Captain Fantastic
 * Charlie Brown / Peanuts
 * Community
 * Disney / Marvel content and movies
+* Dogma
 * Dragonball Z
 * Drop Dead Fred
 * Dumb and Dumber
@@ -260,6 +267,7 @@ This program / thought process consists of insights on people who are on the spe
 * Everything everywhere all at once
 * Fear and Loathing in Las Vegas
 * Fight Club
+* Forrest Gump
 * Freaks and geeks
 * Futurama
 * Gen V
@@ -283,6 +291,7 @@ This program / thought process consists of insights on people who are on the spe
 * Memento
 * Mr. Robot
 * People Just Do Nothing
+* Popeye
 * Rainman
 * Ready Player One
 * Ren and Stimpy
@@ -300,6 +309,7 @@ This program / thought process consists of insights on people who are on the spe
 * Team America World Police
 * The Big Lebowski
 * The Congress
+* The Fantastic Mr. Fox
 * The Great Gatsby
 * The men who stare at goats
 * The Mighty Boosh
@@ -308,13 +318,30 @@ This program / thought process consists of insights on people who are on the spe
 * The Matrix
 * The X Files
 * Trailer Park Boys
+* Twin Peaks
+* Twins
+* Utopia
 * Waking Life
+* Wes Anderson films
+  * The Royal Tennenbaums
 * Wonderfalls
 
 # Children's programming
 * 3-2-1 Contact
 * Blue's clues
 * Sesame street
+
+# Comedy
+* Chris Rock
+* Dave Chapelle
+* Danny DeVito
+* Eddie Murphy
+* George Carlin
+* Mitch Hedberg
+* Norm Macdonald
+* Robin Williams
+* Steve Carrel
+* Will Farrel
 
 # Specific places that are spectrum coded / travel interests:
 * China
@@ -336,7 +363,6 @@ This program / thought process consists of insights on people who are on the spe
 * Yoga
 * Zelda
 
-
 # Listening resources
 * Amon Tobin
 * Aphex Twin
@@ -347,6 +373,8 @@ This program / thought process consists of insights on people who are on the spe
 * Dr. Dre
 * Duffrey
 * Eminem
+* Forrest Gump Soundtrack
+* Gessafelstein
 * ill.Gates
 * Infected Mushroom
 * Jazz Music
@@ -356,6 +384,7 @@ This program / thought process consists of insights on people who are on the spe
 * Mac Miller
 * Metallica
 * MF Doom
+* MGMT
 * Mr. Bill
 * Nirvana
 * Pink Floyd
@@ -383,14 +412,17 @@ This program / thought process consists of insights on people who are on the spe
 * Comparison is the thief of joy.
 * Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
 * Creating lists / sharing and collaborating on group activities
-* Finding ways to collaborate and evaluate during conflict instead of fighting
+* Feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
+* Finding ways to collaborate and evaluate during conflict instead of fighting - make it a game, follow the clues, solve the puzzle.
 * "Fool me once, shame on you. Fool me twice, shame on me."
 * Gifting - It's important to not use gifts to coerce people though, a gift should not come with strings attached.
 * Golden rules
   * Do unto others as you would want done to you.
   * If everybody did this would it be sustainable?
   * Be neither a borrower nor a lender.
+* I am what I am
 * Imaginary friends - (although in moderation, don't fall in love with your imaginary friend) An imaginary friend (or a rubber duck on your desk) that you work through problems with in order to save other people's time and attention.
+* It is what it is
 * Letting things go – sometimes it feels better to just forget and forgive than to seek justice
 * Mind palace - having a place in your mind that you meditate on and manifest in
 * “Safe spaces” allowing for communication without judgement (read non-violent communication)
@@ -405,7 +437,7 @@ This program / thought process consists of insights on people who are on the spe
 * "With great power comes great responsibility"
 * Volunteering - Giving your time to help people is an important practice.
 
-# Powerful affirmations
+# Powerful affirmations / ice breakers / compliments
 * I like your art!
 * I love you
 * I love myself
