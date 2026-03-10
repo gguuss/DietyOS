@@ -237,6 +237,7 @@ This program / thought process consists of insights on people who are on the spe
 * Breaking Bad
 * Cable guy
 * Charlie Brown / Peanuts
+* Community
 * Dumb and Dumber
 * Event Horizon
 * Everything everywhere all at once
@@ -260,6 +261,7 @@ This program / thought process consists of insights on people who are on the spe
 * Marvel movies
 * Memento
 * Mr. Robot
+* Rainman
 * Ready Player One
 * Sense8
 * Seven
