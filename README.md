@@ -223,6 +223,7 @@ This program / thought process consists of insights on people who are on the spe
 * Scythe
 * Scrabble
 * Skateboarding
+* Shuffling
 * Snowboarding / Skiing
 * Sports
   * Swimming, Tennis, Gold, Basketball
