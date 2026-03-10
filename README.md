@@ -237,6 +237,7 @@ This program / thought process consists of insights on people who are on the spe
 * Event Horizon
 * Everything everywhere all at once
 * Fight Club
+* Freaks and geeks
 * Gen V
 * Ghost busters
 * Hackers
@@ -247,6 +248,7 @@ This program / thought process consists of insights on people who are on the spe
 * Kevin Smith films
   * Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
 * Law and Order
+* Let's start a cult
 * Limitless
 * Little Miss Sunshine
 * Lost
@@ -261,6 +263,7 @@ This program / thought process consists of insights on people who are on the spe
   * A clockwork orange
   * Full Metal Jacket
 * Star Wars
+* Superbad
 * Sunshine
 * Team America World Police
 * The Big Lebowski
