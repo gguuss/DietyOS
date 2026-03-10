@@ -19,6 +19,7 @@ This program / thought process consists of insights on people who are on the spe
 * Extreme sense of “justice”
 * Extremely productive, oftentimes prefer to work alone even on extremely large projects
 * Having expectations met or not (e.g. liking surprises or not liking to be surprised)
+* Gullibility - falling for people lying to us / overly trusting
 * Love of systems – things that automatically do the right thing or protect against defects
 * Making lists and hierarchies and really enjoying it
 * Need for things to be in the place where they are expected
