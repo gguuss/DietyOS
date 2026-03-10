@@ -135,6 +135,7 @@ This program / thought process consists of insights on people who are on the spe
 # Reading resources for understanding interesting / paranormal phenomna and the occult 
 * Aleister Crowley
 * Edgar Allan Poe
+* H. P. Lovecraft
 * Many lives many masters
 * The holographic universe
 * Quantum Mechanics
