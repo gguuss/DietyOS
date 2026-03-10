@@ -292,9 +292,10 @@ This program / thought process consists of insights on people who are on the spe
 * Mr. Bill
 * Pink Floyd
 * Radiohead
-* Squarepusher
-* System of a Down
 * Rob Couth
+* Squarepusher
+* Sublime
+* System of a Down
 * Thought Process
 * Tipper
 * Wu-tang Clan
