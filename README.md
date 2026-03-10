@@ -339,6 +339,7 @@ This program / thought process consists of insights on people who are on the spe
 * Amon Tobin
 * Aphex Twin
 * Aphrodite
+* Cat Stevens
 * Classical music
 * Def3
 * Duffrey
@@ -352,6 +353,7 @@ This program / thought process consists of insights on people who are on the spe
 * Metallica
 * MF Doom
 * Mr. Bill
+* Nirvana
 * Pink Floyd
 * Radiohead
 * Rob Couth
@@ -365,6 +367,7 @@ This program / thought process consists of insights on people who are on the spe
 * The Beatles
 * Thought Process
 * Tipper
+* Willy Nelson
 * Wu-tang Clan
 * Zebbler Encanti Experience
 
