@@ -416,10 +416,11 @@ This program / thought process consists of insights on people who are on the spe
 * Ascertain what people want and give them what they want instead of what you think they want
   * People like when other people give them what they want / need
 * Avoiding yelling or other forms of violent coercion that can cause your partner to “shut down”
+* Repeat back what someone says to you in a different way to make sure everybody is on the same page.
 * Comparison is the thief of joy.
 * Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
 * Creating lists / sharing and collaborating on group activities
-* Feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
+* Are your feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
 * Finding ways to collaborate and evaluate during conflict instead of fighting - make it a game, follow the clues, solve the puzzle.
 * "Fool me once, shame on you. Fool me twice, shame on me."
 * Gifting - It's important to not use gifts to coerce people though, a gift should not come with strings attached.
@@ -438,11 +439,12 @@ This program / thought process consists of insights on people who are on the spe
 * Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
 * Therapy / both individual and couples therapy
 * They hate us cause they ain't us.
-* Totems - objects that you use to hold your feelings and thoughts
+* Totems - objects that you use to hold your feelings and thoughts. These are sometimes referred to as a Tulsa.
 * Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 * Understand whether your partner likes to be surprised or not and do what they like
 * "With great power comes great responsibility"
 * Volunteering - Giving your time to help people is an important practice.
+* "Please let me know if there's anything else I can do to help!"
 
 # Powerful affirmations / ice breakers / compliments
 * I like your art!
