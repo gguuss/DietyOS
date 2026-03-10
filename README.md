@@ -173,6 +173,7 @@ This program / thought process consists of insights on people who are on the spe
 * Sapiosexual
 
 # Key interests:
+* 3d printing
 * Alternate reality games
 * Apple vs Android
 * Astronomy
@@ -208,6 +209,7 @@ This program / thought process consists of insights on people who are on the spe
 * Music – especially extremely complex music like Jazz, Tipper, and related bass music
 * Monowheel / Inmotion
 * Onewheel
+* Painting
 * Pilates
 * Psychology
 * Puzzles
