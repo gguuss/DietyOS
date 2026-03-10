@@ -65,6 +65,7 @@ This program / thought process consists of insights on people who are on the spe
 * Employers taking advantage of you
   * Neuraldivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appopriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
 * Isolation - Sometimes we isolate to protect ourselves. It's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you.
+* Reframing lies as jokes - Sometimes someone smart gets caught in thier lie and then tries to play it off as "joking" - this is a dangerous deception.
 * Retaliation - Responding to feelings of being injuste with coercive resolutions.
 * Obsessive compulsive disorder - worrying too much about routine things
 * Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
@@ -233,18 +234,24 @@ This program / thought process consists of insights on people who are on the spe
 * Word games, wordplay, general shows of being clever
 
 # Specific coded movies and shows:
+* A Beautiful Mind
 * A Scanner Darkly
+* Anime (pretty much all of it)
 * Arrested Development
 * Baseketball
+* Bob’s Burgers
 * Breaking Bad
 * Cable guy
 * Charlie Brown / Peanuts
 * Community
+* Disney / Marvel content and movies
+* Dragonball Z
 * Dumb and Dumber
 * Event Horizon
 * Everything everywhere all at once
 * Fight Club
 * Freaks and geeks
+* Futurama
 * Gen V
 * Ghost busters
 * Hackers
@@ -259,12 +266,15 @@ This program / thought process consists of insights on people who are on the spe
 * Limitless
 * Little Miss Sunshine
 * Lost
+* Love on the spectrum
 * Magnolia
 * Marvel movies
 * Memento
 * Mr. Robot
+* People Just Do Nothing
 * Rainman
 * Ready Player One
+* Rick and Morty
 * Sense8
 * Seven
 * Southpark
@@ -276,6 +286,7 @@ This program / thought process consists of insights on people who are on the spe
 * Sunshine
 * Team America World Police
 * The Big Lebowski
+* The Great Gatsby
 * The men who stare at goats
 * The Mighty Boosh
 * The Last Starfighter
@@ -310,14 +321,6 @@ This program / thought process consists of insights on people who are on the spe
 * Yoga
 * Zelda
 
-# Viewing resources for neurospicies:
-* Anime (pretty much all of it)
-* Bob’s Burgers
-* Disney / Marvel content and movies
-* Dragonball Z
-* Futurama
-* Love on the spectrum
-* Rick and Morty
 
 # Listening resources
 * Amon Tobin
