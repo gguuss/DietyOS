@@ -169,6 +169,7 @@ This program / thought process consists of insights on people who are on the spe
 * Apple vs Android
 * Astronomy
 * Astrology
+* Ballet
 * Board Games
 * Chess
 * Chess club
@@ -187,6 +188,7 @@ This program / thought process consists of insights on people who are on the spe
 * Finance / accounting
 * Flow sports - really cause you to focus on the present, be immediate
 * Food
+  * French Cuisine
   * Sushi
   * Ramen
 * Gadgets
@@ -208,6 +210,7 @@ This program / thought process consists of insights on people who are on the spe
 * Skateboarding
 * Snowboarding / Skiing
 * Sports
+  * Swimming, Tennis, Gold, Basketball
 * Social sciences / sociology
 * Trivia
 * Twilight Imperium
@@ -216,21 +219,31 @@ This program / thought process consists of insights on people who are on the spe
 * Word games, wordplay, general shows of being clever
 
 # Specific coded movies and shows:
+* Arrested Development
 * Baseketball
+* Breaking Bad
+* Cable guy
 * Charlie Brown / Peanuts
+* Dumb and Dumber
 * Event Horizon
+* Fight Club
 * Gen V
 * Ghost busters
 * Happy
 * Harry Potter
 * House
 * I Heart Huckabees
-* Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
+* Kevin Smith films
+  * Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
+* Law and Order
 * Limitless
 * Little Miss Sunshine
+* Lost
 * Marvel movies
+* Memento
 * Ready Player One
 * Sense8
+* Seven
 * Southpark
 * Stanley Kubrick films
   * A clockwork orange
@@ -244,6 +257,7 @@ This program / thought process consists of insights on people who are on the spe
 * The Lord of the Rings
 * The Matrix
 * The X Files
+* Trailer Park Boys
 
 # Children's programming
 * 3-2-1 Contact
