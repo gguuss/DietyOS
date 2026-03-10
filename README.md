@@ -116,9 +116,13 @@ This program / thought process consists of insights on people who are on the spe
 * The Far Side
 * The Watchmen
 
+# Resources for understanding how we organize and are productive
+* The Critical Path
+
 # Reading resources for understanding interesting / paranormal phenomna 
 * Many lives many masters
-* THe holographic universe
+* The holographic universe
+* Quantum Mechanics
 
 # Reading resources for Psychology and understanding our thought patterns
 * Jungian Psychology
