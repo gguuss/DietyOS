@@ -227,6 +227,7 @@ This program / thought process consists of insights on people who are on the spe
 * Sports
   * Swimming, Tennis, Gold, Basketball
 * Social sciences / sociology
+
 * Trivia
 * Twilight Imperium
 * Werewolf
@@ -247,6 +248,7 @@ This program / thought process consists of insights on people who are on the spe
 * Disney / Marvel content and movies
 * Dragonball Z
 * Dumb and Dumber
+* Elysium
 * Event Horizon
 * Everything everywhere all at once
 * Fear and Loathing in Las Vegas
@@ -258,6 +260,7 @@ This program / thought process consists of insights on people who are on the spe
 * Hackers
 * Happy
 * Harry Potter
+* Homestar Runner
 * House
 * I Heart Huckabees
 * Kevin Smith films
@@ -275,7 +278,9 @@ This program / thought process consists of insights on people who are on the spe
 * People Just Do Nothing
 * Rainman
 * Ready Player One
+* Ren and Stimpy
 * Rick and Morty
+* Robot Chicken
 * Sense8
 * Seven
 * Southpark
@@ -287,6 +292,7 @@ This program / thought process consists of insights on people who are on the spe
 * Sunshine
 * Team America World Police
 * The Big Lebowski
+* The Congress
 * The Great Gatsby
 * The men who stare at goats
 * The Mighty Boosh
