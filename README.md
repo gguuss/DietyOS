@@ -54,17 +54,17 @@ This program / thought process consists of insights on people who are on the spe
 * Prone to hypersexuality but also a diversity of sexual identity and drive even asexuality and hyposexuality
 
 ## Odd phenomena of being on the spectrum
-* We were in special programs (gifted and talented) and don’t realize it’s not normal
-* High performers in academic settings (validictorian / sigma cum laude / etc)
-* Love for achievement / medals / demonstrations of high performance
-* Interest in a diversity of topics
-* We know or are in contact with lots of internet famous people or at a minimum are fascinated / follow them
-* High scores on standardized tests
-* Have an easy time in school / college / grad school
-* We are able to build large social presences and understand how to engage and build followings in social networks
 * Dunning-Kreuger effect – believing that everyone else is as intelligent as you are
 * Imposter Syndrome – denial that you are smart
+* Interest in a diversity of topics
+* High performers in academic settings (validictorian / sigma cum laude / etc)
+* Love for achievement / medals / demonstrations of high performance
+* Have an easy time in school / college / grad school
+* High scores on standardized tests
 * There is a difference between male and female neurodivergence
+* We are able to build large social presences and understand how to engage and build followings in social networks
+* We know or are in contact with lots of internet famous people or at a minimum are fascinated / follow them
+* We were in special programs (gifted and talented) and don’t realize it’s not normal
 
 ## Negative traits / things to look out for that come with our complex behaviors:
 * Anxiety – focusing too much on the future
@@ -344,6 +344,14 @@ This program / thought process consists of insights on people who are on the spe
 # Media Resources
 
 ## Specific coded movies and shows:
+
+When watching these shows look out for the following lessons:
+* Archetypes of characters
+* Relatedness to characters in the films
+* Feelings you get from the interactions between the characters
+* Patterns from the foundations section above
+
+Some shows:
 * 10 feet under
 * A Beautiful Mind
 * Almost famous
@@ -403,6 +411,7 @@ This program / thought process consists of insights on people who are on the spe
 * Mr. Robot
 * Office Space
 * People Just Do Nothing
+* Phenomenon
 * Popeye
 * Rainman
 * Ready Player One
