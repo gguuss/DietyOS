@@ -291,6 +291,15 @@ This program / thought process consists of insights on people who are on the spe
 * Comparison is the thief of joy.
 * Drink more water - being dehydrated can make you have headaches and feel sick or otherwise uncomfortable. Making sure you drink a lot of water can improve your mood/
 * Gratitude - Acknowledging the achievements and assistance you're getting from other people helps them feel good about helping you and also helps you to remain humble for the projects you collaborate on.
+* HALT Signs (Hungry angry lonely tired) these are triggers that can affect your mood and decisions.
+  * Hungry: Physical hunger can lead to irritability, low energy, poor focus, and sometimes mimic cravings or emotional distress.
+    * Strategies: Maintain regular, balanced meals and keep healthy snacks on hand to avoid severe hunger.
+  * Angry: Unprocessed anger can cloud judgment, heighten frustration, and lead to impulsive actions or unhealthy coping mechanisms.
+    * Strategies: Acknowledge anger and find healthy ways to express it. Take deep breaths, step back from heated situations, engage in physical activity to release tension, or talk to a trusted friend, sponsor, or therapist.
+  * Lonely: Feelings of isolation and disconnection can lead to emotional distress, sadness, and vulnerability.
+    * Strategies: Reach out to your support network, whether it’s family, friends, or a support group. Engage in activities that bring you joy and connect you with others, like joining clubs or volunteering.
+  * Tired: Exhaustion (physical or mental) reduces resilience, patience, and the ability to cope with stress.
+    * Strategies: Prioritize sleep and establish a consistent bedtime routine. Practice relaxation techniques like meditation or deep breathing to recharge mentally. Melatonin, Valerian Root, vitamin D, and full spectrum light exposure can help to regulate sleep.
 * Golden rules
   * Do unto others as you would want done to you.
   * If everybody did this would it be sustainable?
@@ -352,6 +361,7 @@ This program / thought process consists of insights on people who are on the spe
 * Captain Fantastic
 * Charlie Brown / Peanuts
 * Community
+* Death to Smoochy
 * Disney / Marvel content and movies
 * Dogma
 * Dragonball Z
