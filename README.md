@@ -16,6 +16,7 @@ This program / thought process consists of insights on people who are on the spe
 
 ## Foundations
 * Neurodivergence affects the way that people learn and articulate ideas and has social, communicative, and physiological impacts on the people who have it.
+* Neurodivergence affects the sensory experience of the world some people on the neurodivergent spectrum have heightened senses in some ways and filtered senses in other ways. This can cause things like sensitivity to certain types of lighting, an aversion to sounds or smells, or sensitivity to the movement of objects and people.
 * Neurodivergence is a spectrum, some people have "more" of it and some have less. I like to think of it using a belt system like in martial arts, some of us are white belts and some of us are more advanced black belts. I don't understand the phenomena well enough to fully articulate the belts and degrees of abilities and complications but I hope you like and understand the metaphor and would like some day to have a more complete classification.
 
 ## Behavior patterns
