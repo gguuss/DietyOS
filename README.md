@@ -14,6 +14,10 @@ This program / thought process consists of insights on people who are on the spe
 
 # Understanding Autism
 
+## Foundations
+* Neurodivergence affects the way that people learn and articulate ideas and has social, communicative, and physiological impacts on the people who have it.
+* Neurodivergence is a spectrum, some people have "more" of it and some have less. I like to think of it using a belt system like in martial arts, some of us are white belts and some of us are more advanced black belts. I don't understand the phenomena well enough to fully articulate the belts and degrees of abilities and complications but I hope you like and understand the metaphor and would like some day to have a more complete classification.
+
 ## Behavior patterns
 * A certain clicking sensation when communicating with similar people
 * Ability to find flaws in everything (typos, misconceptions, etc)
@@ -97,6 +101,7 @@ This program / thought process consists of insights on people who are on the spe
 * Suicide - Fascinations and hyperfixation on suicide is a risk when you struggle to understand given your emotional struggles and frustrations.
 
 ## The Spookiest things to look out for
+* Delusions - Finding connections that are not there, believing things that are not real or not fully evaluated, and coming to conclusions without sufficient rigor (present document included).
 * Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real and then capture the ghost and put it away. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
   * Schizophrenia is a virus, a schizophrenic person will make non-schizophrenics believe that they are the ones who have the problem. You must play the game of gathering facts and evaluating them from different sources of truth. You must also isolate variables with systems when you encounter situations where actors may be trying to coerce each other.
 * Self-diagnosis brings in biases from yourself that can taint the truth of what you are trying to find out.
@@ -274,7 +279,8 @@ This program / thought process consists of insights on people who are on the spe
 * "You can lead a horse to water but you can't make them drink"
 * If you're feeling stressed out, clean up and declutter your place
 
-## Powerful tools for performance and combating ego, frustration, lonliness, and pain
+## Powerful tools and adages for performance and combating ego, frustration, lonliness, and pain
+* All things in moderation including moderation. It's important to find balance in your life and this can help.
 * Are your feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
 * Comparison is the thief of joy.
 * Golden rules
