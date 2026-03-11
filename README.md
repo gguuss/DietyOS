@@ -29,6 +29,7 @@ This program / thought process consists of insights on people who are on the spe
   * Avoiding rejecting other people is just as dangerous - sometimes you hang on to relationships and people because you can sense a danger in the feeling you will give someone else when you reject them
 * Sensitivities to certain types of sounds (misophonia) and movement (kinesophonia)
 * Special interests / hyper-fixation on specific things and repetitive tasks
+* Synesthesia - sometimes you have a visual response to things you hear, e.g. seeing or attributing a color to sounds; sometimes you experience auditory hallucinations especially things like 
 * People on the spectrum want to be around similar people
 * We are attracted to intelligence
 * We are bored by normal people (NPCs)
@@ -73,6 +74,7 @@ This program / thought process consists of insights on people who are on the spe
 * Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
   * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
 * Projection – taking something that you don’t feel good about within yourself and attributing it to others
+* Psychosis - Experiencing a reality that is not there, creating delusions, oftentimes creating paranoid delusions that people helping them are trying to harm them. This can range from benign to spooky, where the person experiencing psychosis is aggressive.
 * Rage / passive aggressive behaviors
   * Throwing things into people’s rooms / intentionally creating drama and problems
   * Raising your voice when angry
