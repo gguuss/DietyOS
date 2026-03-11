@@ -285,6 +285,8 @@ This program / thought process consists of insights on people who are on the spe
 * I Heart Huckabees
 * Idiocracy
 * It's Always Sunny in Philadelphia
+* Indiana Jones
+* James Bond
 * Kevin Smith films
   * Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
 * Law and Order
@@ -307,6 +309,7 @@ This program / thought process consists of insights on people who are on the spe
 * Robot Chicken
 * Sense8
 * Seven
+* Short Circuit
 * Southpark
 * Stanley Kubrick films
   * A clockwork orange
@@ -317,6 +320,7 @@ This program / thought process consists of insights on people who are on the spe
 * Sunshine
 * Team America World Police
 * Tenet
+* Terminator 2
 * The Accountant
 * The Big Lebowski
 * The Congress
