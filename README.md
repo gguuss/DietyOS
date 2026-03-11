@@ -310,6 +310,7 @@ This program / thought process consists of insights on people who are on the spe
 * Superbad
 * Sunshine
 * Team America World Police
+* Tenet
 * The Big Lebowski
 * The Congress
 * The Fantastic Mr. Fox
@@ -375,6 +376,7 @@ This program / thought process consists of insights on people who are on the spe
 * Aphex Twin
 * Aphrodite
 * Cat Stevens
+* Charlesthefirst
 * Classical music
 * Def3
 * Dr. Dre
