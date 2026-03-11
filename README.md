@@ -288,6 +288,8 @@ This program / thought process consists of insights on people who are on the spe
 * All things in moderation including moderation. It's important to find balance in your life and this can help.
 * Are your feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
 * Comparison is the thief of joy.
+* Drink more water - being dehydrated can make you have headaches and feel sick or otherwise uncomfortable. Making sure you drink a lot of water can improve your mood/
+* Gratitude - Acknowledging the achievements and assistance you're getting from other people helps them feel good about helping you and also helps you to remain humble for the projects you collaborate on.
 * Golden rules
   * Do unto others as you would want done to you.
   * If everybody did this would it be sustainable?
@@ -308,7 +310,8 @@ This program / thought process consists of insights on people who are on the spe
 * Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
 * Therapy
 * Totems - objects that you use to hold your feelings and thoughts. These are sometimes referred to as a Tulpa.
-* Volunteering - Giving your time to help people is an important practice.
+* Vitamins - Eating vitamins promotes overall health and a vitamin deficiency can impact your mood. I like the gummy vitamins provided by Gruns.
+* Volunteering - Giving your time to help people is an important practice. Helping others will improve your mood.
 * "With great power comes great responsibility"
 
 ## Powerful affirmations / ice breakers / compliments
