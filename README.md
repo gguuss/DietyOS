@@ -78,6 +78,7 @@ This program / thought process consists of insights on people who are on the spe
 * Depression – focusing too much on the past
 * Employers taking advantage of you
   * Neuraldivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appopriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
+* Hoarding - This is a compulsion that can happen when thinking / obsession for being frugal becomes too intense.
 * Isolation - Sometimes we isolate to protect ourselves. It's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you.
 * Reframing lies as jokes - Sometimes someone smart gets caught in thier lie and then tries to play it off as "joking" - this is a dangerous deception.
 * Obsessive compulsive disorder - worrying too much about routine things
@@ -384,6 +385,7 @@ Some shows:
 * Arrested Development
 * Baseketball
 * Beavis and Butthead
+* Bloodhound Gang
 * Bob’s Burgers
 * Breaking Bad
 * Cable guy
