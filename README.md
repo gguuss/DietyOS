@@ -281,6 +281,7 @@ This program / thought process consists of insights on people who are on the spe
 * House
 * I Heart Huckabees
 * Idiocracy
+* It's Always Sunny in Philadelphia
 * Kevin Smith films
   * Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
 * Law and Order
@@ -293,6 +294,7 @@ This program / thought process consists of insights on people who are on the spe
 * Marvel movies
 * Memento
 * Mr. Robot
+* Office Space
 * People Just Do Nothing
 * Popeye
 * Rainman
@@ -308,9 +310,11 @@ This program / thought process consists of insights on people who are on the spe
   * Full Metal Jacket
 * Star Wars
 * Superbad
+* Super Troopers
 * Sunshine
 * Team America World Police
 * Tenet
+* The Accountant
 * The Big Lebowski
 * The Congress
 * The Fantastic Mr. Fox
