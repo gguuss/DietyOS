@@ -261,6 +261,7 @@ This program / thought process consists of insights on people who are on the spe
 # Thought tools
 
 ## Useful tools and adages for maintaining and fostering relationships and happiness:
+* Acceptance of what you can't change.
 * Apologizing and acknowledging when you are wrong, saying “you are right” is very powerful
 * Ascertain what people want and give them what they want instead of what you think they want
   * People like when other people give them what they want / need
@@ -269,20 +270,20 @@ This program / thought process consists of insights on people who are on the spe
 * Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
 * Creating lists / sharing and collaborating on group activities
 * Finding ways to collaborate and evaluate during conflict instead of fighting - make it a game, follow the clues, solve the puzzle.
-* "Fool me once, shame on you. Fool me twice, shame on me."
+* "Fool me once, shame on you. Fool me twice, shame on me." - if you are having repeated issues caused by someone, you should "solve the problem on your end" using a system instead of putting the burden on the other party because they are outside of your control.
 * Gifting - It's important to not use gifts to coerce people though, a gift should not come with strings attached.
 * I am what I am
 * I need some space - it's important to give your partner space when they need to be alone and also to recognize when you need some time to yourself to process or focus.
 * It is what it is
+* "Please let me know if there's anything else I can do to help!" - sometimes people aren't aware that you're willing to help, putting the offer out there can allow them to ask.
 * Repeat back what someone says to you in a different way to make sure everybody is on the same page.
 * “Safe spaces” allowing for communication without judgement (read non-violent communication)
 * Setting and maintaining boundaries where and when appropriate
 * They hate us cause they ain't us.
 * Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 * Understand whether your partner likes to be surprised or not and do what they like
-* "Please let me know if there's anything else I can do to help!"
+* "We're doing our best." Everybody has different abilities and could be having a difficult day, sometimes we feel like those around us are intentionally sabotaging our goals but this is *rarely* the case. Ackowledging that folks around you are trying their best and may not be as effective as you (or understand your goal) will help you empathize with them not being aligned to your goal.
 * "You can lead a horse to water but you can't make them drink"
-* If you're feeling stressed out, clean up and declutter your place
 
 ## Powerful tools and adages for performance and combating ego, frustration, lonliness, and pain
 * All things in moderation including moderation. It's important to find balance in your life and this can help.
@@ -294,6 +295,7 @@ This program / thought process consists of insights on people who are on the spe
   * Do unto others as you would want done to you.
   * If everybody did this would it be sustainable?
   * Be neither a borrower nor a lender.
+* If you're feeling stressed out, clean up and declutter your place
 * Imaginary friends - (although in moderation, don't fall in love with your imaginary friend) An imaginary friend (or a rubber duck on your desk) that you work through problems with in order to save other people's time and attention.
 * Immediacy - Focusing on what is happening now instead of what is going to happen or what has happaened.
 * Letting things go – sometimes it feels better to just forget and forgive than to seek justice
