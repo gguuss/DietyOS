@@ -475,6 +475,10 @@ This program / thought process consists of insights on people who are on the spe
 * You are smart
 * You have good taste!
 
+# Having a bad day? These songs could help ;-)
+* [Caribou - You can do it](https://www.youtube.com/watch?v=VrPVSz3bBq4)
+* [The Flaming Lips - Yeah yeah yeah](https://www.youtube.com/watch?v=kjrUOlK2714)
+
 # Proving that the program is running and effective
 * Journaling including thoughts on your mood and interactions will help you to measure whether this is a good program for you
 
