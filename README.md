@@ -477,3 +477,6 @@ This program / thought process consists of insights on people who are on the spe
 
 # Proving that the program is running and effective
 * Journaling including thoughts on your mood and interactions will help you to measure whether this is a good program for you
+
+# See Also
+* [Understanding Autism](https://www.open.edu/openlearn/science-maths-technology/understanding-autism/content-section-overview?active-tab=description-tab)
