@@ -88,6 +88,7 @@ This program / thought process consists of insights on people who are on the spe
   * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
   * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
   * Weed can make you paranoid and encourages doom piling.
+  * Pretty much any drug will run the risk of drug-induced psychosis, be aware and be empathetic with yourself and others shuold this occur.
 * Suicide - Fascinations and hyperfixation on suicide is a risk when you struggle to understand given your emotional struggles and frustrations.
 
 # The Spookiest thing to look out for
