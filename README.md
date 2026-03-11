@@ -12,8 +12,11 @@ This is the foundation for a neurolinguistic program to help neurodivergent peop
 
 This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood. The more aware of yourself and the patterns that you have, the better you will be able to understand them and respond in the best way to what you are feeling and what is going on in your mind. Additionally, understanding these patterns and behaviors will allow you to manage your mental health problems that you are creating for yourself through confusion in understanding the patterns and thought processes. If you find the subject / topic gives you certain feelings, maybe you should look more deeply into yourself to better understand the message of the thing, what the feeling is, and how / why it gives you a that feeling.
 
-# Behavior patterns
+# Understanding Autism
+
+## Behavior patterns
 * A certain clicking sensation when communicating with similar people
+* Ability to find flaws in everything (typos, misconceptions, etc)
 * Appreciation for people having good taste
 * Despite having a lot of mental capacity and skills, we frequently struggle with learning because we process information differently and suffer from the following issues.
   * Overthinking - when information is incomplete, we struggle to trust it, it is essential when training neurodivergent people to tell them *why* you must do something, and use words like because to help them solidify the rationale of the information.
@@ -39,14 +42,13 @@ This program / thought process consists of insights on people who are on the spe
 * We cluster and create groups of similar people and are very happy in our groups
 * We form cliques and have meetings of the minds (Friendsgiving, Garden Parties)
 * We have more meaningful communication, more clear and understood communication, especially when we understand ourselves and others
-* Ability to find flaws in everything
 
-# Odd side effects of being on the spectrum
+## Odd side effects of being on the spectrum
 * Athletically gifted and able to use mind for awesome power like healing, feats of strength, feats of endurance, fighting, getting into incredible shape, againg gracefully (looking young for your age) (it’s real, your mind is very powerful)
 * Prone to hyper fixation on certain genetic traits, e.g. fetishes
-* Prone to hypersexuality but also a diversity of sexual identity and drive
+* Prone to hypersexuality but also a diversity of sexual identity and drive even asexuality and hyposexuality
 
-# Odd phenomena of being on the spectrum
+## Odd phenomena of being on the spectrum
 * We were in special programs (gifted and talented) and don’t realize it’s not normal
 * High performers in academic settings (validictorian / sigma cum laude / etc)
 * Love for achievement / medals / demonstrations of high performance
@@ -59,7 +61,7 @@ This program / thought process consists of insights on people who are on the spe
 * Imposter Syndrome – denial that you are smart
 * There is a difference between male and female neurodivergence
 
-# Negative traits / things to look out for that come with our complex behaviors:
+## Negative traits / things to look out for that come with our complex behaviors:
 * Anxiety – focusing too much on the future
 * Codependence – harassing your partner when they are asking for space and using coercion to try and get their attention
 * Coercion – manipulation of each other through deceit, embellishment, controlling via blocking and avoiding communication or carefully managing information / presenting information in a specific or complex frame
@@ -94,23 +96,22 @@ This program / thought process consists of insights on people who are on the spe
   * Pretty much any drug will run the risk of drug-induced psychosis, be aware and be empathetic with yourself and others shuold this occur.
 * Suicide - Fascinations and hyperfixation on suicide is a risk when you struggle to understand given your emotional struggles and frustrations.
 
-# The Spookiest things to look out for
+## The Spookiest things to look out for
 * Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real and then capture the ghost and put it away. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
   * Schizophrenia is a virus, a schizophrenic person will make non-schizophrenics believe that they are the ones who have the problem. You must play the game of gathering facts and evaluating them from different sources of truth. You must also isolate variables with systems when you encounter situations where actors may be trying to coerce each other.
 * Self-diagnosis brings in biases from yourself that can taint the truth of what you are trying to find out.
 * Paranoia - overthinking and looking into the complicated behaviors of other smart people
 * Psychosis - Believing false realities and becoming fixated on them. These can lead to obstacles and confusing sensitivities from things like trauma, drug-induced psychosis, and PTSD.
 
-# Powerful tools
-* Manifesting and vision boarding - Imagining the outcome that you want and focusing on the path to that outcome.
-* Pronoia – Playing a game where you pretend that everyone and the universe are trying to help you.
-* Playing games - turning things into games transforms them from being frustrating to being fun
-  * Threading the needle - geeting as close to some objective as possible
-  * Losing things and finding them - a game that you can playn with yourself or with friends
-* Reframing - taking something that makes you feel bad and using your mind to turn it into something good
-  * Imagine an embarassing moment in your mind and replace the embarassing thing happening with you as Bart Simpson
+# Reading Resources
 
-# Reading resources for understanding attraction, social dynamics, and dominance:
+## Understanding thought patterns, success, and productivity
+* Godel, Escher, Bach
+* Critical Path - R. Buckminster Fuller
+* The Four Hour Work Week
+* The Goal - Eliyahu M. Goldratt
+
+## Understanding attraction, social dynamics, and dominance:
 * Aging Well
 * Don’t text your ex happy birthday
 * How to win friends and influence people
@@ -126,23 +127,19 @@ This program / thought process consists of insights on people who are on the spe
 * The Highly Sensitive Person
 * The subtle art of not giving a fuck
 
-# Fantasy books for understanding justice and power
+## Fantasy books for understanding justice and power
 * Game of Thrones
 * His Dark Materials
 * The Lion the Witch and the Wardrobe
 * The Phantom Tollbooth
 * The Wheel of Time
 
-# Comics and things we like
+## Comics and things we like
 * Calvin and Hobbes
 * The Far Side
 * The Watchmen
 
-# Resources for understanding how we organize and are productive
-* Critical Path - R. Buckminster Fuller
-* The Goal - Eliyahu M. Goldratt
-
-# Reading resources for understanding interesting / paranormal phenomna and the occult 
+## Understanding interesting / paranormal phenomna and the occult 
 * Aleister Crowley
 * Edgar Allan Poe
 * H. P. Lovecraft
@@ -150,14 +147,14 @@ This program / thought process consists of insights on people who are on the spe
 * The holographic universe
 * Quantum Mechanics
 
-# Reading resources for Psychology and understanding our thought patterns
+## Reading resources for Psychology and understanding our thought patterns
 * Jungian Psychology
 * DSM manuals
 * Training Dogs
 * Bandler and Grinder
   * The Structure of Magic (I & II), Frogs into Princes, Trance-formations, and Reframing 
 
-# Reading resources for puzzles, scifi, and conspiracy relevant interests:
+## Reading resources for puzzles, scifi, and conspiracy relevant interests:
 * Dan Brown Books
   * The Secret of Secrets
 * Daniel Suarez books
@@ -171,11 +168,16 @@ This program / thought process consists of insights on people who are on the spe
 * The star wars books
 * The Pythagoreans and related lore
 
-# Philosophical resources
+## Philosophical resources
 * Mortimer Adler - 6 great ideas
 * The Tao of Pooh
 
-# Reading / training resources for getting into shape and attracting people like us:
+# Attraction
+
+## Keyword for attraction:
+* Sapiosexual
+
+## Reading / training resources for getting into shape and attracting people like us:
 * Buy a scale – you can’t change what you don’t measure
 * Crossfit / Industrious / Fit Body gym
 * HIIT
@@ -186,10 +188,7 @@ This program / thought process consists of insights on people who are on the spe
 * The Hacker's Diet (calories in / calories out)
 * Use your own body as a tapestry, what you think looks good looks good
 
-# Keyword for attraction:
-* Sapiosexual
-
-# Key interests:
+## Shared interests for finding people like you:
 * 3d printing
 * Alternate reality games
 * Apple vs Android
@@ -250,7 +249,74 @@ This program / thought process consists of insights on people who are on the spe
 * Wrestling - WWE, etc
 * Word games, wordplay, general shows of being clever
 
-# Specific coded movies and shows:
+# Thought tools
+
+## Useful tools and adages for maintaining and fostering relationships and happiness:
+* Apologizing and acknowledging when you are wrong, saying “you are right” is very powerful
+* Ascertain what people want and give them what they want instead of what you think they want
+  * People like when other people give them what they want / need
+* Avoiding yelling or other forms of violent coercion that can cause your partner to “shut down”
+* Couples therapy
+* Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
+* Creating lists / sharing and collaborating on group activities
+* Finding ways to collaborate and evaluate during conflict instead of fighting - make it a game, follow the clues, solve the puzzle.
+* "Fool me once, shame on you. Fool me twice, shame on me."
+* Gifting - It's important to not use gifts to coerce people though, a gift should not come with strings attached.
+* I am what I am
+* It is what it is
+* Repeat back what someone says to you in a different way to make sure everybody is on the same page.
+* “Safe spaces” allowing for communication without judgement (read non-violent communication)
+* Setting and maintaining boundaries where and when appropriate
+* They hate us cause they ain't us.
+* Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
+* Understand whether your partner likes to be surprised or not and do what they like
+* "Please let me know if there's anything else I can do to help!"
+* "You can lead a horse to water but you can't make them drink"
+* If you're feeling stressed out, clean up and declutter your place
+
+## Powerful tools for performance and combating ego, frustration, lonliness, and pain
+* Are your feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
+* Comparison is the thief of joy.
+* Golden rules
+  * Do unto others as you would want done to you.
+  * If everybody did this would it be sustainable?
+  * Be neither a borrower nor a lender.
+* Imaginary friends - (although in moderation, don't fall in love with your imaginary friend) An imaginary friend (or a rubber duck on your desk) that you work through problems with in order to save other people's time and attention.
+* Letting things go – sometimes it feels better to just forget and forgive than to seek justice
+* Manifesting and vision boarding - Imagining the outcome that you want and focusing on the path to that outcome.
+* Mentoring - "The teacher learns twice."
+* Mind palace - having a place in your mind that you meditate on and manifest in
+* Pronoia – Playing a game where you pretend that everyone and the universe are trying to help you.
+* Playing games - turning things into games transforms them from being frustrating to being fun
+  * Threading the needle - geeting as close to some objective as possible
+  * Losing things and finding them - a game that you can playn with yourself or with friends
+* Reframing - taking something that makes you feel bad and using your mind to turn it into something good
+  * Imagine an embarassing moment in your mind and replace the embarassing thing happening with you as Bart Simpson
+* Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
+* Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
+* Therapy
+* Totems - objects that you use to hold your feelings and thoughts. These are sometimes referred to as a Tulpa.
+* Volunteering - Giving your time to help people is an important practice.
+* "With great power comes great responsibility"
+
+## Powerful affirmations / ice breakers / compliments
+* I like your art!
+* I love you
+* I love myself
+* Jokes / Dad Jokes
+* Let's goooooo
+* Life is rad
+* You are enough
+* You are smart
+* You have good taste!
+
+## Having a bad day? These songs could help ;-)
+* [Caribou - You can do it](https://www.youtube.com/watch?v=VrPVSz3bBq4)
+* [The Flaming Lips - Yeah yeah yeah](https://www.youtube.com/watch?v=kjrUOlK2714)
+
+# Media Resources
+
+## Specific coded movies and shows:
 * 10 feet under
 * A Beautiful Mind
 * Almost famous
@@ -347,12 +413,12 @@ This program / thought process consists of insights on people who are on the spe
   * The Royal Tennenbaums
 * Wonderfalls
 
-# Children's programming
+## Children's programming
 * 3-2-1 Contact
 * Blue's clues
 * Sesame street
 
-# Comedy
+## Comedy
 * Chris Rock
 * Dave Chapelle
 * Danny DeVito
@@ -364,7 +430,7 @@ This program / thought process consists of insights on people who are on the spe
 * Steve Carrel
 * Will Farrel
 
-# Specific places that are spectrum coded / travel interests:
+## Specific places that are spectrum coded / travel interests:
 * China
 * France
 * Germany
@@ -375,7 +441,7 @@ This program / thought process consists of insights on people who are on the spe
 * New Zealand
 * Russia
 
-# Video Games
+## Video Games
 * Counterstrike
 * Escape Rooms
 * Final Fantasy
@@ -388,7 +454,7 @@ This program / thought process consists of insights on people who are on the spe
 * Warcraft
 * Zelda
 
-# Listening resources
+## Listening resources
 * Amon Tobin
 * Aphex Twin
 * Aphrodite
@@ -430,57 +496,6 @@ This program / thought process consists of insights on people who are on the spe
 * Willy Nelson
 * Wu-tang Clan
 * Zebbler Encanti Experience
-
-# Useful tools and adages for maintaining and fostering relationships and happiness:
-* Apologizing and acknowledging when you are wrong, saying “you are right” is very powerful
-* Ascertain what people want and give them what they want instead of what you think they want
-  * People like when other people give them what they want / need
-* Avoiding yelling or other forms of violent coercion that can cause your partner to “shut down”
-* Repeat back what someone says to you in a different way to make sure everybody is on the same page.
-* Comparison is the thief of joy.
-* Creating protocols such as “let’s disconnect” when you need to have time and space to yourself
-* Creating lists / sharing and collaborating on group activities
-* Are your feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
-* Finding ways to collaborate and evaluate during conflict instead of fighting - make it a game, follow the clues, solve the puzzle.
-* "Fool me once, shame on you. Fool me twice, shame on me."
-* Gifting - It's important to not use gifts to coerce people though, a gift should not come with strings attached.
-* Golden rules
-  * Do unto others as you would want done to you.
-  * If everybody did this would it be sustainable?
-  * Be neither a borrower nor a lender.
-* I am what I am
-* Imaginary friends - (although in moderation, don't fall in love with your imaginary friend) An imaginary friend (or a rubber duck on your desk) that you work through problems with in order to save other people's time and attention.
-* It is what it is
-* Letting things go – sometimes it feels better to just forget and forgive than to seek justice
-* Mind palace - having a place in your mind that you meditate on and manifest in
-* “Safe spaces” allowing for communication without judgement (read non-violent communication)
-* Setting and maintaining boundaries where and when appropriate
-* Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
-* Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
-* Therapy / both individual and couples therapy
-* They hate us cause they ain't us.
-* Totems - objects that you use to hold your feelings and thoughts. These are sometimes referred to as a Tulpa.
-* Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
-* Understand whether your partner likes to be surprised or not and do what they like
-* "With great power comes great responsibility"
-* Volunteering - Giving your time to help people is an important practice.
-* "Please let me know if there's anything else I can do to help!"
-* "You can lead a horse to water but you can't make them drink"
-* If you're feeling stressed out, clean up and declutter your place
-
-# Powerful affirmations / ice breakers / compliments
-* I like your art!
-* I love you
-* I love myself
-* Let's goooooo
-* Life is rad
-* You are enough
-* You are smart
-* You have good taste!
-
-# Having a bad day? These songs could help ;-)
-* [Caribou - You can do it](https://www.youtube.com/watch?v=VrPVSz3bBq4)
-* [The Flaming Lips - Yeah yeah yeah](https://www.youtube.com/watch?v=kjrUOlK2714)
 
 # Proving that the program is running and effective
 * Journaling including thoughts on your mood and interactions will help you to measure whether this is a good program for you
