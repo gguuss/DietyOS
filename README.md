@@ -78,7 +78,7 @@ This program / thought process consists of insights on people who are on the spe
   * Raising your voice when angry
   * Punishing your partner through withdrawal / becoming non-communicative
   * Retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
-* Retaliation - Responding to feelings of being injusted with coercive resolutions.
+* Retaliation - Responding to feelings of being injusted with coercive resolutions. It's also possible through mental gymnastics to retaliate against people for helping (a theme of the Ender's Shadow series) this could come from an inferiority complex.
 * Spiraling – Thinking about the same thing over and over and over and over and over
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
 * Stealing other people's ideas - it's important to give credit where credit is due and acknowledge that we are "standing on the shoulders of giants" when building new things
