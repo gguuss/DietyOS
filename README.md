@@ -307,6 +307,7 @@ This program / thought process consists of insights on people who are on the spe
 * Ren and Stimpy
 * Rick and Morty
 * Robot Chicken
+* Scott Pilgrim vs the World
 * Sense8
 * Seven
 * Short Circuit
