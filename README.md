@@ -91,11 +91,12 @@ This program / thought process consists of insights on people who are on the spe
   * Pretty much any drug will run the risk of drug-induced psychosis, be aware and be empathetic with yourself and others shuold this occur.
 * Suicide - Fascinations and hyperfixation on suicide is a risk when you struggle to understand given your emotional struggles and frustrations.
 
-# The Spookiest thing to look out for
+# The Spookiest things to look out for
 * Schizophrenia – This is when you are fabricating realities and are experiencing / focusing on and actualizing things that are not real. I like to think of Schizophrenia like Ghost Busters the movie, you are trying to seek out and find the ghost and then ascertaining with external facts what is real and then capture the ghost and put it away. It's very important to keep detailed notes and to compare facts with others to find the ghost and determine what is real when you encounter conflict.
   * Schizophrenia is a virus, a schizophrenic person will make non-schizophrenics believe that they are the ones who have the problem. You must play the game of gathering facts and evaluating them from different sources of truth. You must also isolate variables with systems when you encounter situations where actors may be trying to coerce each other.
 * Self-diagnosis brings in biases from yourself that can taint the truth of what you are trying to find out.
 * Paranoia - overthinking and looking into the complicated behaviors of other smart people
+* Psychosis - Believing false realities and becoming fixated on them. These can lead to obstacles and confusing sensitivities from things like trauma, drug-induced psychosis, and PTSD.
 
 # Powerful tools
 * Manifesting and vision boarding - Imagining the outcome that you want and focusing on the path to that outcome.
