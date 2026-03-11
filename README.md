@@ -453,7 +453,7 @@ This program / thought process consists of insights on people who are on the spe
 * Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
 * Therapy / both individual and couples therapy
 * They hate us cause they ain't us.
-* Totems - objects that you use to hold your feelings and thoughts. These are sometimes referred to as a Tulsa.
+* Totems - objects that you use to hold your feelings and thoughts. These are sometimes referred to as a Tulpa.
 * Try as best you can to learn people's names: repeat their name back to them when they tell you it and use their name when talking to them
 * Understand whether your partner likes to be surprised or not and do what they like
 * "With great power comes great responsibility"
