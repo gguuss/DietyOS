@@ -313,6 +313,7 @@ This program / thought process consists of insights on people who are on the spe
 * Jokes / Dad Jokes
 * Let's goooooo
 * Life is rad
+* Riddles
 * You are enough
 * You are smart
 * You have good taste!
@@ -329,6 +330,7 @@ This program / thought process consists of insights on people who are on the spe
 * Almost famous
 * A Scanner Darkly
 * Anime (pretty much all of it)
+* Aqua Team Hunger Force
 * Avatar
 * Arrested Development
 * Baseketball
@@ -358,11 +360,13 @@ This program / thought process consists of insights on people who are on the spe
 * Hackers
 * Happy
 * Harry Potter
+* Heroes
 * Homestar Runner
 * House
 * I Heart Huckabees
 * Idiocracy
 * It's Always Sunny in Philadelphia
+* Imaginary Friends
 * Indiana Jones
 * James Bond
 * Kevin Smith films
