@@ -243,6 +243,7 @@ This program / thought process consists of insights on people who are on the spe
 * Twilight Imperium
 * Werewolf
 * Witchcraft / magic / the paranormal
+* Wrestling - WWE, etc
 * Word games, wordplay, general shows of being clever
 
 # Specific coded movies and shows:
