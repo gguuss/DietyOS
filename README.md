@@ -135,6 +135,7 @@ This program / thought process consists of insights on people who are on the spe
 ## Fantasy books for understanding justice and power
 * Game of Thrones
 * His Dark Materials
+* Mr. Penumbra's 24-Hour Bookstore
 * The Lion the Witch and the Wardrobe
 * The Phantom Tollbooth
 * The Wheel of Time
