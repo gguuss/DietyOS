@@ -402,6 +402,7 @@ This program / thought process consists of insights on people who are on the spe
 * MF Doom
 * MGMT
 * Mr. Bill
+* Mr. Traumatik
 * Nirvana
 * Pink Floyd
 * Radiohead
