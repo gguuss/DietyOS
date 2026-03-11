@@ -278,6 +278,9 @@ This program / thought process consists of insights on people who are on the spe
   * Clean up and declutter your place
 * Rage?
   * Go outside and yell at trees instead of people or writing rude emails
+* Too many side projects?
+  * Monotask - Only work on one thing at a time and work on it until it is complete or abandon it.
+  * Organize - Make a list of your tasks and work through them in order of what will take the least amount of time or what is the most important to get done.
 
 ## Useful tools and adages for maintaining and fostering relationships and happiness:
 * Acceptance of what you can't change.
