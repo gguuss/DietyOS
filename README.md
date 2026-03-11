@@ -448,6 +448,7 @@ This program / thought process consists of insights on people who are on the spe
 * Volunteering - Giving your time to help people is an important practice.
 * "Please let me know if there's anything else I can do to help!"
 * "You can lead a horse to water but you can't make them drink"
+* If you're feeling stressed out, clean up and declutter your place
 
 # Powerful affirmations / ice breakers / compliments
 * I like your art!
