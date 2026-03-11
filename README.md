@@ -12,7 +12,7 @@ This is the foundation for a neurolinguistic program to help neurodivergent peop
 
 This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood. The more aware of yourself and the patterns that you have, the better you will be able to understand them and respond in the best way to what you are feeling and what is going on in your mind. Additionally, understanding these patterns and behaviors will allow you to manage your mental health problems that you are creating for yourself through confusion in understanding the patterns and thought processes. If you find the subject / topic gives you certain feelings, maybe you should look more deeply into yourself to better understand the message of the thing, what the feeling is, and how / why it gives you a that feeling.
 
-# Understanding Autism
+# Understanding Neurodivergence 
 
 ## Foundations
 * Neurodivergence affects the way that people learn and articulate ideas and has social, communicative, and physiological impacts on the people who have it.
@@ -260,6 +260,25 @@ This program / thought process consists of insights on people who are on the spe
 
 # Thought tools
 
+## Troubleshooting
+* Depressed or Anxious?
+  * Focus on the present and not on the future or the past.
+* Headache?
+  * Dehydrated - Try drinking some water
+* Gaining weight / overweight?
+  * Avoid sugar
+  * Try fasting - be careful not to overdo it - use a program and talk to a dietician
+* Feet hurt?
+  * Planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
+* Lack of motivation
+  * Cold shower in the morning
+* Paranoid?
+  * Imagine that the people around you and the universe are secretly trying to help you, playing tricks to help you along.
+* Stressed out?
+  * Clean up and declutter your place
+* Rage?
+  * Go outside and yell at trees instead of people or writing rude emails
+
 ## Useful tools and adages for maintaining and fostering relationships and happiness:
 * Acceptance of what you can't change.
 * Apologizing and acknowledging when you are wrong, saying “you are right” is very powerful
@@ -352,7 +371,7 @@ When watching these shows look out for the following lessons:
 * Patterns from the foundations section above
 
 Some shows:
-* 10 feet under
+* 10 feet undera
 * A Beautiful Mind
 * Almost famous
 * A Scanner Darkly
