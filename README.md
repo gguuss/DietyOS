@@ -236,6 +236,7 @@ This program / thought process consists of insights on people who are on the spe
 * Onewheel
 * Painting
 * Pilates
+* Pottery
 * Psychology
 * Puzzles
 * Reading
@@ -255,6 +256,7 @@ This program / thought process consists of insights on people who are on the spe
 * Witchcraft / magic / the paranormal
 * Wrestling - WWE, etc
 * Word games, wordplay, general shows of being clever
+* Yoga
 
 # Thought tools
 
@@ -270,6 +272,7 @@ This program / thought process consists of insights on people who are on the spe
 * "Fool me once, shame on you. Fool me twice, shame on me."
 * Gifting - It's important to not use gifts to coerce people though, a gift should not come with strings attached.
 * I am what I am
+* I need some space - it's important to give your partner space when they need to be alone and also to recognize when you need some time to yourself to process or focus.
 * It is what it is
 * Repeat back what someone says to you in a different way to make sure everybody is on the same page.
 * “Safe spaces” allowing for communication without judgement (read non-violent communication)
@@ -290,6 +293,7 @@ This program / thought process consists of insights on people who are on the spe
   * If everybody did this would it be sustainable?
   * Be neither a borrower nor a lender.
 * Imaginary friends - (although in moderation, don't fall in love with your imaginary friend) An imaginary friend (or a rubber duck on your desk) that you work through problems with in order to save other people's time and attention.
+* Immediacy - Focusing on what is happening now instead of what is going to happen or what has happaened.
 * Letting things go – sometimes it feels better to just forget and forgive than to seek justice
 * Manifesting and vision boarding - Imagining the outcome that you want and focusing on the path to that outcome.
 * Mentoring - "The teacher learns twice."
@@ -462,7 +466,7 @@ This program / thought process consists of insights on people who are on the spe
 * Overwatch
 * Super Smash Brothers
 * Starcraft
-* Yoga
+* Tetris
 * Warcraft
 * Zelda
 
@@ -482,8 +486,10 @@ This program / thought process consists of insights on people who are on the spe
 * ill.Gates
 * Infected Mushroom
 * Jazz Music
+* Justice
 * Korn
 * Jimi Hendrix
+* Justice
 * Led Zeppelin
 * Mac Miller
 * Metallica
