@@ -98,7 +98,7 @@ This program / thought process consists of insights on people who are on the spe
   * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
   * Weed can make you paranoid and encourages doom piling.
   * Pretty much any drug will run the risk of drug-induced psychosis, be aware and be empathetic with yourself and others shuold this occur.
-* Suicide - Fascinations and hyperfixation on suicide is a risk when you struggle to understand given your emotional struggles and frustrations.
+* Suicide - Fascinations and hyperfixation on suicide is a risk when you struggle to understand why a traumatic situation happend given your emotional struggles, sense of trust, and frustrations with being understood.
 
 ## The Spookiest things to look out for
 * Delusions - Finding connections that are not there, believing things that are not real or not fully evaluated, and coming to conclusions without sufficient rigor (present document included).
