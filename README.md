@@ -4,6 +4,9 @@
 I am not a therapist, I have not evaluated or tested this framework and these ideas.
 Please take these resources with considerations of doubt and I encourage you to challenge these concepts and improve them. This resource is based on a study body of just mainly one person, myself, and the insights and observations that have been helpful for me to improve myself. The biases in the resources lean towards my taste and the observations might only make sense to me as they're from my frame of reference and perspective.
 
+### Credits and Acknowledgements ###
+These tools, ideas, and insights came from the teachings of many incredible people (my family, teachers, books, friends, music, relationships) over the course of my life and it would be dishonest for me to take credit for them all (or even any of it). I'm standing on the shoulders of giants and have been given so much help all along the way and am working on finding the best way to acknowledge all the people who have taught me these lessons and I have a feeling that some of the folks would not like crediting so I'll be sensitive and careful. If you notice something in here that you taugnt me and would like an acknowledgement, let me know, email the name of the project at ourfriendgus dot com.
+
 ## Overview ##
 This is the foundation for a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships. All of these topics and behaviors and interests need to be observed through the lens of intelligence - the smarter you are the more you "get it" and it's ok not to understand some of the things if they don't apply to you.
 
