@@ -403,6 +403,7 @@ Some shows:
 * Drop Dead Fred
 * Dumb and Dumber
 * Elysium
+* Eternal Sunshine of the Spotless Mind
 * Event Horizon
 * Everything everywhere all at once
 * Fear and Loathing in Las Vegas
