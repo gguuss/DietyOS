@@ -37,6 +37,7 @@ This program / thought process consists of insights on people who are on the spe
 * Having expectations met or not (e.g. liking surprises or not liking to be surprised)
 * Gullibility - falling for people lying to us / overly trusting
 * Isolation - stemming from feelings of not being understood and not belonging, we can isolate ourselves. Along with isolation can come loneliness and a downward spiral of not fixing the problem by finding people and being social. Additionally, social interactions can be tiring and wearing if we are frustrated from the interactions.
+* Intuition - Getting feelings about things that once you understand the feelings explain the feeling.
 * Limitless - people on the spectrum are unaware of limits and don't understand that most people can't keep going in the ways that they do
 * Love of systems – things that automatically do the right thing or protect against defects
 * Making lists and hierarchies and really enjoying it
@@ -46,6 +47,7 @@ This program / thought process consists of insights on people who are on the spe
 * Sensitivities to certain types of sounds (misophonia) and movement (kinesophonia)
 * Special interests / hyper-fixation on specific things and repetitive tasks
 * Synesthesia - sometimes you have a visual response to things you hear, e.g. seeing or attributing a color to sounds; sometimes you experience auditory hallucinations especially things like 
+* Pattern recognition - also learning through redcognizing patterns
 * People on the spectrum want to be around similar people
 * We are attracted to intelligence
 * We are bored by normal people (NPCs)
