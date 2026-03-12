@@ -89,6 +89,7 @@ This program / thought process consists of insights on people who are on the spe
 * Isolation - Sometimes we isolate to protect ourselves. It's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you.
 * Mania - getting overly excited
   * You can control mania with meditation and routine
+  * If people are telling you that you're too excited or are talking too fast or are having trouble understanding you, it could be mania.
   * Mania is dangerous because it can lead to crashes and depression (inflating a baloon will stretch it and wear it)
   * You can't have high peaks without a valley balancing it out
 * Reframing lies as jokes - Sometimes someone smart gets caught in thier lie and then tries to play it off as "joking" - this is a dangerous deception.
