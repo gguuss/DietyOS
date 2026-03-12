@@ -577,7 +577,8 @@ Some shows:
 * Zebbler Encanti Experience
 
 # Proving that the program is running and effective
-* Journaling including thoughts on your mood and interactions will help you to measure whether this is a good program for you
+* Journaling including thoughts on your mood and interactions will help you to measure whether this is a good program for you.
+* Journaling can also be used to avoid the pitfalls of bad thought processes and identify inconsistencies within yourself.
 
 # See Also
 * [Understanding Autism](https://www.open.edu/openlearn/science-maths-technology/understanding-autism/content-section-overview?active-tab=description-tab)
