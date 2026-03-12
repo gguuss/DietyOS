@@ -228,6 +228,7 @@ This program / thought process consists of insights on people who are on the spe
 * Gadgets
 * Genealogy / ancestry / genetics / inheritance
 * Jokes - it's really helpful and fun to learn and share jokes with your friends and people you meet
+* Karaoke
 * Law
 * Martial arts
 * Math
