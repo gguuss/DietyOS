@@ -354,6 +354,11 @@ This program / thought process consists of insights on people who are on the spe
 * If you're feeling stressed out, clean up and declutter your place
 * Imaginary friends - (although in moderation, don't fall in love with your imaginary friend) An imaginary friend (or a rubber duck on your desk) that you work through problems with in order to save other people's time and attention.
 * Immediacy - Focusing on what is happening now instead of what is going to happen or what has happaened.
+* Intuitive memory
+  * Use mnemonic devices like acronyms like a word or pharse that captures the thing you're trying to remember
+  * Give people tools or jokes or puns or sentences to remember things or make them up yourself to help remember
+    * If you're birthday is 3/13 say "it's the day before pi day"
+    * If you're name is Gus, say "I'll bet you can't GUS my name'
 * Letting things go – sometimes it feels better to just forget and forgive than to seek justice
 * Manifesting and vision boarding - Imagining the outcome that you want and focusing on the path to that outcome.
 * Mentoring - "The teacher learns twice."
