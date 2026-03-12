@@ -312,6 +312,7 @@ This program / thought process consists of insights on people who are on the spe
 * "You can lead a horse to water but you can't make them drink"
 
 ## Powerful tools and adages for performance and combating ego, frustration, lonliness, and pain
+* [10 Principles](https://burningman.org/about-us/10-principles/)
 * All things in moderation including moderation. It's important to find balance in your life and this can help.
 * Are your feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
 * Comparison is the thief of joy.
