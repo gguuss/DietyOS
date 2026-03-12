@@ -348,7 +348,8 @@ This program / thought process consists of insights on people who are on the spe
 * Volunteering - Giving your time to help people is an important practice. Helping others will improve your mood.
 * "With great power comes great responsibility"
 
-## Powerful affirmations / ice breakers / compliments
+## Powerful affirmations / ice breakers / compliments / truthisms
+* Be excellent to eachother!
 * Don't panic!
 * I like your art!
 * I love you
@@ -386,6 +387,7 @@ Some shows:
 * Arrested Development
 * Baseketball
 * Beavis and Butthead
+* Bill and Ted's Excellent Adventure
 * Bloodhound Gang
 * Bob’s Burgers
 * Breaking Bad
