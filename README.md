@@ -85,6 +85,10 @@ This program / thought process consists of insights on people who are on the spe
   * Neuraldivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appopriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
 * Hoarding - This is a compulsion that can happen when thinking / obsession for being frugal becomes too intense.
 * Isolation - Sometimes we isolate to protect ourselves. It's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you.
+* Mania - getting overly excited
+  * You can control mania with meditation and routine
+  * Mania is dangerous because it can lead to crashes and depression (inflating a baloon will stretch it and wear it)
+  * You can't have high peaks without a valley balancing it out
 * Reframing lies as jokes - Sometimes someone smart gets caught in thier lie and then tries to play it off as "joking" - this is a dangerous deception.
 * Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
   * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
@@ -354,6 +358,10 @@ This program / thought process consists of insights on people who are on the spe
 * Reframing - taking something that makes you feel bad and using your mind to turn it into something good
   * Imagine an embarassing moment in your mind and replace the embarassing thing happening with you as Bart Simpson
 * Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
+* Sleep
+  * Melatonin can help overall with sleep
+  * Unisom can help you fall asleep
+  * Valerian root can help with deeper, longer sleep
 * Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
 * "Stress is like holding a glass of water in front of you, for 5 minutes it's not that much but after 30 minutes it becomes a lot."
 * [Table Manners](https://ourfriendgus.com/table-manners/)
