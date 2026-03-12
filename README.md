@@ -245,10 +245,12 @@ This program / thought process consists of insights on people who are on the spe
   * French Cuisine
   * Sushi
   * Ramen
+* Fung Shui - note that this is a system of organizing furniture and objects so that people will do the right thing by default
 * Gadgets
 * Genealogy / ancestry / genetics / inheritance
 * Gestault - optical and audio illusions, Bauhaus aesthetics, etc (M.C. Escher)
 * Jokes - it's really helpful and fun to learn and share jokes with your friends and people you meet
+* KonMari Method - this is a system for decluttering
 * Karaoke
 * Law
 * Martial arts
@@ -321,6 +323,7 @@ This program / thought process consists of insights on people who are on the spe
 * I am what I am
 * I need some space - it's important to give your partner space when they need to be alone and also to recognize when you need some time to yourself to process or focus.
 * It is what it is
+* KonMari Method - this is a system for decluttering
 * "Please let me know if there's anything else I can do to help!" - sometimes people aren't aware that you're willing to help, putting the offer out there can allow them to ask.
 * Repeat back what someone says to you in a different way to make sure everybody is on the same page.
 * “Safe spaces” allowing for communication without judgement (read non-violent communication)
