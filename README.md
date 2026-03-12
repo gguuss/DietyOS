@@ -373,6 +373,7 @@ This program / thought process consists of insights on people who are on the spe
 * Vitamins - Eating vitamins promotes overall health and a vitamin deficiency can impact your mood. I like the gummy vitamins provided by Gruns.
 * Volunteering - Giving your time to help people is an important practice. Helping others will improve your mood.
 * "With great power comes great responsibility"
+* When someone is talking to you, look them in the eyes, if you are overwhelmed when you look people in the eyes, instead focus on their 'third eye" above and between the eyes on the forehead
 
 ## Powerful affirmations / ice breakers / compliments / truthisms
 * Be excellent to eachother!
