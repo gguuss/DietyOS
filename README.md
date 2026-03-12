@@ -85,6 +85,7 @@ This program / thought process consists of insights on people who are on the spe
 * Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
   * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
 * Projection – taking something that you don’t feel good about within yourself and attributing it to others
+* Provokation - This can be tasteful provocation like pranks (there's a theme of this in Super Troopers, don't be like Farva). This can also be trolling.
 * Psychosis - Experiencing a reality that is not there, creating delusions, oftentimes creating paranoid delusions that people helping them are trying to harm them. This can range from benign to spooky, where the person experiencing psychosis is aggressive.
 * Rage / passive aggressive behaviors
   * Throwing things into people’s rooms / intentionally creating drama and problems
