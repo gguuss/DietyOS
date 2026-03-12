@@ -349,6 +349,7 @@ This program / thought process consists of insights on people who are on the spe
 * "With great power comes great responsibility"
 
 ## Powerful affirmations / ice breakers / compliments
+* Don't panic!
 * I like your art!
 * I love you
 * I love myself
@@ -461,12 +462,15 @@ Some shows:
 * The Big Lebowski
 * The Congress
 * The Fantastic Mr. Fox
+* The Fifth Element
 * The Great Gatsby
+* The hitchhiker's guide to the galaxy
 * The men who stare at goats
 * The Mighty Boosh
 * The Last Starfighter
 * The Lord of the Rings
 * The Matrix
+* The Tao of Steve
 * The X Files
 * Trailer Park Boys
 * Twin Peaks
