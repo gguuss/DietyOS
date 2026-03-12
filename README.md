@@ -417,6 +417,7 @@ Some shows:
 * A Beautiful Mind
 * Almost famous
 * A Scanner Darkly
+* American Beauty
 * Anime (pretty much all of it)
 * Aqua Team Hunger Force
 * Avatar
@@ -435,6 +436,7 @@ Some shows:
 * Death to Smoochy
 * Disney / Marvel content and movies
 * Dogma
+* Donny Darko
 * Dragonball Z
 * Drop Dead Fred
 * Dumb and Dumber
