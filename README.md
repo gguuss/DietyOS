@@ -227,6 +227,7 @@ This program / thought process consists of insights on people who are on the spe
   * Ramen
 * Gadgets
 * Genealogy / ancestry / genetics / inheritance
+* Gestault - optical and audio illusions, Bauhaus aesthetics, etc (M.C. Escher)
 * Jokes - it's really helpful and fun to learn and share jokes with your friends and people you meet
 * Karaoke
 * Law
