@@ -395,7 +395,6 @@ Some shows:
 * Baseketball
 * Beavis and Butthead
 * Bill and Ted's Excellent Adventure
-* Bloodhound Gang
 * Bob’s Burgers
 * Breaking Bad
 * Cable guy
@@ -403,6 +402,7 @@ Some shows:
 * Captain Fantastic
 * Charlie Brown / Peanuts
 * Community
+* Curb Your Enthusiasm
 * Death to Smoochy
 * Disney / Marvel content and movies
 * Dogma
@@ -427,6 +427,7 @@ Some shows:
 * Homestar Runner
 * House
 * I Heart Huckabees
+* I Think You Should Leave
 * Idiocracy
 * It's Always Sunny in Philadelphia
 * Imaginary Friends
@@ -537,6 +538,7 @@ Some shows:
 * Amon Tobin
 * Aphex Twin
 * Aphrodite
+* Bloodhound Gang
 * Cat Stevens
 * Charlesthefirst
 * Classical music
