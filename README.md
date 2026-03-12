@@ -342,6 +342,7 @@ This program / thought process consists of insights on people who are on the spe
   * Imagine an embarassing moment in your mind and replace the embarassing thing happening with you as Bart Simpson
 * Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
 * Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
+* "Stress is like holding a glass of water in front of you, for 5 minutes it's not that much but after 30 minutes it becomes a lot."
 * Therapy
 * Totems - objects that you use to hold your feelings and thoughts. These are sometimes referred to as a Tulpa.
 * Vitamins - Eating vitamins promotes overall health and a vitamin deficiency can impact your mood. I like the gummy vitamins provided by Gruns.
@@ -475,6 +476,7 @@ Some shows:
 * The Matrix
 * The Tao of Steve
 * The X Files
+* Toys
 * Trailer Park Boys
 * Twin Peaks
 * Twins
@@ -553,6 +555,7 @@ Some shows:
 * Mr. Bill
 * Mr. Traumatik
 * Nirvana
+* Notorious BIG
 * Pink Floyd
 * Radiohead
 * Rob Couth
