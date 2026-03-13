@@ -260,6 +260,7 @@ This program / thought process consists of insights on people who are on the spe
 * Genealogy / ancestry / genetics / inheritance
 * Gestault - optical and audio illusions, Bauhaus aesthetics, etc (M.C. Escher)
 * Jokes - it's really helpful and fun to learn and share jokes with your friends and people you meet
+* Kendama
 * KonMari Method - this is a system for decluttering
 * Karaoke
 * Law
@@ -573,10 +574,12 @@ Some shows:
 ## Video Games
 * Counterstrike
 * Escape Rooms
+* Factorio
 * Final Fantasy
 * Halo
 * League of Legends (LOL)
 * Overwatch
+* Satisfactory
 * Super Smash Brothers
 * Starcraft
 * Tetris
