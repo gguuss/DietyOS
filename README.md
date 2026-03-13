@@ -375,6 +375,7 @@ This program / thought process consists of insights on people who are on the spe
   * Give people tools or jokes or puns or sentences to remember things or make them up yourself to help remember
     * If you're birthday is 3/13 say "it's the day before pi day"
     * If you're name is Gus, say "I'll bet you can't GUS my name'
+* It can be ineffective and destructive to engage with someone who has provoked you right when they did it. Wait and let them cool off and allow yourself to cool off as well. Think about the outcome that you want from the situation and try to engage with empathy taking into consideration the negative traits that come with our complex behaviors.
 * Letting things go – sometimes it feels better to just forget and forgive than to seek justice
 * Manifesting and vision boarding - Imagining the outcome that you want and focusing on the path to that outcome.
 * Mentoring - "The teacher learns twice."
