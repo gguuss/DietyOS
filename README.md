@@ -128,6 +128,9 @@ This program / thought process consists of insights on people who are on the spe
 * Paranoia - overthinking and looking into the complicated behaviors of other smart people
 * Psychosis - Believing false realities and becoming fixated on them. These can lead to obstacles and confusing sensitivities from things like trauma, drug-induced psychosis, and PTSD.
 
+# Extremely dubious and unsubstantiated but humorous claims
+* Neurodivergent people can be measured by how long they can hold your bladder because they're more likely to be unwilling to go when they're supposed to, which causes it to stretch.
+
 # Reading Resources
 
 ## Understanding thought patterns, success, and productivity
@@ -219,6 +222,7 @@ This program / thought process consists of insights on people who are on the spe
 
 ## Shared interests for finding people like you:
 * 3d printing
+* Accupuncture
 * Alternate reality games
 * Apple vs Android
 * Astronomy
@@ -231,6 +235,7 @@ This program / thought process consists of insights on people who are on the spe
 * Computer programming
 * Competition
 * Comics
+* Conspiracies / conspiracy theories
 * Cooking
 * Dance / Swingdance / Tapdance
 * Debate
@@ -258,6 +263,7 @@ This program / thought process consists of insights on people who are on the spe
 * Medicine / Nursing
 * Music – especially extremely complex music like Rap, Jazz, Tipper, and related bass music, as well as music that has deep meaningful messages in the lyrics and themes
 * Monowheel / Inmotion EUCs
+* Naturalpathy
 * Occult
 * Onewheel
 * Painting
@@ -406,6 +412,7 @@ This program / thought process consists of insights on people who are on the spe
 * [The Flaming Lips - Yeah yeah yeah](https://www.youtube.com/watch?v=kjrUOlK2714)
 
 # Media Resources
+Everybody learns differently, some people prefer to watch movies, others prefer to listen to stories, others like to do things kinesthetically (sports or physical puzzles like the Rubik's cube). You should learn in the way that you enjoy, prefer, or that works for you and don't feel like you need to learn through what works for other people.
 
 ## Specific coded movies and shows:
 
@@ -425,6 +432,7 @@ Some shows:
 * Aqua Team Hunger Force
 * Avatar
 * Arrested Development
+* Baby Geniuses
 * Baseketball
 * Beavis and Butthead
 * Bill and Ted's Excellent Adventure
