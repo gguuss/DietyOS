@@ -132,8 +132,9 @@ This program / thought process consists of insights on people who are on the spe
 * People with autism have a significantly higher risk of developing cardiovascular disease (46% higher) and metabolic conditions like diabetes (57% higher) compared to those without.
 * Research on autism spectrum disorder (ASD) and cancer shows complex, sometimes contradictory results, with recent studies suggesting a modestly increased overall cancer risk (roughly 30% higher) in individuals with ASD.
 
-## Extremely dubious and unsubstantiated but humorous claims
+## Extremely dubious and unsubstantiated but also potentially humorous claims
 * Neurodivergent people can be measured by how long they can hold your bladder because they're more likely to be unwilling to go when they're supposed to, which causes it to stretch.
+* Covid was harder for people who are on the neurodivergent spectrum because of a heightened sense of empathy and awareness.
 
 # Reading Resources
 
