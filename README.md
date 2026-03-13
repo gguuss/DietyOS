@@ -350,6 +350,7 @@ This program / thought process consists of insights on people who are on the spe
 * [10 Principles](https://burningman.org/about-us/10-principles/)
 * All things in moderation including moderation. It's important to find balance in your life and this can help.
 * Are your feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
+* Wrist pain - If you hyperfixate on using computers and have bad posture, you might suffer from wrist pain. Products like the Gyro Ball, DFX Powerball Sports Pro, and so forth can be really helpful for reducing the pain. It can also be helpful to switch the hand that you mouse with or use a variety of keyboard configurations or an ergonomic keyboard to alleviate the pain.
 * Comparison is the thief of joy.
 * Drink more water - being dehydrated can make you have headaches and feel sick or otherwise uncomfortable. Making sure you drink a lot of water can improve your mood/
 * Gratitude - Acknowledging the achievements and assistance you're getting from other people helps them feel good about helping you and also helps you to remain humble for the projects you collaborate on.
