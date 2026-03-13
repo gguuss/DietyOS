@@ -595,7 +595,9 @@ Some shows:
 * Cat Stevens
 * Charlesthefirst
 * Classical music
+* Deadmau5
 * Def3
+* Deltron 2020
 * Dr. Dre
 * Duffrey
 * Eminem
@@ -610,6 +612,7 @@ Some shows:
 * Justice
 * Led Zeppelin
 * Mac Miller
+* MC Chris
 * Metallica
 * MF Doom
 * MGMT
@@ -632,6 +635,7 @@ Some shows:
 * Tipper
 * Willy Nelson
 * Wu-tang Clan
+* YTCracker
 * Zebbler Encanti Experience
 
 # Proving that the program is running and effective
