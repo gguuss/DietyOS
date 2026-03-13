@@ -2,22 +2,22 @@
 
 ## Important Disclaimer ##
 I am not a therapist, I have not evaluated or tested this framework and these ideas.
-Please take these resources with considerations of doubt and I encourage you to challenge these concepts and improve them. This resource is based on a study body of just mainly a sample size of one, myself, and the insights and observations that have been helpful for me to improve myself. The biases in the resources lean towards my taste and the observations might only make sense to me as they're from my frame of reference and perspective. It's entirely possible that I'm not even neurodivergent and that I'm just making up patterns and overfitting my experiences.
+Please take these resources with considerations of doubt and I encourage you to challenge these concepts and improve them. This resource is based on a study body of just mainly a sample size of one, myself, and the insights and observations that have been helpful for me to improve myself. The biases in the resources lean towards my taste, gender, and experience so the observations might only make sense to me as they're from my frame of reference and perspective. It's entirely possible that I'm not even neurodivergent and that I'm just making up patterns and overfitting my experiences.
 
 ### Credits and Acknowledgements ###
-These tools, ideas, and insights came from the teachings of many incredible people (books, family, friends, interns and mentees, managers, movies, music, relationships, and teachers) over the course of my life and it would be dishonest for me to take credit for them all (or even any of it). I'm standing on the shoulders of giants and have been given so much help all along the way and am working on finding the best way to acknowledge all the people who have taught me these lessons and I have a feeling that some of the folks would not like crediting so I'll be sensitive and careful. If you notice something in here that you taught me (or just have taught me in any capacity) and would like an acknowledgement, let me know, email the name of the project at ourfriendgus dot com and make sure to include a link so that other people can connect with you. I'll also be working on an appropriate license to protect and share this resource - if I'm in violation of your license, please let me know and I'll do what I can to correct it.
+These tools, ideas, and insights came from the teachings of many incredible people (books, family, friends, interns and mentees, managers, movies, music, relationships, and teachers) over the course of my life and it would be dishonest for me to take credit for them all (or even any of it). I'm standing on the shoulders of giants and have been given so much help all along the way. I am working on finding the best way to acknowledge all the people who have taught me these lessons. However, I have a feeling that some of the folks would not like crediting so I'll be sensitive and careful. If you notice something in here that you taught me (or just have taught me in any capacity) and would like an acknowledgement, let me know, email the name of the project at ourfriendgus dot com and make sure to include a link so that other people can connect with you. I'll also be working on an appropriate license to protect and share this resource - if I'm in violation of your license, please let me know and I'll do what I can to correct it.
 
 ## Contributions and feature requests
 * TODO: Create separate markdown for things that are common and things that are individualistic, let's hold off on forks until this change is in place.
 * I think it may be intereseting and useful to create separate branches for differences between people, I'll soon be branching this repository to my own branch that is about me and would encourage others to create their own branches so that all of our universes and understandings can co-exist. I would love to create a consensus process as well that allows us to create a common branch in main.
 * I'm working on finding the right license so you can fork this and tailor it to your own insights highlighting our differences.
 * If you have expertise in neurolinguistic programming and are interested in translating this to an NLP program, let me know, I would love to upstream this content in that format.
-* It could be interesting to create a suite of tools (or recommennded tools and templates) for creating processes to make this (blog post?) more systematized for people who want to integrate it into their lives beyond journaling.
+* It could be interesting to create a suite of tools (or recommended tools and templates) for creating processes to make this (blog post?) more systematized for people who want to integrate it into their lives beyond journaling.
 
 ## Overview ##
 This is the foundation for a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships. All of these topics and behaviors and interests need to be observed through the lens of intelligence - the more self-aware that you are, the more you "get it" and it's ok not to understand some of the things if they don't apply to you or you are struggling with these insights.
 
-This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood. The more aware of yourself and the patterns that you have, the better you will be able to understand them and respond in the best way to what you are feeling and what is going on in your mind. Additionally, understanding these patterns and behaviors will allow you to manage your mental health problems that you are creating for yourself through confusion in understanding the patterns and thought processes. If you find the subject / topic gives you certain feelings, maybe you should look more deeply into yourself to better understand the message of the thing, what the feeling is, and how / why it gives you a that feeling.
+This program / thought process consists of insights on people who are on the spectrum that once you internally understand will help you foster relationships and improve and understand your behavior and mood. The more aware of yourself and the patterns that you have, the better you will be able to understand them and respond in the best way to what you are feeling and what is going on in your mind. Additionally, understanding these patterns and behaviors will allow you to manage your mental health problems that you are creating for yourself through confusion in understanding the patterns and thought processes. If you find the subject / topic gives you certain feelings, maybe you should look more deeply into yourself to better understand the message of the thing, what the feeling is, and how / why it gives you that feeling.
 
 # Understanding Neurodivergence 
 
@@ -30,7 +30,7 @@ This program / thought process consists of insights on people who are on the spe
 * A certain clicking sensation when communicating with similar people
 * Ability to find flaws in everything (typos, misconceptions, etc)
 * Appreciation for people having good taste
-* Despite having a lot of mental capacity and skills, we frequently struggle with learning because we process information differently and suffer from the following issues.
+* Despite having a lot of mental capacity and skills, we frequently struggle with learning because we process information differently and suffer from the following issues:
   * Overthinking - when information is incomplete, we struggle to trust it, it is essential when training neurodivergent people to tell them *why* you must do something, and use words like because to help them solidify the rationale of the information.
   * Needing to have a depth-first approach to information, we can't just trust the top level information in the hierarchies of knowledge.
 * Exceptional / refined taste in art and food / strongly polarized interests in platforms, food, etc
@@ -52,8 +52,8 @@ This program / thought process consists of insights on people who are on the spe
   * Avoiding rejecting other people is just as dangerous - sometimes you hang on to relationships and people because you can sense a danger in the feeling you will give someone else when you reject them
 * Sensitivities to certain types of sounds (misophonia) and movement (kinesophonia)
 * Special interests / hyper-fixation on specific things and repetitive tasks
-* Synesthesia - sometimes you have a visual response to things you hear, e.g. seeing or attributing a color to sounds; sometimes you experience auditory hallucinations especially things like 
-* Pattern recognition - also learning through redcognizing patterns
+* Synesthesia - This can be a visual response to things you hear, e.g. seeing or attributing a color to sounds; this can be you an auditory hallucinations such as hearing voices or knocking; sometimes a stimulus can give you a physical feeling such as a noise causing physical irritation.
+* Pattern recognition - also learning through recognizing patterns
 * People on the spectrum want to be around similar people
 * We are attracted to intelligence
 * We are bored by normal people (NPCs)
@@ -62,7 +62,7 @@ This program / thought process consists of insights on people who are on the spe
 * We have more meaningful communication, more clear and understood communication, especially when we understand ourselves and others
 
 ## Odd side effects of being on the spectrum
-* Athletically gifted and able to use mind for awesome power like healing, feats of strength, feats of endurance, fighting, getting into incredible shape, againg gracefully (looking young for your age) (it’s real, your mind is very powerful)
+* Athletically gifted and able to use mind for awesome power like healing, feats of strength, feats of endurance, fighting, getting into incredible shape, aging gracefully (looking young for your age) (it’s real, your mind is very powerful)
 * Prone to hyper fixation on certain genetic traits, e.g. fetishes
 * Prone to hypersexuality but also a diversity of sexual identity and drive even asexuality and hyposexuality
 
@@ -70,7 +70,7 @@ This program / thought process consists of insights on people who are on the spe
 * Dunning-Kreuger effect – believing that everyone else is as intelligent as you are
 * Imposter Syndrome – denial that you are smart
 * Interest in a diversity of topics
-* High performers in academic settings (validictorian / sigma cum laude / etc)
+* High performers in academic settings (valedictorian / sigma cum laude / etc)
 * Love for achievement / medals / demonstrations of high performance
 * Have an easy time in school / college / grad school
 * High scores on standardized tests
@@ -80,37 +80,42 @@ This program / thought process consists of insights on people who are on the spe
 * We were in special programs (gifted and talented) and don’t realize it’s not normal
 
 ## Negative traits / things to look out for that come with our complex behaviors:
+These traits are all well and good to some degree as they are adaptations and natural responses that your mind puts your body through to change your behavior. However if the traits persist for too long or go unchecked they are healthy and will have an adverse and prolonged effect on your happiness.
+
 * Anxiety – focusing too much on the future
 * Codependence – harassing your partner when they are asking for space and using coercion to try and get their attention
 * Coercion – manipulation of each other through deceit, embellishment, controlling via blocking and avoiding communication or carefully managing information / presenting information in a specific or complex frame
-  * If people are being coercive you must investigate and get to the truth – this is why we love the game Clue, and why we 
+  * If people are being coercive you must investigate and get to the truth – this is why we love the game Clue, and why we have an easier time exploring conflicts through examining evidence rather than fabricating superlatives.
   * We must watch out for and eliminate coercive behavior in our relationships in order to establish and maintain trust
 * Conspiracies and paranoia – there are some conspiracies that could be true but if you go too far off the deep end, you can become a bit crazy and will definitely give other people the impression that you are crazy
   * Behind all the conspiracies is some degree of truth through metaphor about yourself and how you think. Always ask "what is the lesson" when you are observing these phenomena.
 * Crime - Because we are smarter than most people, we feel that we can get away with shit and do heists, etc, because we are so smart and clever. Don't do crime, even if you get away with it, it is bad.
-* Depression – focusing too much on the past
+* Depression – This can be focusing too much on the past or dwelling on other negative traits.
+* Embarassment - There is a 
 * Employers taking advantage of you
-  * Neuraldivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appopriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
+  * Neurodivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appropriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
+* Existential dread - feeling sad about human and animal suffering, past, present, and future stemming from injustice.
 * Hoarding - This is a compulsion that can happen when thinking / obsession for being frugal becomes too intense.
-* Isolation - Sometimes we isolate to protect ourselves. It's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you.
+* Isolation - Sometimes we isolate to protect ourselves. One trigger for this is being misunderstood and misunderstanding, or feeling “othered”. For this reason it's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you.
+* Low self-esteem - This can be a feeling of executive dysfunction and feeling you have potential I can never reach. 
 * Mania - getting overly excited
   * You can control mania with meditation and routine
   * If people are telling you that you're too excited or are talking too fast or are having trouble understanding you, it could be mania.
-  * Mania is dangerous because it can lead to crashes and depression (inflating a baloon will stretch it and wear it)
+  * Mania is dangerous because it can lead to crashes and depression (inflating a balloon will stretch it and wear it)
   * You can't have high peaks without a valley balancing it out
-* Reframing lies as jokes - Sometimes someone smart gets caught in thier lie and then tries to play it off as "joking" - this is a dangerous deception.
-* Object impermenance - with ADHD, folks can lose track and then permanently filter out information and phyisical objects
+* Reframing lies as jokes - Sometimes someone smart gets caught in their lie and then tries to play it off as "joking" - this is a dangerous deception.
+* Object impermenance - with ADHD, folks can lose track and then permanently filter out information and physical objects
   * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
 * Obsessive compulsive disorder - worrying too much about routine things
 * Projection – taking something that you don’t feel good about within yourself and attributing it to others
-* Provokation - This can be tasteful provocation like pranks (there's a theme of this in Super Troopers, don't be like Farva). This can also be trolling.
+* Provocation - This can be tasteful provocation like pranks (there's a theme of this in Super Troopers, don't be like Farva). This can also be trolling.
 * Psychosis - Experiencing a reality that is not there, creating delusions, oftentimes creating paranoid delusions that people helping them are trying to harm them. This can range from benign to spooky, where the person experiencing psychosis is aggressive.
 * Rage / passive aggressive behaviors
   * Throwing things into people’s rooms / intentionally creating drama and problems
   * Raising your voice when angry
   * Punishing your partner through withdrawal / becoming non-communicative
   * Retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
-* Retaliation - Responding to feelings of being injusted with coercive resolutions. It's also possible through mental gymnastics to retaliate against people for helping (a theme of the Ender's Shadow series) this could come from an inferiority complex.
+* Retaliation - Responding to feelings of being injusted with coercive resolutions. It's also possible through mental gymnastics to retaliate against people for helping (a theme of the Ender's Shadow series) - this could come from an inferiority complex.
 * Spiraling – Thinking about the same thing over and over and over and over and over
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
 * Stealing other people's ideas - it's important to give credit where credit is due and acknowledge that we are "standing on the shoulders of giants" when building new things
@@ -118,10 +123,11 @@ This program / thought process consists of insights on people who are on the spe
 * Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky. I'm not a doctor, [there are other resources that are much better than my TLDR](https://dancesafe.org/).
   * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
   * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
-  * Nitrous - Risk of vitamin B defficiency, risk of psychosis, risk of rage, risk of fear.
+  * Nitrous - Risk of vitamin B deficiency, risk of psychosis, risk of rage, risk of fear.
   * Weed can make you paranoid and encourages doom piling.
-  * Pretty much any drug will run the risk of drug-induced psychosis, be aware and be empathetic with yourself and others shuold this occur.
-* Suicide - Fascinations and hyperfixation on suicide is a risk when you struggle to understand why a traumatic situation happend given your emotional struggles, sense of trust, and frustrations with being understood.
+  * Pretty much any drug will run the risk of drug-induced psychosis, be aware and be empathetic with yourself and others should this occur.
+* Suicide - Fascinations and hyperfixation on suicide is a risk when you struggle to understand why a traumatic situation happened given your emotional struggles, sense of trust, and frustrations with being understood.
+* Synestesia - Sometimes our minds will give us a feeling of physical depression, a deep ache in our chest, fatigue, and inability to control the welling of tears in our eyes. This can even be followed by being embarrassed of this reaction.
 
 ## The Spookiest things to look out for
 * Delusions - Finding connections that are not there, believing things that are not real or not fully evaluated, and coming to conclusions without sufficient rigor (present document included).
@@ -179,7 +185,7 @@ This program / thought process consists of insights on people who are on the spe
 * The Far Side
 * The Watchmen
 
-## Understanding interesting / paranormal phenomna and the occult 
+## Understanding interesting / paranormal phenomena and the occult 
 * Aleister Crowley
 * Edgar Allan Poe
 * H. P. Lovecraft
@@ -204,7 +210,7 @@ This program / thought process consists of insights on people who are on the spe
 * Star Wars books
 * Romance books
 * Nexus Trilogy
-* The illuminatus Trilogy
+* The Illuminatus Trilogy
 * The star wars books
 * The Pythagoreans and related lore
 
@@ -230,7 +236,7 @@ This program / thought process consists of insights on people who are on the spe
 
 ## Shared interests for finding people like you:
 * 3d printing
-* Accupuncture
+* Acupuncture
 * Alternate reality games
 * Apple vs Android
 * Astronomy
@@ -258,7 +264,7 @@ This program / thought process consists of insights on people who are on the spe
   * French Cuisine
   * Sushi
   * Ramen
-* Fung Shui - note that this is a system of organizing furniture and objects so that people will do the right thing by default
+* Feng Shui - note that this is a system of organizing furniture and objects so that people will do the right thing by default
 * Gadgets
 * Genealogy / ancestry / genetics / inheritance
 * Gestault - optical and audio illusions, Bauhaus aesthetics, etc (M.C. Escher)
@@ -272,7 +278,7 @@ This program / thought process consists of insights on people who are on the spe
 * Medicine / Nursing
 * Music – especially extremely complex music like Rap, Jazz, Tipper, and related bass music, as well as music that has deep meaningful messages in the lyrics and themes
 * Monowheel / Inmotion EUCs
-* Naturalpathy
+* Naturopathy
 * Occult
 * Onewheel
 * Painting
@@ -313,7 +319,7 @@ This program / thought process consists of insights on people who are on the spe
   * Avoid sugar
   * Try fasting - be careful not to overdo it - use a program and talk to a dietician
 * Feet hurt?
-  * Planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
+  * Plantar fasciitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
 * Lack of motivation
   * Cold shower in the morning
 * Paranoid?
@@ -355,12 +361,12 @@ This program / thought process consists of insights on people who are on the spe
 ## Powerful tools and adages for performance and combating ego, frustration, lonliness, and pain
 * [10 Principles](https://burningman.org/about-us/10-principles/)
 * All things in moderation including moderation. It's important to find balance in your life and this can help.
-* Are your feet hurting / sharp pains?  This could be planar faceitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
+* Are your feet hurting / sharp pains?  This could be plantar fasciitis - rolling a golf ball under your feet can relieve the pain. Orthodics also can help with this.
 * Wrist pain - If you hyperfixate on using computers and have bad posture, you might suffer from wrist pain. Products like the Gyro Ball, DFX Powerball Sports Pro, and so forth can be really helpful for reducing the pain. It can also be helpful to switch the hand that you mouse with or use a variety of keyboard configurations or an ergonomic keyboard to alleviate the pain.
 * Comparison is the thief of joy.
-* Drink more water - being dehydrated can make you have headaches and feel sick or otherwise uncomfortable. Making sure you drink a lot of water can improve your mood/
+* Drink more water - being dehydrated can make you have headaches and feel sick or otherwise uncomfortable. Making sure you drink a lot of water can improve your mood.
 * Gratitude - Acknowledging the achievements and assistance you're getting from other people helps them feel good about helping you and also helps you to remain humble for the projects you collaborate on.
-* HALT Signs (Hungry angry lonely tired) these are triggers that can affect your mood and decisions.
+* HALT Signs (Hungry angry lonely tired): these are triggers that can affect your mood and decisions.
   * Hungry: Physical hunger can lead to irritability, low energy, poor focus, and sometimes mimic cravings or emotional distress.
     * Strategies: Maintain regular, balanced meals and keep healthy snacks on hand to avoid severe hunger.
   * Angry: Unprocessed anger can cloud judgment, heighten frustration, and lead to impulsive actions or unhealthy coping mechanisms.
@@ -375,10 +381,10 @@ This program / thought process consists of insights on people who are on the spe
   * Be neither a borrower nor a lender.
 * If you're feeling stressed out, clean up and declutter your place
 * Imaginary friends - (although in moderation, don't fall in love with your imaginary friend) An imaginary friend (or a rubber duck on your desk) that you work through problems with in order to save other people's time and attention.
-* Immediacy - Focusing on what is happening now instead of what is going to happen or what has happaened.
+* Immediacy - Focusing on what is happening now instead of what is going to happen or what has happened.
 * Intuitive memory
-  * Use mnemonic devices like acronyms like a word or pharse that captures the thing you're trying to remember
-  * Give people tools or jokes or puns or sentences to remember things or make them up yourself to help remember
+  * Use mnemonic devices like acronyms like a word or phrase that captures the thing you're trying to remember
+  * Give people tools, jokes, puns, or sentences to remember things or make them up yourself to help remember
     * If you're birthday is 3/13 say "it's the day before pi day"
     * If you're name is Gus, say "I'll bet you can't GUS my name'
 * It can be ineffective and destructive to engage with someone who has provoked you right when they did it. Wait and let them cool off and allow yourself to cool off as well. Think about the outcome that you want from the situation and try to engage with empathy taking into consideration the negative traits that come with our complex behaviors.
@@ -388,10 +394,10 @@ This program / thought process consists of insights on people who are on the spe
 * Mind palace - having a place in your mind that you meditate on and manifest in
 * Pronoia – Playing a game where you pretend that everyone and the universe are trying to help you.
 * Playing games - turning things into games transforms them from being frustrating to being fun
-  * Threading the needle - geeting as close to some objective as possible
-  * Losing things and finding them - a game that you can playn with yourself or with friends
+  * Threading the needle - getting as close to some objective as possible
+  * Losing things and finding them - a game that you can play with yourself or with friends
 * Reframing - taking something that makes you feel bad and using your mind to turn it into something good
-  * Imagine an embarassing moment in your mind and replace the embarassing thing happening with you as Bart Simpson
+  * Imagine an embarrassing  moment in your mind and replace the embarrassing thing happening with you as Bart Simpson
 * Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
 * Sleep
   * Melatonin can help overall with sleep
@@ -408,7 +414,7 @@ This program / thought process consists of insights on people who are on the spe
 * When someone is talking to you, look them in the eyes, if you are overwhelmed when you look people in the eyes, instead focus on their 'third eye" above and between the eyes on the forehead
 
 ## Powerful affirmations / ice breakers / compliments / truthisms
-* Be excellent to eachother!
+* Be excellent to each other!
 * Don't panic!
 * I like your art!
 * I love you
@@ -496,7 +502,7 @@ Some shows:
 * Limitless
 * Little Miss Sunshine
 * Lost
-* Love on the spectrum
+* Love on the Spectrum
 * Magnolia
 * Marvel movies
 * Memento
@@ -517,7 +523,7 @@ Some shows:
 * Short Circuit
 * Southpark
 * Stanley Kubrick films
-  * A clockwork orange
+  * A Clockwork Orange
   * Full Metal Jacket
 * Star Wars
 * Superbad
@@ -532,7 +538,7 @@ Some shows:
 * The Fantastic Mr. Fox
 * The Fifth Element
 * The Great Gatsby
-* The hitchhiker's guide to the galaxy
+* The Hitchhiker's Guide to the Galaxy
 * The Interview
 * The men who stare at goats
 * The Mighty Boosh
@@ -599,6 +605,7 @@ Some shows:
 * Aphex Twin
 * Aphrodite
 * Bloodhound Gang
+* Boards of Canada
 * Cat Stevens
 * Charlesthefirst
 * Classical music
@@ -638,8 +645,10 @@ Some shows:
 * Sublime
 * System of a Down
 * The Beatles
+* The Offspring
 * Thought Process
 * Tipper
+* Venetian Snares
 * Willy Nelson
 * Wu-tang Clan
 * YTCracker
