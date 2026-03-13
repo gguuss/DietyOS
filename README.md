@@ -113,6 +113,7 @@ This program / thought process consists of insights on people who are on the spe
 * Spiraling – Thinking about the same thing over and over and over and over and over
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
 * Stealing other people's ideas - it's important to give credit where credit is due and acknowledge that we are "standing on the shoulders of giants" when building new things
+* Stonewalling - when encountering feelings we don't like, we sometimes retaliate by taking ourselves away from other people.
 * Substance abuse - Drugs and alcohol affect neurodivergent people in exciting and fun ways depending on where you are on the spectrum, they can even be “performance enhancing” if used consciously – however too much of a good thing and the related risks such as dependence, withdrawal, and related mood disorders are risky. I'm not a doctor, [there are other resources that are much better than my TLDR](https://dancesafe.org/).
   * Alcohol makes you depressed, understand spirals where you are depressed and trying to fix the problem with the problem.
   * Ketamine gives you delusions and prevents you from separating truth from hallucinations.
@@ -296,6 +297,9 @@ This program / thought process consists of insights on people who are on the spe
 * Wrestling - WWE, etc
 * Word games, wordplay, general shows of being clever
 * Yoga
+
+# Personality tools
+* [The Enneagram of Personality](https://en.wikipedia.org/wiki/Enneagram_of_Personality)
 
 # Thought tools
 
@@ -646,3 +650,4 @@ Some shows:
 
 # See Also
 * [Understanding Autism](https://www.open.edu/openlearn/science-maths-technology/understanding-autism/content-section-overview?active-tab=description-tab)
+* [Table Manners](https://ourfriendgus.com/table-manners/)
