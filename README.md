@@ -274,7 +274,7 @@ This program / thought process consists of insights on people who are on the spe
 * Pilates
 * Pottery
 * Psychology
-* Puzzles
+* Puzzles / Jigsaw Puzzles
 * Reading
 * Rollerblading
 * Science Bowl
