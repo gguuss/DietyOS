@@ -325,6 +325,8 @@ These traits are all well and good to some degree as they are adaptations and na
   * Cold shower in the morning
 * Paranoid?
   * Imagine that the people around you and the universe are secretly trying to help you, playing tricks to help you along.
+* Sounds bothering you?
+  * You can listen to ASMR or other triggering sounds to desensitize yourself to the stimuli.
 * Stressed out?
   * Clean up and declutter your place
 * Rage?
