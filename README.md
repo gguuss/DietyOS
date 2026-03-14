@@ -97,6 +97,7 @@ These traits are all well and good to some degree as they are adaptations and na
 * Existential dread - feeling sad about human and animal suffering, past, present, and future stemming from injustice.
 * Hoarding - This is a compulsion that can happen when thinking / obsession for being frugal becomes too intense.
 * Isolation - Sometimes we isolate to protect ourselves. One trigger for this is being misunderstood and misunderstanding, or feeling “othered”. For this reason it's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you.
+* Judgement - Sometimes it feels like it's "correct" to evaluate someone and share that evaluation of them solely based on your frame of reference. This can actually make it more difficult for you to show them empathy which eventually makes you feel bad and have less useful interactions. Try and avoid jumping to conclusions about people and their situation. You never know what someone is going through.
 * Low self-esteem - This can be a feeling of executive dysfunction and feeling you have potential I can never reach. 
 * Mania - getting overly excited
   * You can control mania with meditation and routine
@@ -396,6 +397,7 @@ These traits are all well and good to some degree as they are adaptations and na
 * Playing games - turning things into games transforms them from being frustrating to being fun
   * Threading the needle - getting as close to some objective as possible
   * Losing things and finding them - a game that you can play with yourself or with friends
+* Reacting slowly - sometimes it's difficult to understand our feelings or what we're thinking in the moment when we're experiencing a conflict or situation. It can be helpful to hold off and say to yourself "give it some space" or "give it more perspective to allow yourself time to gather more context before reacting and take action strategically to achieve the outcome that you want from the situation or conflict.
 * Reframing - taking something that makes you feel bad and using your mind to turn it into something good
   * Imagine an embarrassing  moment in your mind and replace the embarrassing thing happening with you as Bart Simpson
 * Screaming at trees - it's useful sometimes to go outside and yell at trees if you are feeling rage in order to avoid directing your rage at people
