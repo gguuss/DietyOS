@@ -12,7 +12,7 @@ These traits are all well and good to some degree as they are adaptations and na
   * Behind all the conspiracies is some degree of truth through metaphor about yourself and how you think. Always ask "what is the lesson" when you are observing these phenomena.
 * Crime - Because we are smarter than most people, we feel that we can get away with shit and do heists, etc, because we are so smart and clever. Don't do crime, even if you get away with it, it is bad.
 * Depression – This can be focusing too much on the past or dwelling on other negative traits.
-* Embarassment - There is a 
+* Embarassment - This can potentially manifest as a physiological / kinesthetic synesthesia from social interaction or can come from feelings of being misunderstood or not belonging and misunderstanding social cues.
 * Employers taking advantage of you
   * Neurodivergent people can sometimes do the work of 10-100 people so be aware if you are overcontributing and not being appropriately compensated for it. The other part of this risk is that your manager may start to feel guilty for not promoting you and may retaliate or project in various ways.
 * Existential dread - feeling sad about human and animal suffering, past, present, and future stemming from injustice.
