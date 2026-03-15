@@ -19,12 +19,12 @@ These traits are all well and good to some degree as they are adaptations and na
 * Hoarding - This is a compulsion that can happen when thinking / obsession for being frugal becomes too intense.
 * Isolation and withdrawing - Sometimes we isolate to protect ourselves. One trigger for this is being misunderstood and misunderstanding, or feeling “othered”. For this reason it's essential to connect with people like yourself to understand and grow; don't forget to retain your connections and cherish those who are like you. Withdrawing is a system that we sometimes put in place to manage confusing or problematic relationships and interactions.
 * Judgement - Sometimes it feels like it's "correct" to evaluate someone and share that evaluation of them solely based on your frame of reference. This can actually make it more difficult for you to show them empathy which eventually makes you feel bad and have less useful interactions. Try and avoid jumping to conclusions about people and their situation. You never know what someone is going through.
-* Low self-esteem - This can be a feeling of executive dysfunction and feeling you have potential I can never reach. 
+* Low self-esteem - This can be a feeling of executive dysfunction and feeling you have potential you aren't reaching. 
 * Mania - getting overly excited
-  * You can control mania with meditation and routine
+  * You can control mania with meditation and routine.
   * If people are telling you that you're too excited or are talking too fast or are having trouble understanding you, it could be mania.
-  * Mania is dangerous because it can lead to crashes and depression (inflating a balloon will stretch it and wear it)
-  * You can't have high peaks without a valley balancing it out
+  * Mania is dangerous because it can lead to crashes and depression (inflating a balloon will stretch it and wear it).
+  * You can't have high peaks without a valley balancing it out afterwards, it's healthy to manage your excitement.
 * Reframing lies as jokes - Sometimes someone smart gets caught in their lie and then tries to play it off as "joking" - this is a dangerous deception.
 * Object impermenance - with ADHD, folks can lose track and then permanently filter out information and physical objects
   * Doompiling - creating a pile (refuse, dishes, unfinished projects) and then forgetting about it and filtering it out of mind. This can create conflicts for other neurodivergent people who notice and are frustrated by the pile.
