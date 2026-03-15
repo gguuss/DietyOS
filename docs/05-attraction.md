@@ -12,15 +12,15 @@
 * Influence - Robert Cialdini
 * Non-violent communication
 * Robert Green
-  * The 48 laws of power – aka the 48 laws of being an asshole
-  * The art of seduction
-  * The 33 strategies of war
+  * The 48 Laws of Power – aka the 48 laws of being an asshole
+  * The Art of Seduction
+  * The 33 Strategies of War
   * Mastery
 * Shakesphere
 * The Highly Sensitive Person
 * The Red Queen Theory
 * The Selfish Gene - Richard Dawkins
-* The subtle art of not giving a fuck
+* The Subtle Art of Not Giving a Fuck
 
 ## Reading / training resources for getting into shape and attracting people like us:
 * Buy a scale – you can’t change what you don’t measure
