@@ -101,7 +101,6 @@
   * Valerian root can help with deeper, longer sleep
 * Standing on the shoulders of giants - all of the innovations that we are bringing into the world would not be possible without the path that was already laid before us
 * "Stress is like holding a glass of water in front of you, for 5 minutes it's not that much but after 30 minutes it becomes a lot."
-* [Table Manners](https://ourfriendgus.com/table-manners/)
 * Therapy
 * Totems - objects that you use to hold your feelings and thoughts. These are sometimes referred to as a Tulpa.
 * Vitamins - Eating vitamins promotes overall health and a vitamin deficiency can impact your mood. I like the gummy vitamins provided by Gruns.
@@ -123,6 +122,6 @@
 * You are smart
 * You have good taste!
 
-## Having a bad day? These songs could help ;-)
+## Having a bad day? These songs could help cheer you up
 * [Caribou - You can do it](https://www.youtube.com/watch?v=VrPVSz3bBq4)
 * [The Flaming Lips - Yeah yeah yeah](https://www.youtube.com/watch?v=kjrUOlK2714)
