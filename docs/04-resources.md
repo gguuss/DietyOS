@@ -69,8 +69,9 @@ When watching these shows look out for the following lessons:
 Some shows:
 * 10 feet undera
 * A Beautiful Mind
-* Almost famous
 * A Scanner Darkly
+* A Series of Unfortunate Events
+* Almost famous
 * American Beauty
 * Anime (pretty much all of it)
 * Aqua Team Hunger Force
