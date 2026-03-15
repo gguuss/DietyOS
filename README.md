@@ -11,7 +11,7 @@ These tools, ideas, and insights came from the teachings of many incredible peop
 Quick links
 * [Overview & Disclaimer](docs/01-overview.md)
 * [Understanding Neurodivergence: Foundations & Behavior](docs/02-foundations.md)
-* [Negative Traits, Spookiest Things, Medical Correlations](docs/03-risks.md)
+* [Risks and Risk Factors](docs/03-risks.md)
 * [Reading, Media, Games, Listening](docs/04-resources.md)
 * [Attraction & Shared Interests](docs/05-attraction.md)
 * [Personality & Thought Tools](docs/06-tools.md)

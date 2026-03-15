@@ -1,7 +1,7 @@
 # Quick links #
 * [Overview & Disclaimer](01-overview.md)
-* [Understanding Neurodivergence: Foundations & Behavior](-foundations.md)
-* [Negative Traits, Spookiest Things, Medical Correlations](03-risks.md)
+* [Understanding Neurodivergence: Foundations & Behavior](02-foundations.md)
+* [Risks and Risk Factors](03-risks.md)
 * [Reading, Media, Games, Listening](04-resources.md)
 * [Attraction & Shared Interests](05-attraction.md)
 * [Personality & Thought Tools](06-tools.md)

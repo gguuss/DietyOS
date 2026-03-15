@@ -1,4 +1,4 @@
-# Risks, 
+# Risks and Risk Factors
 
 ## Negative traits / things to look out for that come with our complex behaviors:
 These traits are all well and good to some degree as they are adaptations and natural responses that your mind puts your body through to change your behavior. However if the traits persist for too long or go unchecked they are healthy and will have an adverse and prolonged effect on your happiness.
