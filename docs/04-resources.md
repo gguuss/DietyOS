@@ -1,39 +1,297 @@
-# Resources: Reading, Media, Games, Listening
+# Reading Resources
 
-## Reading — thought patterns, productivity
-- Gödel, Escher, Bach
-- Critical Path — R. Buckminster Fuller
-- The Four Hour Work Week
-- The Goal — Eliyahu M. Goldratt
+## Understanding thought patterns, success, and productivity
+* Godel, Escher, Bach
+* Critical Path - R. Buckminster Fuller
+* The Four Hour Work Week
+* The Goal - Eliyahu M. Goldratt
 
-## Reading — attraction, social dynamics, dominance
-- How to Win Friends and Influence People
-- Influence — Robert Cialdini
-- Robert Greene (48 Laws, Art of Seduction, 33 Strategies, Mastery)
-- The Highly Sensitive Person
-- The Selfish Gene
-- The Subtle Art of Not Giving a F*ck
+## Understanding attraction, social dynamics, and dominance:
+* Aging Well
+* Don’t text your ex happy birthday
+* How to win friends and influence people
+* Fascinate
+* Games people play / other social dynamics books
+* Influence - Robert Cialdini
+* Non-violent communication
+* Robert Green
+  * The 48 laws of power – aka the 48 laws of being an asshole
+  * The art of seduction
+  * The 33 strategies of war
+  * Mastery
+* Shakesphere
+* The Highly Sensitive Person
+* The Red Queen Theory
+* The Selfish Gene - Richard Dawkins
+* The subtle art of not giving a fuck
 
-## Fiction & fantasy
-- Game of Thrones, His Dark Materials, Mr. Penumbra’s 24-Hour Bookstore, The Wheel of Time
+## Fantasy books for understanding justice and power
+* Game of Thrones
+* His Dark Materials
+* Mr. Penumbra's 24-Hour Bookstore
+* The Lion the Witch and the Wardrobe
+* The Phantom Tollbooth
+* The Wheel of Time
 
-## Comics
-- Calvin and Hobbes; The Far Side; Watchmen
+## Comics and things we like
+* Calvin and Hobbes
+* The Far Side
+* The Watchmen
 
-## Occult / speculative
-- Crowley, Poe, Lovecraft; Many Lives, Many Masters; The Holographic Universe
+## Understanding interesting / paranormal phenomena and the occult 
+* Aleister Crowley
+* Edgar Allan Poe
+* H. P. Lovecraft
+* Many lives many masters
+* The holographic universe
+* Quantum Mechanics
 
-## Psychology / patterns
-- Jung, DSM manuals, Bandler & Grinder (Structure of Magic, Frogs into Princes)
+## Reading resources for Psychology and understanding our thought patterns
+* Jungian Psychology
+* DSM manuals
+* Training Dogs
+* Bandler and Grinder
+  * The Structure of Magic (I & II), Frogs into Princes, Trance-formations, and Reframing 
 
-## Puzzle / sci‑fi / conspiracy interests
-- Dan Brown, Daniel Suarez, Dune, Ender’s Game/Shadow, Ray Kurzweil, Nexus Trilogy, Illuminatus Trilogy
+## Reading resources for puzzles, scifi, and conspiracy relevant interests:
+* Dan Brown Books
+  * The Secret of Secrets
+* Daniel Suarez books
+* Dune books
+* Ender's Game / Ender's Shadow
+* Ray Kurzweil books
+* Star Wars books
+* Romance books
+* Nexus Trilogy
+* The Illuminatus Trilogy
+* The star wars books
+* The Pythagoreans and related lore
 
-## Media (films, shows)
-- See original README for large curated list (movies, anime, series).
+## Philosophical resources
+* Mortimer Adler - 6 great ideas
+* The Tao of Pooh
 
-## Video games
-- Counter-Strike, Factorio, Final Fantasy, Halo, League of Legends, Overwatch, Satisfactory, Smash, StarCraft, Tetris, Warcraft, Zelda
 
-## Listening
-- Amon Tobin, Aphex Twin, Boards of Canada, Deadmau5, Jazz, Radiohead, Pink Floyd, MF Doom, Metallica, Wu‑Tang, and many others.
+# Media Resources
+Everybody learns differently, some people prefer to watch movies, others prefer to listen to stories, others like to do things kinesthetically (sports or physical puzzles like the Rubik's cube). You should learn in the way that you enjoy, prefer, or that works for you and don't feel like you need to learn through what works for other people.
+
+## Specific coded movies and shows:
+
+When watching these shows look out for the following lessons:
+* Archetypes of characters
+* Relatedness to characters in the films
+* Feelings you get from the interactions between the characters
+* Patterns from the foundations section above
+
+Some shows:
+* 10 feet undera
+* A Beautiful Mind
+* Almost famous
+* A Scanner Darkly
+* American Beauty
+* Anime (pretty much all of it)
+* Aqua Team Hunger Force
+* Avatar
+* Arrested Development
+* Baby Geniuses
+* Baseketball
+* Beavis and Butthead
+* Bill and Ted's Excellent Adventure
+* Bob’s Burgers
+* Breaking Bad
+* Cable guy
+* Cacooon
+* Captain Fantastic
+* Charlie Brown / Peanuts
+* Community
+* Curb Your Enthusiasm
+* Death to Smoochy
+* Disney / Marvel content and movies
+* Dogma
+* Donny Darko
+* Dragonball Z
+* Drop Dead Fred
+* Dumb and Dumber
+* Elysium
+* Eternal Sunshine of the Spotless Mind
+* Event Horizon
+* Everything everywhere all at once
+* Fear and Loathing in Las Vegas
+* Fight Club
+* Forrest Gump
+* Freaks and geeks
+* Futurama
+* Gen V
+* Ghost busters
+* Hackers
+* Happy
+* Harry Potter
+* Heroes
+* Homestar Runner
+* House
+* I Heart Huckabees
+* I Think You Should Leave
+* Idiocracy
+* It's Always Sunny in Philadelphia
+* Imaginary Friends
+* Indiana Jones
+* James Bond
+* Kevin Smith films
+  * Mallrats / Clerks / Chasing Amy / Jay and Silent Bob Strike Back
+* Law and Order
+* Let's start a cult
+* Limitless
+* Little Miss Sunshine
+* Lost
+* Love on the Spectrum
+* Magnolia
+* Marvel movies
+* Memento
+* Mr. Robot
+* Office Space
+* People Just Do Nothing
+* Phenomenon
+* Pi
+* Popeye
+* Rainman
+* Ready Player One
+* Ren and Stimpy
+* Rick and Morty
+* Robot Chicken
+* Scott Pilgrim vs the World
+* Sense8
+* Seven
+* Short Circuit
+* Southpark
+* Stanley Kubrick films
+  * A Clockwork Orange
+  * Full Metal Jacket
+* Star Wars
+* Superbad
+* Super Troopers
+* Sunshine
+* Team America World Police
+* Tenet
+* Terminator 2
+* The Accountant
+* The Big Lebowski
+* The Congress
+* The Fantastic Mr. Fox
+* The Fifth Element
+* The Great Gatsby
+* The Hitchhiker's Guide to the Galaxy
+* The Interview
+* The men who stare at goats
+* The Mighty Boosh
+* The Last Starfighter
+* The Lord of the Rings
+* The Matrix
+* The Tao of Steve
+* The X Files
+* Toys
+* Trailer Park Boys
+* Twin Peaks
+* Twins
+* Uncommon Side Effects
+* Utopia
+* Waking Life
+* Wes Anderson films
+  * The Royal Tennenbaums
+* Wonderfalls
+
+## Children's programming
+* 3-2-1 Contact
+* Blue's clues
+* Sesame street
+
+## Comedy
+* Chris Rock
+* Dave Chapelle
+* Danny DeVito
+* Eddie Murphy
+* George Carlin
+* Mitch Hedberg
+* Norm Macdonald
+* Robin Williams
+* Steve Carrel
+* Will Farrel
+
+## Specific places that are spectrum coded / travel interests:
+* China
+* France
+* Germany
+* Ireland
+* Japan
+* Korea
+* London, UK
+* New Zealand
+* Russia
+
+## Video Games
+* Counterstrike
+* Escape Rooms
+* Factorio
+* Final Fantasy
+* Halo
+* League of Legends (LOL)
+* Overwatch
+* Satisfactory
+* Super Smash Brothers
+* Starcraft
+* Tetris
+* Warcraft
+* Zelda
+
+## Listening resources
+* Amon Tobin
+* Aphex Twin
+* Aphrodite
+* Bloodhound Gang
+* Boards of Canada
+* Cat Stevens
+* Charlesthefirst
+* Classical music
+* Deadmau5
+* Def3
+* Deltron 2020
+* Dr. Dre
+* Duffrey
+* Eminem
+* Forrest Gump Soundtrack
+* Gessafelstein
+* ill.Gates
+* Infected Mushroom
+* Jazz Music
+* Justice
+* Korn
+* Jimi Hendrix
+* Justice
+* Led Zeppelin
+* Mac Miller
+* MC Chris
+* Metallica
+* MF Doom
+* MGMT
+* Mr. Bill
+* Mr. Traumatik
+* Nirvana
+* Notorious BIG
+* Pink Floyd
+* Radiohead
+* Rob Couth
+* Rolling Stones
+* Rusko
+* Skrillex
+* Smashing Pumpkins
+* Squarepusher
+* Sublime
+* System of a Down
+* The Beatles
+* The Offspring
+* Thought Process
+* Tipper
+* Venetian Snares
+* Willy Nelson
+* Wu-tang Clan
+* YTCracker
+* Zebbler Encanti Experience
