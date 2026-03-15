@@ -1,12 +1,12 @@
 # Quick links #
-* [Overview & Disclaimer](docs/01-overview.md)
-* [Understanding Neurodivergence: Foundations & Behavior](docs/02-foundations.md)
-* [Negative Traits, Spookiest Things, Medical Correlations](docs/03-risks.md)
-* [Reading, Media, Games, Listening](docs/04-resources.md)
-* [Attraction & Shared Interests](docs/05-attraction.md)
-* [Personality & Thought Tools](docs/06-tools.md)
-* [Contributing, TODOs, License](docs/07-contributing.md)
-* [User Resources and Personal Credits](docs/08-user-resources.md)
+* [Overview & Disclaimer](01-overview.md)
+* [Understanding Neurodivergence: Foundations & Behavior](-foundations.md)
+* [Negative Traits, Spookiest Things, Medical Correlations](03-risks.md)
+* [Reading, Media, Games, Listening](04-resources.md)
+* [Attraction & Shared Interests](05-attraction.md)
+* [Personality & Thought Tools](06-tools.md)
+* [Contributing, TODOs, License](07-contributing.md)
+* [User Resources and Personal Credits](08-user-resources.md)
 
 # Overview #
 This is the foundation for a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships. All of these topics and behaviors and interests need to be observed through the lens of intelligence - the more self-aware that you are, the more you "get it" and it's ok not to understand some of the things if they don't apply to you or you are struggling with these insights.
