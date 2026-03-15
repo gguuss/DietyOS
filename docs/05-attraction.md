@@ -3,6 +3,25 @@
 ## Keyword for attraction:
 * Sapiosexual
 
+## Understanding attraction, social dynamics, and dominance:
+* Aging Well
+* Don’t text your ex happy birthday
+* How to win friends and influence people
+* Fascinate
+* Games people play / other social dynamics books
+* Influence - Robert Cialdini
+* Non-violent communication
+* Robert Green
+  * The 48 laws of power – aka the 48 laws of being an asshole
+  * The art of seduction
+  * The 33 strategies of war
+  * Mastery
+* Shakesphere
+* The Highly Sensitive Person
+* The Red Queen Theory
+* The Selfish Gene - Richard Dawkins
+* The subtle art of not giving a fuck
+
 ## Reading / training resources for getting into shape and attracting people like us:
 * Buy a scale – you can’t change what you don’t measure
 * Crossfit / Industrious / Fit Body gym

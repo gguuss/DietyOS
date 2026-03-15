@@ -6,25 +6,6 @@
 * The Four Hour Work Week
 * The Goal - Eliyahu M. Goldratt
 
-## Understanding attraction, social dynamics, and dominance:
-* Aging Well
-* Don’t text your ex happy birthday
-* How to win friends and influence people
-* Fascinate
-* Games people play / other social dynamics books
-* Influence - Robert Cialdini
-* Non-violent communication
-* Robert Green
-  * The 48 laws of power – aka the 48 laws of being an asshole
-  * The art of seduction
-  * The 33 strategies of war
-  * Mastery
-* Shakesphere
-* The Highly Sensitive Person
-* The Red Queen Theory
-* The Selfish Gene - Richard Dawkins
-* The subtle art of not giving a fuck
-
 ## Fantasy books for understanding justice and power
 * Game of Thrones
 * His Dark Materials

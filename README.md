@@ -9,15 +9,14 @@ Please take these resources with considerations of doubt and I encourage you to 
 These tools, ideas, and insights came from the teachings of many incredible people (books, family, friends, interns and mentees, managers, movies, music, relationships, and teachers) over the course of my life and it would be dishonest for me to take credit for them all (or even any of it). I'm standing on the shoulders of giants and have been given so much help all along the way. I am working on finding the best way to acknowledge all the people who have taught me these lessons. However, I have a feeling that some of the folks would not like crediting so I'll be sensitive and careful. If you notice something in here that you taught me (or just have taught me in any capacity) and would like an acknowledgement, let me know, email the name of the project at ourfriendgus dot com and make sure to include a link so that other people can connect with you. I'll also be working on an appropriate license to protect and share this resource - if I'm in violation of your license, please let me know and I'll do what I can to correct it.
 
 Quick links
-- docs/01-overview.md — Overview & Disclaimer
-- docs/02-foundations.md — Understanding Neurodivergence: Foundations & Behavior
-- docs/03-risks.md — Negative Traits, Spookiest Things, Medical Correlations
-- docs/04-resources.md — Reading, Media, Games, Listening
-- docs/05-attraction.md — Attraction & Shared Interests
-- docs/06-tools.md — Personality & Thought Tools
-- docs/07-contributing.md — Contributing, TODOs, License
-
-Short disclaimer: this repo contains a personal framework and observations. See docs/01-overview.md for full disclaimer and credits.
+* [Overview & Disclaimer](docs/01-overview.md)
+* [Understanding Neurodivergence: Foundations & Behavior](docs/02-foundations.md)
+* [Negative Traits, Spookiest Things, Medical Correlations](docs/03-risks.md)
+* [Reading, Media, Games, Listening](docs/04-resources.md)
+* [Attraction & Shared Interests](docs/05-attraction.md)
+* [Personality & Thought Tools](docs/06-tools.md)
+* [Contributing, TODOs, License](docs/07-contributing.md)
+* [User Resources and Personal Credits](docs/08-user-resources.md)
 
 # Proving that the program is running and effective
 * Journaling including thoughts on your mood and interactions will help you to measure whether this is a good program for you.
