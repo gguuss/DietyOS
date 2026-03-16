@@ -43,6 +43,7 @@
 * I need some space - it's important to give your partner space when they need to be alone and also to recognize when you need some time to yourself to process or focus.
 * It is what it is
 * KonMari Method - this is a system for decluttering
+* LEAP Method - Listen, empathize, agree, partner
 * "Please let me know if there's anything else I can do to help!" - sometimes people aren't aware that you're willing to help, putting the offer out there can allow them to ask.
 * Repeat back what someone says to you in a different way to make sure everybody is on the same page.
 * “Safe spaces” allowing for communication without judgement (read non-violent communication)
