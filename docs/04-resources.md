@@ -250,7 +250,9 @@ Some shows:
 * Korn
 * Jimi Hendrix
 * Justice
+* Lady Gaga
 * Led Zeppelin
+* Lorde
 * Mac Miller
 * MC Chris
 * Metallica
@@ -272,6 +274,8 @@ Some shows:
 * System of a Down
 * The Beatles
 * The Offspring
+* The White Stripes
+* The XX
 * Thought Process
 * Tipper
 * Venetian Snares
