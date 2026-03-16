@@ -58,15 +58,17 @@ Everybody learns differently, some people prefer to watch movies, others prefer 
 
 # Media Resources
 
-## Specific coded movies and shows:
-
 When watching these shows look out for the following lessons:
 * Archetypes of characters
-* Relatedness to characters in the films
 * Feelings you get from the interactions between the characters
+  * Bosses taking advantage of workers
+  * Bullying social dynamics
+  * Gullibility
+* Metaphors for Neurodivergent characters and protagonists
 * Patterns from the foundations section above
+* Relatedness to characters in the films
 
-Some shows:
+## Specific coded movies and shows:
 * 10 feet undera
 * A Beautiful Mind
 * A Scanner Darkly
@@ -130,6 +132,7 @@ Some shows:
 * Love on the Spectrum
 * Magnolia
 * Marvel movies
+* Mean Girls
 * Memento
 * Mr. Robot
 * Office Space
@@ -146,6 +149,7 @@ Some shows:
 * Sense8
 * Seven
 * Short Circuit
+* Solar Opposites
 * Southpark
 * Stanley Kubrick films
   * A Clockwork Orange
@@ -189,15 +193,21 @@ Some shows:
 * Sesame street
 
 ## Comedy
+* Amy Poehler
+* Carol Burnett
 * Chris Rock
 * Dave Chapelle
 * Danny DeVito
 * Eddie Murphy
 * George Carlin
+* Joan Rivers
 * Mitch Hedberg
 * Norm Macdonald
 * Robin Williams
+* Sarah Silverman
 * Steve Carrel
+* Tina Fey
+* Wanda Sykes
 * Will Farrel
 
 ## Specific places that are spectrum coded / travel interests:
@@ -235,6 +245,7 @@ Some shows:
 * Cat Stevens
 * Charlesthefirst
 * Classical music
+* CloZee
 * Deadmau5
 * Def3
 * Deltron 2020
@@ -250,6 +261,7 @@ Some shows:
 * Korn
 * Jimi Hendrix
 * Justice
+* Kreayshawn
 * Lady Gaga
 * Led Zeppelin
 * Lorde
