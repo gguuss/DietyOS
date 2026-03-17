@@ -62,6 +62,7 @@ Everybody learns differently, some people prefer to watch movies, others prefer 
 ## Philosophical resources
 * Mortimer Adler - 6 great ideas
 * The Tao of Pooh
+* The War of Art
 
 
 # Media Resources
