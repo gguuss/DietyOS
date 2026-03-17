@@ -77,6 +77,7 @@ When watching these shows look out for the following lessons:
 * American Beauty
 * Anime (pretty much all of it)
 * Aqua Team Hunger Force
+* Atypical
 * Avatar
 * Arrested Development
 * Baby Geniuses
