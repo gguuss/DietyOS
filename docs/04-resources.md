@@ -3,11 +3,14 @@ Everybody learns differently, some people prefer to watch movies, others prefer 
 
 # Reading Resources
 
-## Understanding thought patterns, success, and productivity
+## Understanding creative thought patterns, success, and productivity
+* The Artist Way
 * Godel, Escher, Bach
 * Critical Path - R. Buckminster Fuller
 * The Four Hour Work Week
 * The Goal - Eliyahu M. Goldratt
+* The Highly Sensitive
+* The War of Art
 
 ## Fantasy books for understanding justice and power
 * Game of Thrones
@@ -33,11 +36,11 @@ Everybody learns differently, some people prefer to watch movies, others prefer 
 
 ## Reading resources for Psychology and understanding our thought patterns
 * An Unquiet Mind
-* Jungian Psychology
 * DSM manuals
+* How to Stop Being Toxic
+* Jungian Psychology
+* The Structure of Magic (I & II), Frogs into Princes, Trance-formations, and Reframing - Bandler and Grinder
 * Training Dogs
-* Bandler and Grinder
-  * The Structure of Magic (I & II), Frogs into Princes, Trance-formations, and Reframing 
 
 ## Reading resources for puzzles, scifi, and conspiracy relevant interests:
 * Andy Weird books
@@ -62,8 +65,6 @@ Everybody learns differently, some people prefer to watch movies, others prefer 
 ## Philosophical resources
 * Mortimer Adler - 6 great ideas
 * The Tao of Pooh
-* The War of Art
-
 
 # Media Resources
 
