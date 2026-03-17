@@ -14,6 +14,7 @@ Everybody learns differently, some people prefer to watch movies, others prefer 
 * His Dark Materials
 * Mr. Penumbra's 24-Hour Bookstore
 * The Lion the Witch and the Wardrobe
+* The Magicians Trilogy = Lev Grossman
 * The Phantom Tollbooth
 * The Wheel of Time
 
@@ -31,6 +32,7 @@ Everybody learns differently, some people prefer to watch movies, others prefer 
 * Quantum Mechanics
 
 ## Reading resources for Psychology and understanding our thought patterns
+* An Unquiet Mind
 * Jungian Psychology
 * DSM manuals
 * Training Dogs
@@ -38,18 +40,24 @@ Everybody learns differently, some people prefer to watch movies, others prefer 
   * The Structure of Magic (I & II), Frogs into Princes, Trance-formations, and Reframing 
 
 ## Reading resources for puzzles, scifi, and conspiracy relevant interests:
+* Andy Weird books
 * Dan Brown Books
   * The Secret of Secrets
 * Daniel Suarez books
 * Dune books
 * Ender's Game / Ender's Shadow
+* Martha Wells books
+  * The Murderbot Diaries
+* Neil Gaimon books
+* Neil Stephenson books
 * Ray Kurzweil books
+* Ramez Naam - Nexus Trilogy
 * Star Wars books
 * Romance books
-* Nexus Trilogy
 * The Illuminatus Trilogy
 * The star wars books
 * The Pythagoreans and related lore
+  * Tetraktys by Ari Jules
 
 ## Philosophical resources
 * Mortimer Adler - 6 great ideas
