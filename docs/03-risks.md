@@ -1,7 +1,7 @@
 # Risks and Risk Factors
 
 ## Negative traits / things to look out for that come with our complex behaviors:
-These traits are all well and good to some degree as they are adaptations and natural responses that your mind puts your body through to change your behavior. However if the traits persist for too long or go unchecked they are healthy and will have an adverse and prolonged effect on your happiness.
+These traits are all well and good to some degree as they are adaptations and natural responses that your mind puts your body through to change your behavior. However if the traits persist for too long or go unchecked they are healthy and will have an adverse and prolonged effect on your happiness. I like to think of the negative traits as those that are potentially positive that have gone past the point of their usefulness, you can weild these as strenghts once you're aware of them.
 
 * Anxiety – focusing too much on the future
 * Codependence – harassing your partner when they are asking for space and using coercion to try and get their attention
@@ -36,8 +36,8 @@ These traits are all well and good to some degree as they are adaptations and na
   * Throwing things into people’s rooms / intentionally creating drama and problems
   * Raising your voice when angry
   * Punishing your partner through withdrawal / becoming non-communicative
-  * Retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
-* Retaliation - Responding to feelings of being injusted with coercive resolutions. It's also possible through mental gymnastics to retaliate against people for helping (a theme of the Ender's Shadow series) - this could come from an inferiority complex.
+  * Passive aggressive retaliation – tit for tat logic, like you did this so I must make it even by doing that to make it even
+* Retaliation (on its own) - Responding to feelings of being injusted with coercive resolutions. It's also possible through mental gymnastics to retaliate against people for helping (a theme of the Ender's Shadow series) - this could come from an inferiority complex.
 * Spiraling – Thinking about the same thing over and over and over and over and over
 * Stalking – when it’s over, it needs to be over, you should let it go and leave folks alone
 * Stealing other people's ideas - it's important to give credit where credit is due and acknowledge that we are "standing on the shoulders of giants" when building new things
