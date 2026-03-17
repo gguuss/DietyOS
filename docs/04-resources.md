@@ -1,5 +1,5 @@
 # Resources
-Everybody learns differently, some people prefer to watch movies, others prefer to listen to stories, others like to do things kinesthetically (sports or physical puzzles like the Rubik's cube). You should learn in the way that you enjoy, prefer, or that works for you and don't feel like you need to learn through what works for other people.
+Everybody learns differently, some people prefer to watch movies, others prefer to listen to stories, others like to do things kinesthetically (sports or physical puzzles like the Rubik's cube). You should learn in the way that you enjoy, prefer, or that works for you and don't feel like you need to learn through what works for other people. Also regarding these resources, they will carry different meanings to you at different points in your life: sometimes you will need to hear the message later so if something doesn't resonate with you the first time you take a look at it, give it another chance at another time.
 
 # Reading Resources
 
