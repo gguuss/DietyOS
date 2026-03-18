@@ -265,6 +265,7 @@ When watching these shows look out for the following lessons:
 * Eminem
 * Forrest Gump Soundtrack
 * Gessafelstein
+* Honeycomb
 * ill.Gates
 * Infected Mushroom
 * Jazz Music
@@ -277,6 +278,7 @@ When watching these shows look out for the following lessons:
 * Led Zeppelin
 * Lorde
 * Mac Miller
+* Marc Rebillet
 * MC Chris
 * Metallica
 * MF Doom
@@ -287,6 +289,7 @@ When watching these shows look out for the following lessons:
 * Notorious BIG
 * Pink Floyd
 * Radiohead
+* Reggie Watts
 * Rob Couth
 * Rolling Stones
 * Rusko
