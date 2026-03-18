@@ -156,6 +156,7 @@ When watching these shows look out for the following lessons:
 * Ren and Stimpy
 * Rick and Morty
 * Robot Chicken
+* Roofman
 * Scott Pilgrim vs the World
 * Sense8
 * Seven
@@ -286,6 +287,7 @@ When watching these shows look out for the following lessons:
 * Mr. Bill
 * Mr. Traumatik
 * Nirvana
+* No Doubt
 * Notorious BIG
 * Pink Floyd
 * Radiohead
