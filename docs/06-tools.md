@@ -112,6 +112,7 @@
 ## Powerful affirmations / ice breakers / compliments / truthisms
 * Be excellent to each other!
 * Don't panic!
+* I'm doing my best.
 * I like your art!
 * I love you
 * I love myself
@@ -119,9 +120,13 @@
 * Let's goooooo
 * Life is rad
 * Riddles
+* They're doing their best. [1]
+* We're doing our best. 
 * You are enough
 * You are smart
 * You have good taste!
+
+[1]Note: Sometimes it's possible that you are not communicating a need that must be fulfilled when assuming people are doing their best. People on the neurodivergent spectrum have a tendency to suffer from the "Theory of mind" problem where they assume that everybody has the same information and knowledge that they have.
 
 ## Having a bad day? These songs could help cheer you up
 * [Caribou - You can do it](https://www.youtube.com/watch?v=VrPVSz3bBq4)
