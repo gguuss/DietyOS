@@ -41,6 +41,19 @@
 * We form cliques and have meetings of the minds (Friendsgiving, Garden Parties)
 * We have more meaningful communication, more clear and understood communication, especially when we understand ourselves and others
 
+## Developmental Indicators
+
+### 12-24 Months
+* Disobedience - Not responding to discipline / challenges with authority
+* Eye contact - Lack of eye contact / little or no eye contact
+* Joint attention - Not responding to the social cues of other children and following
+* Lack of Reciprocity - Having difficulty giving back
+* Language
+  * Expressive language - Not using words in a meaningful way
+  * Receiptive language - Little response to what is said to them
+    * This leads to hearing checks to isolate variables about the symptoms (being 
+* Less likely to participate and understand pretend play
+
 ## Odd side effects of being on the spectrum
 * Athletically gifted and able to use mind for awesome power like healing, feats of strength, feats of endurance, fighting, getting into incredible shape, aging gracefully (looking young for your age) (it’s real, your mind is very powerful)
 * Prone to hyper fixation on certain genetic traits, e.g. fetishes
