@@ -17,6 +17,7 @@
 * Extreme sense of “justice”
 * Extremely productive, oftentimes prefer to work alone even on extremely large projects
 * Having expectations met or not (e.g. liking surprises or not liking to be surprised)
+* Getting into familiar routines that have repetitive movements, activities, and patterns.
 * Gullibility - falling for people lying to us / overly trusting
 * Isolation - stemming from feelings of not being understood and not belonging, we can isolate ourselves. Along with isolation can come loneliness and a downward spiral of not fixing the problem by finding people and being social. Additionally, social interactions can be tiring and wearing if we are frustrated from the interactions.
 * Intuition - Getting feelings about things that once you understand the feelings explain the feeling.
