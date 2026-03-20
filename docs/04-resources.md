@@ -94,6 +94,7 @@ When watching these shows look out for the following lessons:
 * Baseketball
 * Beavis and Butthead
 * Bill and Ted's Excellent Adventure
+* Blade Runner
 * Bob’s Burgers
 * Breaking Bad
 * Cable guy
@@ -104,6 +105,7 @@ When watching these shows look out for the following lessons:
 * Curb Your Enthusiasm
 * Death to Smoochy
 * Disney / Marvel content and movies
+* Do Androids Dream of Electric Sheep
 * Dogma
 * Donny Darko
 * Dragonball Z
