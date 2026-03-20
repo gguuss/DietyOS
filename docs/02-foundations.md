@@ -13,6 +13,7 @@
 * Despite having a lot of mental capacity and skills, we frequently struggle with learning because we process information differently and suffer from the following issues:
   * Overthinking - when information is incomplete, we struggle to trust it, it is essential when training neurodivergent people to tell them *why* you must do something, and use words like because to help them solidify the rationale of the information.
   * Needing to have a depth-first approach to information, we can't just trust the top level information in the hierarchies of knowledge.
+* Difficulty with empathy - Neurodivergent people have difficulty being empathetic at first; however, once understanding why you they be empathetic, they tend to become very empathetic!
 * Exceptional / refined taste in art and food / strongly polarized interests in platforms, food, etc
 * Extreme sense of “justice”
 * Extremely productive, oftentimes prefer to work alone even on extremely large projects
