@@ -15,6 +15,7 @@
   * Needing to have a depth-first approach to information, we can't just trust the top level information in the hierarchies of knowledge.
 * Difficulty with empathy - Neurodivergent people have difficulty being empathetic at first; however, once understanding why you they be empathetic, they tend to become very empathetic!
 * Exceptional / refined taste in art and food / strongly polarized interests in platforms, food, etc
+* Executive dysfunction - struggles with task initiation, time management, and multitasking, frequently resulting in overwhelming feelings of being stuck. 
 * Extreme sense of “justice”
 * Extremely productive, oftentimes prefer to work alone even on extremely large projects
 * Having expectations met or not (e.g. liking surprises or not liking to be surprised)
