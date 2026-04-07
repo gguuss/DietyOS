@@ -105,6 +105,7 @@ When watching these shows look out for the following lessons:
 * Curb Your Enthusiasm
 * Death to Smoochy
 * Disney / Marvel content and movies
+* Disenchantment
 * Do Androids Dream of Electric Sheep
 * Dogma
 * Donny Darko
