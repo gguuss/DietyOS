@@ -88,6 +88,7 @@
 * Manifesting and vision boarding - Imagining the outcome that you want and focusing on the path to that outcome.
 * Mentoring - "The teacher learns twice."
 * Mind palace - having a place in your mind that you meditate on and manifest in
+* "No Hello" - Startng a conversation without context can create anxiety for the recipient. You should be considerate and invest the time in providing context when initiating conversations.
 * Pronoia – Playing a game where you pretend that everyone and the universe are trying to help you.
 * Playing games - turning things into games transforms them from being frustrating to being fun
   * Threading the needle - getting as close to some objective as possible
