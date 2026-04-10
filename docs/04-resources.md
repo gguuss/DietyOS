@@ -176,6 +176,7 @@ When watching these shows look out for the following lessons:
 * Team America World Police
 * Tenet
 * Terminator 2
+* The A-TEAM
 * The Accountant
 * The Big Lebowski
 * The Congress
