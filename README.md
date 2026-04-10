@@ -1,5 +1,5 @@
 # DietyOS
-This aspires to be a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships.
+This aspires to be a neurolinguistic program to help neurodivergent people understand themselves and improve their relationships. For now it's pretty much a field guide to my experiences and understandings.
 
 ## Important Disclaimer ##
 I am not a therapist, I have not evaluated or tested this framework and these ideas.
