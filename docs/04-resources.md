@@ -165,6 +165,7 @@ When watching these shows look out for the following lessons:
 * Sense8
 * Seven
 * Short Circuit
+* Ski Patrol
 * Solar Opposites
 * Southpark
 * Stanley Kubrick films
