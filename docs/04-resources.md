@@ -156,6 +156,7 @@ When watching these shows look out for the following lessons:
 * Popeye
 * Rainman
 * Ready Player One
+* Real Science
 * Ren and Stimpy
 * Rick and Morty
 * Robot Chicken
