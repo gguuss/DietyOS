@@ -59,8 +59,8 @@
 * Drink water, eat good food, avoid bad things like alcohol and junk.
 * Don't spend too much time doomscrolling, watching bad programming, or habitually enjoying low-value material.
 * Exercise regularly.
-* It takes about a month to establish a good habit, track your progress using a calendar and explore systems such as assigning scores to how healthy you are / have been to remain honest with yourself while you change your habits.
-* Addiction is a serious risk and it's important to understand within yourself if your habits are out of hand. 12-step programs and rehab work and should be adopted should you get too deep into bad habits and negative health patterns.
+* It takes about a month to establish a good habit; track your progress using a calendar and explore systems such as assigning scores to how healthy you are / have been, to remain honest with yourself while you change your habits.
+* Addiction is a serious risk and it's important to understand within yourself if your habits are out of hand. 12-step programs and rehab work and should be adopted should you get too deep into bad habits and negative health patterns. In cases of addiction, the first attempt to correct a negative behavior may not stick; keep trying and accept the things you can't change and be patient with yourself.
 
 ## Powerful tools and adages for performance and combating ego, frustration, lonliness, and pain
 * [10 Principles](https://burningman.org/about-us/10-principles/)
