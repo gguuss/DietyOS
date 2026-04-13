@@ -54,6 +54,14 @@
 * "We're doing our best." Everybody has different abilities and could be having a difficult day, sometimes we feel like those around us are intentionally sabotaging our goals but this is *rarely* the case. Ackowledging that folks around you are trying their best and may not be as effective as you (or understand your goal) will help you empathize with them not being aligned to your goal.
 * "You can lead a horse to water but you can't make them drink"
 
+## Health
+* Health is of paramount importance to our being and state of mind, it is extremely important to prioritize physical and mental health in your life.
+* Drink water, eat good food, avoid bad things like alcohol and junk.
+* Don't spend too much time doomscrolling, watching bad programming, or habitually enjoying low-value material.
+* Exercise regularly.
+* It takes about a month to establish a good habit, track your progress using a calendar and explore systems such as assigning scores to how healthy you are / have been to remain honest with yourself while you change your habits.
+* Addiction is a serious risk and it's important to understand within yourself if your habits are out of hand. 12-step programs and rehab work and should be adopted should you get too deep into bad habits and negative health patterns.
+
 ## Powerful tools and adages for performance and combating ego, frustration, lonliness, and pain
 * [10 Principles](https://burningman.org/about-us/10-principles/)
 * All things in moderation including moderation. It's important to find balance in your life and this can help.
