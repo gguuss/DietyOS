@@ -129,6 +129,13 @@
 
 [1]Note: Sometimes it's possible that you are not communicating a need that must be fulfilled when assuming people are doing their best. People on the neurodivergent spectrum have a tendency to suffer from the "Theory of mind" problem where they assume that everybody has the same information and knowledge that they have.
 
+## Useful methodologies for cleanliness
+* Note that you should avoid overthinking cleanliness, creating thought patterns of this can lead to obsessive compulsive behaviors
+* If you pick up more things than you leave around, your place will become cleaner
+* Always try and do more to make things cleaner than dirtier, it's cleanliness karma
+* Leave it better than you found it, take responsibility for having a clean space
+* Bi-polar cleanliness habits are harder to keep up than "constant gardening" - enjoy occasionally picking up and try to avoid letting things get out of hand
+
 ## Having a bad day? These songs could help cheer you up
 * [Caribou - You can do it](https://www.youtube.com/watch?v=VrPVSz3bBq4)
 * [The Flaming Lips - Yeah yeah yeah](https://www.youtube.com/watch?v=kjrUOlK2714)
