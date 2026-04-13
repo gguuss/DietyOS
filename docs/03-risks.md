@@ -1,7 +1,7 @@
 # Risks and Risk Factors
 
 ## Negative traits / things to look out for that come with our complex behaviors:
-These traits are all well and good to some degree as they are adaptations and natural responses that your mind puts your body through to change your behavior. However if the traits persist for too long or go unchecked they are healthy and will have an adverse and prolonged effect on your happiness. I like to think of the negative traits as those that are potentially positive that have gone past the point of their usefulness, you can weild these as strenghts once you're aware of them.
+These traits are all well and good to some degree as they are adaptations and natural responses that your mind puts your body through to change your behavior. However if the traits persist for too long or go unchecked they are unhealthy and will have an adverse and prolonged effect on your happiness. I like to think of the negative traits as those that are potentially positive that have gone past the point of their usefulness, you can weild these as strenghts once you're aware of them.
 
 * Anxiety – focusing too much on the future
 * Codependence – harassing your partner when they are asking for space and using coercion to try and get their attention
