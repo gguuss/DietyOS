@@ -66,7 +66,7 @@
   * Replace drinking and going out and partying with playing games with your friends.
   * Take on exercise as a hobby to spend your time getting stronger and healthier instead of wasting / rotting at home.
 * Religion, meditation, yoga, and other organized programs help you to be more social, connected, and encourage positive habits and behaviors.
-  * Note that it is important to pay attention to the motivations of the people involved in these programs to avoid getting coerced or taken advantage of (bad programs are effectively cults, good programs are positive social and health programming). Signals such as unusually expensive programs should be paid attention to - there is no reason a program should expect complete subjugation or demand unusual amounts of time or money from you.
+  * Note that it is important to pay attention to the motivations of the people involved in these programs to avoid getting coerced or taken advantage of (bad programs are effectively cults, good programs are positive social and health programming). Signals such as unusually expensive programs should be paid attention to - there is no reason a program should expect complete subjugation or demand unusual amounts of time or money from you. The best programs should allow for greater flexibility and interpretation of their doctrines and make monetary participation optional.
 
 ## Powerful tools and adages for performance and combating ego, frustration, lonliness, and pain
 * [10 Principles](https://burningman.org/about-us/10-principles/)
