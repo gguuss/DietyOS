@@ -5,6 +5,7 @@
 * Neurodivergence affects the sensory experience of the world some people on the neurodivergent spectrum have heightened senses in some ways and filtered senses in other ways. This can cause things like sensitivity to certain types of lighting, an aversion to sounds or smells, or sensitivity to the movement of objects and people.
 * Neurodivergence is a spectrum, some people have "more" of it and some have less. I like to think of it using a belt system like in martial arts, some of us are white belts and some of us are more advanced black belts. I don't understand the phenomena well enough to fully articulate the belts and degrees of abilities and complications but I hope you like and understand the metaphor and would like some day to have a more complete classification.
 * The traits of neurodiverse people overlap with those who are not which can make understanding and classifying a person as neurodivergent quite complicated. Additionally, cultural factors and societal norms further complicate diagnosis: for example, in some cultures it is considered rude to make eye contact.
+* Although we oftentimes associate Neurodivergence with the extreme cases where folks are dysfunctional, the spectrum of behaviors in many (or most) cases are not readily apparent.
 
 ## Behavior patterns
 * A certain clicking sensation when communicating with similar people
