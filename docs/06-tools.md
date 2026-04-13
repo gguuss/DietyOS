@@ -67,6 +67,8 @@
   * Take on exercise as a hobby to spend your time getting stronger and healthier instead of wasting / rotting at home.
 * Religion, meditation, yoga, and other organized programs help you to be more social, connected, and encourage positive habits and behaviors.
   * Note that it is important to pay attention to the motivations of the people involved in these programs to avoid getting coerced or taken advantage of (bad programs are effectively cults, good programs are positive social and health programming). Signals such as unusually expensive programs should be paid attention to - there is no reason a program should expect complete subjugation or demand unusual amounts of time or money from you. The best programs should allow for greater flexibility and interpretation of their doctrines and make monetary participation optional.
+* The best, most healthy things are oftentimes the most difficult ones to do. If something is hard for you to do, take this as a signal that you are potentially doing something that is good but that is just difficult. Enjoy the struggle and pay attention to how you grow and become stronger from the effort.
+* Reward yourself for adopting good habits and maintaining your health with healthy rewards. Getting fast food after working out is not as effective as having a healthy shake with the things your body needs to recover - using the positivity spiral of rewarding good habits with other good habits is a great way to magnify the benefits of healthy choices.
 
 ## Powerful tools and adages for performance and combating ego, frustration, lonliness, and pain
 * [10 Principles](https://burningman.org/about-us/10-principles/)
