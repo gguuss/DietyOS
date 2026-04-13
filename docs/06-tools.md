@@ -135,6 +135,7 @@
 * Always try and do more to make things cleaner than dirtier, it's cleanliness karma
 * Leave it better than you found it, take responsibility for having a clean space
 * Bi-polar cleanliness habits are harder to keep up than "constant gardening" - enjoy occasionally picking up and try to avoid letting things get out of hand
+* Always put things back to where they were, habitually placing things to where they rest can be helpful, labeling where things go helps other people know where they belong
 
 ## Having a bad day? These songs could help cheer you up
 * [Caribou - You can do it](https://www.youtube.com/watch?v=VrPVSz3bBq4)
