@@ -55,7 +55,7 @@
 * "You can lead a horse to water but you can't make them drink"
 
 ## Health
-* Health is of paramount importance to our being and state of mind, it is extremely important to prioritize physical and mental health in your life.
+* Health is of paramount importance to our wellbeing and state of mind, it is extremely important to prioritize physical and mental health in your life.
 * Drink water, eat good food, avoid bad things like alcohol and junk.
 * Don't spend too much time doomscrolling, watching bad programming, or habitually enjoying low-value material.
 * Exercise regularly.
@@ -65,10 +65,15 @@
   * Replace doomscrolling and social media with reading books.
   * Replace drinking and going out and partying with playing games with your friends.
   * Take on exercise as a hobby to spend your time getting stronger and healthier instead of wasting / rotting at home.
+  * Replace drinking alcohol with drinking things like adaptogen drinks that don't have the negative health side-effects.
 * Religion, meditation, yoga, and other organized programs help you to be more social, connected, and encourage positive habits and behaviors.
   * Note that it is important to pay attention to the motivations of the people involved in these programs to avoid getting coerced or taken advantage of (bad programs are effectively cults, good programs are positive social and health programming). Signals such as unusually expensive programs should be paid attention to - there is no reason a program should expect complete subjugation or demand unusual amounts of time or money from you. The best programs should allow for greater flexibility and interpretation of their doctrines and make monetary participation optional.
 * The best, most healthy things are oftentimes the most difficult ones to do. If something is hard for you to do, take this as a signal that you are potentially doing something that is good but that is just difficult. Enjoy the struggle and pay attention to how you grow and become stronger from the effort.
 * Reward yourself for adopting good habits and maintaining your health with healthy rewards. Getting fast food after working out is not as effective as having a healthy shake with the things your body needs to recover - using the positivity spiral of rewarding good habits with other good habits is a great way to magnify the benefits of healthy choices.
+* Setting goals and having hard objectives will help you focus on your healthy habits. For example, if you want to get in shape, sign up for a competitive event that is a realistic for you to achieve. A great example of this is endurance training - training for a marathon or long-distance bike ride will put a little fire in your butt to consistently train and ensure you have a safe and positive experience for the event.
+  * Find training programs and intermediate goals; for example, training for an Iron Man would mean training for a half Iron Man first. Consider looking into the training programs for your goal to see if you can realistically achieve them with your current lifestyle.
+* Find healthy habits that you enjoy - if you are miserable doing the healthy thing, you probably picked the wrong one.
+* Everything in moderation including moderation. We oftentimes enjoy a diversity of experiences, activities, and hobbies so explore. Try new things to find what you like. It can also be rewarding to enjoy the breadth of the things that you enjoy; for example if you make music in one genre of music try making music in other genres to keep things interesting.
 
 ## Powerful tools and adages for performance and combating ego, frustration, lonliness, and pain
 * [10 Principles](https://burningman.org/about-us/10-principles/)
