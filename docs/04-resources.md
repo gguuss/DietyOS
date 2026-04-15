@@ -147,7 +147,9 @@ When watching these shows look out for the following lessons:
 * Magnolia
 * Marvel movies
 * Mean Girls
+* Mel Brooks films
 * Memento
+* Monty Python Movies
 * Mr. Robot
 * Office Space
 * People Just Do Nothing
